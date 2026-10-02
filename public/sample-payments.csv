@@ -1,0 +1,2468 @@
+customer_id,name,signup_month,channel,plan,month,revenue,service_cost,acquisition_cost
+C0001,Orbit Studio 001,2025-01,Organic,Starter,2025-01,49,10.76,77
+C0001,Orbit Studio 001,2025-01,Organic,Starter,2025-02,49,10.76,0
+C0001,Orbit Studio 001,2025-01,Organic,Starter,2025-03,49,10.76,0
+C0001,Orbit Studio 001,2025-01,Organic,Starter,2025-04,49,10.76,0
+C0002,Slate Labs 002,2025-01,Paid search,Scale,2025-01,199,66.28,260
+C0002,Slate Labs 002,2025-01,Paid search,Scale,2025-02,199,66.28,0
+C0002,Slate Labs 002,2025-01,Paid search,Scale,2025-03,199,66.28,0
+C0002,Slate Labs 002,2025-01,Paid search,Scale,2025-04,199,66.28,0
+C0002,Slate Labs 002,2025-01,Paid search,Scale,2025-05,199,66.28,0
+C0002,Slate Labs 002,2025-01,Paid search,Scale,2025-06,199,66.28,0
+C0002,Slate Labs 002,2025-01,Paid search,Scale,2025-07,199,66.28,0
+C0002,Slate Labs 002,2025-01,Paid search,Scale,2025-08,199,66.28,0
+C0002,Slate Labs 002,2025-01,Paid search,Scale,2025-09,199,66.28,0
+C0003,Mosaic Systems 003,2025-01,Organic,Scale,2025-01,199,42.37,96
+C0003,Mosaic Systems 003,2025-01,Organic,Scale,2025-02,199,42.37,0
+C0004,Cedar Labs 004,2025-01,Paid search,Scale,2025-01,199,69.28,275
+C0004,Cedar Labs 004,2025-01,Paid search,Scale,2025-02,199,69.28,0
+C0004,Cedar Labs 004,2025-01,Paid search,Scale,2025-03,199,69.28,0
+C0004,Cedar Labs 004,2025-01,Paid search,Scale,2025-04,199,69.28,0
+C0004,Cedar Labs 004,2025-01,Paid search,Scale,2025-05,199,69.28,0
+C0004,Cedar Labs 004,2025-01,Paid search,Scale,2025-06,199,69.28,0
+C0004,Cedar Labs 004,2025-01,Paid search,Scale,2025-07,199,69.28,0
+C0004,Cedar Labs 004,2025-01,Paid search,Scale,2025-08,199,69.28,0
+C0004,Cedar Labs 004,2025-01,Paid search,Scale,2025-09,199,69.28,0
+C0004,Cedar Labs 004,2025-01,Paid search,Scale,2025-10,199,69.28,0
+C0004,Cedar Labs 004,2025-01,Paid search,Scale,2025-11,199,69.28,0
+C0004,Cedar Labs 004,2025-01,Paid search,Scale,2025-12,199,69.28,0
+C0005,Northstar Labs 005,2025-01,Referral,Starter,2025-01,49,8.53,60
+C0005,Northstar Labs 005,2025-01,Referral,Starter,2025-02,49,8.53,0
+C0005,Northstar Labs 005,2025-01,Referral,Starter,2025-03,49,8.53,0
+C0005,Northstar Labs 005,2025-01,Referral,Starter,2025-04,49,8.53,0
+C0005,Northstar Labs 005,2025-01,Referral,Starter,2025-05,49,8.53,0
+C0005,Northstar Labs 005,2025-01,Referral,Starter,2025-06,49,8.53,0
+C0005,Northstar Labs 005,2025-01,Referral,Starter,2025-07,49,8.53,0
+C0005,Northstar Labs 005,2025-01,Referral,Starter,2025-08,49,8.53,0
+C0005,Northstar Labs 005,2025-01,Referral,Starter,2025-09,49,8.53,0
+C0005,Northstar Labs 005,2025-01,Referral,Starter,2025-10,49,8.53,0
+C0005,Northstar Labs 005,2025-01,Referral,Starter,2025-11,49,8.53,0
+C0005,Northstar Labs 005,2025-01,Referral,Starter,2025-12,49,8.53,0
+C0006,Willow Labs 006,2025-01,Paid search,Starter,2025-01,49,18.12,346
+C0006,Willow Labs 006,2025-01,Paid search,Starter,2025-02,49,18.12,0
+C0006,Willow Labs 006,2025-01,Paid search,Starter,2025-03,49,18.12,0
+C0007,Beacon Studio 007,2025-01,Paid search,Starter,2025-01,49,17.65,345
+C0008,Forma Digital 008,2025-01,Paid search,Scale,2025-01,199,72.92,300
+C0008,Forma Digital 008,2025-01,Paid search,Scale,2025-02,199,72.92,0
+C0008,Forma Digital 008,2025-01,Paid search,Scale,2025-03,199,72.92,0
+C0008,Forma Digital 008,2025-01,Paid search,Scale,2025-04,199,72.92,0
+C0008,Forma Digital 008,2025-01,Paid search,Scale,2025-05,199,72.92,0
+C0008,Forma Digital 008,2025-01,Paid search,Scale,2025-06,199,72.92,0
+C0008,Forma Digital 008,2025-01,Paid search,Scale,2025-07,199,72.92,0
+C0008,Forma Digital 008,2025-01,Paid search,Scale,2025-08,199,72.92,0
+C0008,Forma Digital 008,2025-01,Paid search,Scale,2025-09,199,72.92,0
+C0009,Atlas Labs 009,2025-01,Organic,Growth,2025-01,99,21.79,78
+C0009,Atlas Labs 009,2025-01,Organic,Growth,2025-02,99,21.79,0
+C0009,Atlas Labs 009,2025-01,Organic,Growth,2025-03,99,21.79,0
+C0009,Atlas Labs 009,2025-01,Organic,Growth,2025-04,99,21.79,0
+C0009,Atlas Labs 009,2025-01,Organic,Growth,2025-05,99,21.79,0
+C0009,Atlas Labs 009,2025-01,Organic,Growth,2025-06,99,21.79,0
+C0009,Atlas Labs 009,2025-01,Organic,Growth,2025-07,99,21.79,0
+C0009,Atlas Labs 009,2025-01,Organic,Growth,2025-08,99,21.79,0
+C0009,Atlas Labs 009,2025-01,Organic,Growth,2025-09,99,21.79,0
+C0009,Atlas Labs 009,2025-01,Organic,Growth,2025-10,99,21.79,0
+C0009,Atlas Labs 009,2025-01,Organic,Growth,2025-11,99,21.79,0
+C0009,Atlas Labs 009,2025-01,Organic,Growth,2025-12,99,21.79,0
+C0010,Bloom Works 010,2025-01,Partnerships,Starter,2025-01,49,12.03,147
+C0010,Bloom Works 010,2025-01,Partnerships,Starter,2025-02,49,12.03,0
+C0010,Bloom Works 010,2025-01,Partnerships,Starter,2025-03,49,12.03,0
+C0010,Bloom Works 010,2025-01,Partnerships,Starter,2025-04,49,12.03,0
+C0010,Bloom Works 010,2025-01,Partnerships,Starter,2025-05,49,12.03,0
+C0010,Bloom Works 010,2025-01,Partnerships,Starter,2025-06,49,12.03,0
+C0011,Kinfolk Design 011,2025-01,Referral,Growth,2025-01,99,21.57,54
+C0011,Kinfolk Design 011,2025-01,Referral,Growth,2025-02,99,21.57,0
+C0011,Kinfolk Design 011,2025-01,Referral,Growth,2025-03,99,21.57,0
+C0011,Kinfolk Design 011,2025-01,Referral,Growth,2025-04,99,21.57,0
+C0011,Kinfolk Design 011,2025-01,Referral,Growth,2025-05,99,21.57,0
+C0011,Kinfolk Design 011,2025-01,Referral,Growth,2025-06,99,21.57,0
+C0011,Kinfolk Design 011,2025-01,Referral,Growth,2025-07,99,21.57,0
+C0011,Kinfolk Design 011,2025-01,Referral,Growth,2025-08,99,21.57,0
+C0011,Kinfolk Design 011,2025-01,Referral,Growth,2025-09,99,21.57,0
+C0011,Kinfolk Design 011,2025-01,Referral,Growth,2025-10,99,21.57,0
+C0011,Kinfolk Design 011,2025-01,Referral,Growth,2025-11,99,21.57,0
+C0011,Kinfolk Design 011,2025-01,Referral,Growth,2025-12,99,21.57,0
+C0012,Lumen Design 012,2025-01,Partnerships,Starter,2025-01,49,13.05,163
+C0012,Lumen Design 012,2025-01,Partnerships,Starter,2025-02,49,13.05,0
+C0012,Lumen Design 012,2025-01,Partnerships,Starter,2025-03,49,13.05,0
+C0012,Lumen Design 012,2025-01,Partnerships,Starter,2025-04,49,13.05,0
+C0012,Lumen Design 012,2025-01,Partnerships,Starter,2025-05,49,13.05,0
+C0012,Lumen Design 012,2025-01,Partnerships,Starter,2025-06,49,13.05,0
+C0012,Lumen Design 012,2025-01,Partnerships,Starter,2025-07,49,13.05,0
+C0012,Lumen Design 012,2025-01,Partnerships,Starter,2025-08,49,13.05,0
+C0012,Lumen Design 012,2025-01,Partnerships,Starter,2025-09,49,13.05,0
+C0012,Lumen Design 012,2025-01,Partnerships,Starter,2025-10,49,13.05,0
+C0012,Lumen Design 012,2025-01,Partnerships,Starter,2025-11,49,13.05,0
+C0012,Lumen Design 012,2025-01,Partnerships,Starter,2025-12,49,13.05,0
+C0013,Tandem Labs 013,2025-01,Paid search,Growth,2025-01,99,32.28,304
+C0014,Olive Systems 014,2025-01,Organic,Starter,2025-01,49,11.06,94
+C0014,Olive Systems 014,2025-01,Organic,Starter,2025-02,49,11.06,0
+C0014,Olive Systems 014,2025-01,Organic,Starter,2025-03,49,11.06,0
+C0014,Olive Systems 014,2025-01,Organic,Starter,2025-04,49,11.06,0
+C0014,Olive Systems 014,2025-01,Organic,Starter,2025-05,49,11.06,0
+C0014,Olive Systems 014,2025-01,Organic,Starter,2025-06,58.8,13.27,0
+C0014,Olive Systems 014,2025-01,Organic,Starter,2025-07,58.8,13.27,0
+C0014,Olive Systems 014,2025-01,Organic,Starter,2025-08,58.8,13.27,0
+C0014,Olive Systems 014,2025-01,Organic,Starter,2025-09,58.8,13.27,0
+C0014,Olive Systems 014,2025-01,Organic,Starter,2025-10,58.8,13.27,0
+C0014,Olive Systems 014,2025-01,Organic,Starter,2025-11,58.8,13.27,0
+C0014,Olive Systems 014,2025-01,Organic,Starter,2025-12,58.8,13.27,0
+C0015,Sunday & Co. 015,2025-01,Partnerships,Starter,2025-01,49,13.87,149
+C0015,Sunday & Co. 015,2025-01,Partnerships,Starter,2025-02,49,13.87,0
+C0015,Sunday & Co. 015,2025-01,Partnerships,Starter,2025-03,49,13.87,0
+C0015,Sunday & Co. 015,2025-01,Partnerships,Starter,2025-04,49,13.87,0
+C0015,Sunday & Co. 015,2025-01,Partnerships,Starter,2025-05,49,13.87,0
+C0015,Sunday & Co. 015,2025-01,Partnerships,Starter,2025-06,49,13.87,0
+C0015,Sunday & Co. 015,2025-01,Partnerships,Starter,2025-07,49,13.87,0
+C0015,Sunday & Co. 015,2025-01,Partnerships,Starter,2025-08,49,13.87,0
+C0015,Sunday & Co. 015,2025-01,Partnerships,Starter,2025-09,49,13.87,0
+C0015,Sunday & Co. 015,2025-01,Partnerships,Starter,2025-10,49,13.87,0
+C0015,Sunday & Co. 015,2025-01,Partnerships,Starter,2025-11,49,13.87,0
+C0016,Studio Digital 016,2025-01,Partnerships,Scale,2025-01,199,51.74,128
+C0016,Studio Digital 016,2025-01,Partnerships,Scale,2025-02,199,51.74,0
+C0016,Studio Digital 016,2025-01,Partnerships,Scale,2025-03,199,51.74,0
+C0016,Studio Digital 016,2025-01,Partnerships,Scale,2025-04,199,51.74,0
+C0016,Studio Digital 016,2025-01,Partnerships,Scale,2025-05,199,51.74,0
+C0016,Studio Digital 016,2025-01,Partnerships,Scale,2025-06,199,51.74,0
+C0016,Studio Digital 016,2025-01,Partnerships,Scale,2025-07,199,51.74,0
+C0016,Studio Digital 016,2025-01,Partnerships,Scale,2025-08,199,51.74,0
+C0016,Studio Digital 016,2025-01,Partnerships,Scale,2025-09,199,51.74,0
+C0016,Studio Digital 016,2025-01,Partnerships,Scale,2025-10,199,51.74,0
+C0016,Studio Digital 016,2025-01,Partnerships,Scale,2025-11,199,51.74,0
+C0016,Studio Digital 016,2025-01,Partnerships,Scale,2025-12,199,51.74,0
+C0017,Pebble & Co. 017,2025-01,Paid search,Starter,2025-01,49,16.49,257
+C0017,Pebble & Co. 017,2025-01,Paid search,Starter,2025-02,49,16.49,0
+C0017,Pebble & Co. 017,2025-01,Paid search,Starter,2025-03,49,16.49,0
+C0018,Aster Works 018,2025-01,Paid search,Starter,2025-01,49,16.28,315
+C0018,Aster Works 018,2025-01,Paid search,Starter,2025-02,49,16.28,0
+C0018,Aster Works 018,2025-01,Paid search,Starter,2025-03,49,16.28,0
+C0018,Aster Works 018,2025-01,Paid search,Starter,2025-04,49,16.28,0
+C0018,Aster Works 018,2025-01,Paid search,Starter,2025-05,49,16.28,0
+C0018,Aster Works 018,2025-01,Paid search,Starter,2025-06,49,16.28,0
+C0018,Aster Works 018,2025-01,Paid search,Starter,2025-07,49,16.28,0
+C0019,Cove Digital 019,2025-01,Paid search,Starter,2025-01,49,17.89,323
+C0019,Cove Digital 019,2025-01,Paid search,Starter,2025-02,49,17.89,0
+C0019,Cove Digital 019,2025-01,Paid search,Starter,2025-03,49,17.89,0
+C0019,Cove Digital 019,2025-01,Paid search,Starter,2025-04,49,17.89,0
+C0019,Cove Digital 019,2025-01,Paid search,Starter,2025-05,49,17.89,0
+C0019,Cove Digital 019,2025-01,Paid search,Starter,2025-06,49,17.89,0
+C0019,Cove Digital 019,2025-01,Paid search,Starter,2025-07,49,17.89,0
+C0019,Cove Digital 019,2025-01,Paid search,Starter,2025-08,49,17.89,0
+C0019,Cove Digital 019,2025-01,Paid search,Starter,2025-09,49,17.89,0
+C0019,Cove Digital 019,2025-01,Paid search,Starter,2025-10,49,17.89,0
+C0019,Cove Digital 019,2025-01,Paid search,Starter,2025-11,49,17.89,0
+C0019,Cove Digital 019,2025-01,Paid search,Starter,2025-12,49,17.89,0
+C0020,Juniper Systems 020,2025-01,Referral,Starter,2025-01,49,10.57,54
+C0020,Juniper Systems 020,2025-01,Referral,Starter,2025-02,49,10.57,0
+C0020,Juniper Systems 020,2025-01,Referral,Starter,2025-03,49,10.57,0
+C0021,Orbit Digital 021,2025-01,Organic,Scale,2025-01,199,37.89,101
+C0021,Orbit Digital 021,2025-01,Organic,Scale,2025-02,199,37.89,0
+C0021,Orbit Digital 021,2025-01,Organic,Scale,2025-03,199,37.89,0
+C0021,Orbit Digital 021,2025-01,Organic,Scale,2025-04,199,37.89,0
+C0021,Orbit Digital 021,2025-01,Organic,Scale,2025-05,199,37.89,0
+C0021,Orbit Digital 021,2025-01,Organic,Scale,2025-06,238.8,45.46,0
+C0021,Orbit Digital 021,2025-01,Organic,Scale,2025-07,238.8,45.46,0
+C0021,Orbit Digital 021,2025-01,Organic,Scale,2025-08,238.8,45.46,0
+C0021,Orbit Digital 021,2025-01,Organic,Scale,2025-09,238.8,45.46,0
+C0022,Slate Labs 022,2025-01,Partnerships,Starter,2025-01,49,12.27,130
+C0022,Slate Labs 022,2025-01,Partnerships,Starter,2025-02,49,12.27,0
+C0022,Slate Labs 022,2025-01,Partnerships,Starter,2025-03,49,12.27,0
+C0022,Slate Labs 022,2025-01,Partnerships,Starter,2025-04,49,12.27,0
+C0022,Slate Labs 022,2025-01,Partnerships,Starter,2025-05,49,12.27,0
+C0022,Slate Labs 022,2025-01,Partnerships,Starter,2025-06,49,12.27,0
+C0022,Slate Labs 022,2025-01,Partnerships,Starter,2025-07,49,12.27,0
+C0022,Slate Labs 022,2025-01,Partnerships,Starter,2025-08,49,12.27,0
+C0022,Slate Labs 022,2025-01,Partnerships,Starter,2025-09,49,12.27,0
+C0022,Slate Labs 022,2025-01,Partnerships,Starter,2025-10,49,12.27,0
+C0023,Mosaic Systems 023,2025-01,Organic,Growth,2025-01,99,19.85,74
+C0023,Mosaic Systems 023,2025-01,Organic,Growth,2025-02,99,19.85,0
+C0024,Cedar Digital 024,2025-01,Partnerships,Starter,2025-01,49,13.57,157
+C0024,Cedar Digital 024,2025-01,Partnerships,Starter,2025-02,49,13.57,0
+C0024,Cedar Digital 024,2025-01,Partnerships,Starter,2025-03,49,13.57,0
+C0024,Cedar Digital 024,2025-01,Partnerships,Starter,2025-04,49,13.57,0
+C0024,Cedar Digital 024,2025-01,Partnerships,Starter,2025-05,49,13.57,0
+C0024,Cedar Digital 024,2025-01,Partnerships,Starter,2025-06,49,13.57,0
+C0024,Cedar Digital 024,2025-01,Partnerships,Starter,2025-07,49,13.57,0
+C0024,Cedar Digital 024,2025-01,Partnerships,Starter,2025-08,49,13.57,0
+C0024,Cedar Digital 024,2025-01,Partnerships,Starter,2025-09,49,13.57,0
+C0024,Cedar Digital 024,2025-01,Partnerships,Starter,2025-10,49,13.57,0
+C0024,Cedar Digital 024,2025-01,Partnerships,Starter,2025-11,49,13.57,0
+C0024,Cedar Digital 024,2025-01,Partnerships,Starter,2025-12,49,13.57,0
+C0025,Northstar Collective 025,2025-01,Partnerships,Growth,2025-01,99,23.85,130
+C0025,Northstar Collective 025,2025-01,Partnerships,Growth,2025-02,99,23.85,0
+C0025,Northstar Collective 025,2025-01,Partnerships,Growth,2025-03,99,23.85,0
+C0025,Northstar Collective 025,2025-01,Partnerships,Growth,2025-04,99,23.85,0
+C0025,Northstar Collective 025,2025-01,Partnerships,Growth,2025-05,99,23.85,0
+C0025,Northstar Collective 025,2025-01,Partnerships,Growth,2025-06,99,23.85,0
+C0025,Northstar Collective 025,2025-01,Partnerships,Growth,2025-07,99,23.85,0
+C0025,Northstar Collective 025,2025-01,Partnerships,Growth,2025-08,99,23.85,0
+C0025,Northstar Collective 025,2025-01,Partnerships,Growth,2025-09,99,23.85,0
+C0025,Northstar Collective 025,2025-01,Partnerships,Growth,2025-10,99,23.85,0
+C0026,Willow Works 026,2025-01,Paid search,Growth,2025-01,99,36.49,320
+C0026,Willow Works 026,2025-01,Paid search,Growth,2025-02,99,36.49,0
+C0026,Willow Works 026,2025-01,Paid search,Growth,2025-03,99,36.49,0
+C0027,Beacon Digital 027,2025-01,Partnerships,Starter,2025-01,49,12.32,154
+C0027,Beacon Digital 027,2025-01,Partnerships,Starter,2025-02,49,12.32,0
+C0027,Beacon Digital 027,2025-01,Partnerships,Starter,2025-03,49,12.32,0
+C0027,Beacon Digital 027,2025-01,Partnerships,Starter,2025-04,49,12.32,0
+C0027,Beacon Digital 027,2025-01,Partnerships,Starter,2025-05,49,12.32,0
+C0027,Beacon Digital 027,2025-01,Partnerships,Starter,2025-06,49,12.32,0
+C0027,Beacon Digital 027,2025-01,Partnerships,Starter,2025-07,49,12.32,0
+C0027,Beacon Digital 027,2025-01,Partnerships,Starter,2025-08,49,12.32,0
+C0027,Beacon Digital 027,2025-01,Partnerships,Starter,2025-09,49,12.32,0
+C0027,Beacon Digital 027,2025-01,Partnerships,Starter,2025-10,49,12.32,0
+C0027,Beacon Digital 027,2025-01,Partnerships,Starter,2025-11,49,12.32,0
+C0027,Beacon Digital 027,2025-01,Partnerships,Starter,2025-12,49,12.32,0
+C0028,Forma Systems 028,2025-01,Paid search,Scale,2025-01,199,66.1,270
+C0028,Forma Systems 028,2025-01,Paid search,Scale,2025-02,199,66.1,0
+C0028,Forma Systems 028,2025-01,Paid search,Scale,2025-03,199,66.1,0
+C0028,Forma Systems 028,2025-01,Paid search,Scale,2025-04,199,66.1,0
+C0028,Forma Systems 028,2025-01,Paid search,Scale,2025-05,199,66.1,0
+C0028,Forma Systems 028,2025-01,Paid search,Scale,2025-06,238.8,79.32,0
+C0028,Forma Systems 028,2025-01,Paid search,Scale,2025-07,238.8,79.32,0
+C0028,Forma Systems 028,2025-01,Paid search,Scale,2025-08,238.8,79.32,0
+C0028,Forma Systems 028,2025-01,Paid search,Scale,2025-09,238.8,79.32,0
+C0028,Forma Systems 028,2025-01,Paid search,Scale,2025-10,238.8,79.32,0
+C0028,Forma Systems 028,2025-01,Paid search,Scale,2025-11,238.8,79.32,0
+C0028,Forma Systems 028,2025-01,Paid search,Scale,2025-12,238.8,79.32,0
+C0029,Atlas Studio 029,2025-02,Organic,Starter,2025-02,49,9.84,101
+C0029,Atlas Studio 029,2025-02,Organic,Starter,2025-03,49,9.84,0
+C0029,Atlas Studio 029,2025-02,Organic,Starter,2025-04,49,9.84,0
+C0029,Atlas Studio 029,2025-02,Organic,Starter,2025-05,49,9.84,0
+C0029,Atlas Studio 029,2025-02,Organic,Starter,2025-06,49,9.84,0
+C0029,Atlas Studio 029,2025-02,Organic,Starter,2025-07,49,9.84,0
+C0029,Atlas Studio 029,2025-02,Organic,Starter,2025-08,49,9.84,0
+C0029,Atlas Studio 029,2025-02,Organic,Starter,2025-09,49,9.84,0
+C0029,Atlas Studio 029,2025-02,Organic,Starter,2025-10,49,9.84,0
+C0029,Atlas Studio 029,2025-02,Organic,Starter,2025-11,49,9.84,0
+C0029,Atlas Studio 029,2025-02,Organic,Starter,2025-12,49,9.84,0
+C0030,Bloom Design 030,2025-02,Partnerships,Growth,2025-02,99,28.6,182
+C0030,Bloom Design 030,2025-02,Partnerships,Growth,2025-03,99,28.6,0
+C0030,Bloom Design 030,2025-02,Partnerships,Growth,2025-04,99,28.6,0
+C0030,Bloom Design 030,2025-02,Partnerships,Growth,2025-05,99,28.6,0
+C0030,Bloom Design 030,2025-02,Partnerships,Growth,2025-06,99,28.6,0
+C0031,Kinfolk Design 031,2025-02,Organic,Starter,2025-02,49,9.46,93
+C0032,Lumen Labs 032,2025-02,Partnerships,Growth,2025-02,99,25.89,129
+C0032,Lumen Labs 032,2025-02,Partnerships,Growth,2025-03,99,25.89,0
+C0032,Lumen Labs 032,2025-02,Partnerships,Growth,2025-04,99,25.89,0
+C0032,Lumen Labs 032,2025-02,Partnerships,Growth,2025-05,99,25.89,0
+C0032,Lumen Labs 032,2025-02,Partnerships,Growth,2025-06,99,25.89,0
+C0032,Lumen Labs 032,2025-02,Partnerships,Growth,2025-07,99,25.89,0
+C0032,Lumen Labs 032,2025-02,Partnerships,Growth,2025-08,99,25.89,0
+C0033,Tandem Works 033,2025-02,Organic,Starter,2025-02,49,9.45,88
+C0033,Tandem Works 033,2025-02,Organic,Starter,2025-03,49,9.45,0
+C0033,Tandem Works 033,2025-02,Organic,Starter,2025-04,49,9.45,0
+C0033,Tandem Works 033,2025-02,Organic,Starter,2025-05,49,9.45,0
+C0033,Tandem Works 033,2025-02,Organic,Starter,2025-06,49,9.45,0
+C0033,Tandem Works 033,2025-02,Organic,Starter,2025-07,49,9.45,0
+C0033,Tandem Works 033,2025-02,Organic,Starter,2025-08,49,9.45,0
+C0033,Tandem Works 033,2025-02,Organic,Starter,2025-09,49,9.45,0
+C0033,Tandem Works 033,2025-02,Organic,Starter,2025-10,49,9.45,0
+C0033,Tandem Works 033,2025-02,Organic,Starter,2025-11,49,9.45,0
+C0033,Tandem Works 033,2025-02,Organic,Starter,2025-12,49,9.45,0
+C0034,Olive Design 034,2025-02,Partnerships,Scale,2025-02,199,57.27,166
+C0034,Olive Design 034,2025-02,Partnerships,Scale,2025-03,199,57.27,0
+C0034,Olive Design 034,2025-02,Partnerships,Scale,2025-04,199,57.27,0
+C0034,Olive Design 034,2025-02,Partnerships,Scale,2025-05,199,57.27,0
+C0034,Olive Design 034,2025-02,Partnerships,Scale,2025-06,199,57.27,0
+C0034,Olive Design 034,2025-02,Partnerships,Scale,2025-07,199,57.27,0
+C0034,Olive Design 034,2025-02,Partnerships,Scale,2025-08,199,57.27,0
+C0034,Olive Design 034,2025-02,Partnerships,Scale,2025-09,199,57.27,0
+C0034,Olive Design 034,2025-02,Partnerships,Scale,2025-10,199,57.27,0
+C0034,Olive Design 034,2025-02,Partnerships,Scale,2025-11,199,57.27,0
+C0034,Olive Design 034,2025-02,Partnerships,Scale,2025-12,199,57.27,0
+C0035,Sunday Collective 035,2025-02,Referral,Growth,2025-02,99,19.68,49
+C0035,Sunday Collective 035,2025-02,Referral,Growth,2025-03,99,19.68,0
+C0035,Sunday Collective 035,2025-02,Referral,Growth,2025-04,99,19.68,0
+C0035,Sunday Collective 035,2025-02,Referral,Growth,2025-05,99,19.68,0
+C0035,Sunday Collective 035,2025-02,Referral,Growth,2025-06,99,19.68,0
+C0035,Sunday Collective 035,2025-02,Referral,Growth,2025-07,118.8,23.62,0
+C0035,Sunday Collective 035,2025-02,Referral,Growth,2025-08,118.8,23.62,0
+C0035,Sunday Collective 035,2025-02,Referral,Growth,2025-09,118.8,23.62,0
+C0035,Sunday Collective 035,2025-02,Referral,Growth,2025-10,118.8,23.62,0
+C0036,Studio Design 036,2025-02,Partnerships,Starter,2025-02,49,12.78,173
+C0036,Studio Design 036,2025-02,Partnerships,Starter,2025-03,49,12.78,0
+C0036,Studio Design 036,2025-02,Partnerships,Starter,2025-04,49,12.78,0
+C0036,Studio Design 036,2025-02,Partnerships,Starter,2025-05,49,12.78,0
+C0036,Studio Design 036,2025-02,Partnerships,Starter,2025-06,49,12.78,0
+C0036,Studio Design 036,2025-02,Partnerships,Starter,2025-07,49,12.78,0
+C0036,Studio Design 036,2025-02,Partnerships,Starter,2025-08,49,12.78,0
+C0036,Studio Design 036,2025-02,Partnerships,Starter,2025-09,49,12.78,0
+C0036,Studio Design 036,2025-02,Partnerships,Starter,2025-10,49,12.78,0
+C0036,Studio Design 036,2025-02,Partnerships,Starter,2025-11,49,12.78,0
+C0036,Studio Design 036,2025-02,Partnerships,Starter,2025-12,49,12.78,0
+C0037,Pebble Systems 037,2025-02,Referral,Growth,2025-02,99,21.01,56
+C0037,Pebble Systems 037,2025-02,Referral,Growth,2025-03,99,21.01,0
+C0037,Pebble Systems 037,2025-02,Referral,Growth,2025-04,99,21.01,0
+C0037,Pebble Systems 037,2025-02,Referral,Growth,2025-05,99,21.01,0
+C0037,Pebble Systems 037,2025-02,Referral,Growth,2025-06,99,21.01,0
+C0037,Pebble Systems 037,2025-02,Referral,Growth,2025-07,99,21.01,0
+C0037,Pebble Systems 037,2025-02,Referral,Growth,2025-08,99,21.01,0
+C0037,Pebble Systems 037,2025-02,Referral,Growth,2025-09,99,21.01,0
+C0037,Pebble Systems 037,2025-02,Referral,Growth,2025-10,99,21.01,0
+C0037,Pebble Systems 037,2025-02,Referral,Growth,2025-11,99,21.01,0
+C0037,Pebble Systems 037,2025-02,Referral,Growth,2025-12,99,21.01,0
+C0038,Aster Systems 038,2025-02,Organic,Starter,2025-02,49,9.67,70
+C0038,Aster Systems 038,2025-02,Organic,Starter,2025-03,49,9.67,0
+C0038,Aster Systems 038,2025-02,Organic,Starter,2025-04,49,9.67,0
+C0038,Aster Systems 038,2025-02,Organic,Starter,2025-05,49,9.67,0
+C0039,Cove Digital 039,2025-02,Organic,Starter,2025-02,49,10.17,87
+C0039,Cove Digital 039,2025-02,Organic,Starter,2025-03,49,10.17,0
+C0039,Cove Digital 039,2025-02,Organic,Starter,2025-04,49,10.17,0
+C0040,Juniper Digital 040,2025-02,Organic,Starter,2025-02,49,10.49,86
+C0040,Juniper Digital 040,2025-02,Organic,Starter,2025-03,49,10.49,0
+C0040,Juniper Digital 040,2025-02,Organic,Starter,2025-04,49,10.49,0
+C0040,Juniper Digital 040,2025-02,Organic,Starter,2025-05,49,10.49,0
+C0040,Juniper Digital 040,2025-02,Organic,Starter,2025-06,49,10.49,0
+C0040,Juniper Digital 040,2025-02,Organic,Starter,2025-07,49,10.49,0
+C0040,Juniper Digital 040,2025-02,Organic,Starter,2025-08,49,10.49,0
+C0040,Juniper Digital 040,2025-02,Organic,Starter,2025-09,49,10.49,0
+C0040,Juniper Digital 040,2025-02,Organic,Starter,2025-10,49,10.49,0
+C0040,Juniper Digital 040,2025-02,Organic,Starter,2025-11,49,10.49,0
+C0040,Juniper Digital 040,2025-02,Organic,Starter,2025-12,49,10.49,0
+C0041,Orbit Labs 041,2025-02,Organic,Starter,2025-02,49,10.58,72
+C0041,Orbit Labs 041,2025-02,Organic,Starter,2025-03,49,10.58,0
+C0041,Orbit Labs 041,2025-02,Organic,Starter,2025-04,49,10.58,0
+C0041,Orbit Labs 041,2025-02,Organic,Starter,2025-05,49,10.58,0
+C0041,Orbit Labs 041,2025-02,Organic,Starter,2025-06,49,10.58,0
+C0041,Orbit Labs 041,2025-02,Organic,Starter,2025-07,49,10.58,0
+C0041,Orbit Labs 041,2025-02,Organic,Starter,2025-08,49,10.58,0
+C0041,Orbit Labs 041,2025-02,Organic,Starter,2025-09,49,10.58,0
+C0041,Orbit Labs 041,2025-02,Organic,Starter,2025-10,49,10.58,0
+C0041,Orbit Labs 041,2025-02,Organic,Starter,2025-11,49,10.58,0
+C0041,Orbit Labs 041,2025-02,Organic,Starter,2025-12,49,10.58,0
+C0042,Slate Works 042,2025-02,Referral,Starter,2025-02,49,10.76,45
+C0042,Slate Works 042,2025-02,Referral,Starter,2025-03,49,10.76,0
+C0042,Slate Works 042,2025-02,Referral,Starter,2025-04,49,10.76,0
+C0042,Slate Works 042,2025-02,Referral,Starter,2025-05,49,10.76,0
+C0042,Slate Works 042,2025-02,Referral,Starter,2025-06,49,10.76,0
+C0042,Slate Works 042,2025-02,Referral,Starter,2025-07,58.8,12.91,0
+C0042,Slate Works 042,2025-02,Referral,Starter,2025-08,58.8,12.91,0
+C0043,Mosaic Labs 043,2025-02,Organic,Starter,2025-02,49,10.59,100
+C0043,Mosaic Labs 043,2025-02,Organic,Starter,2025-03,49,10.59,0
+C0043,Mosaic Labs 043,2025-02,Organic,Starter,2025-04,49,10.59,0
+C0043,Mosaic Labs 043,2025-02,Organic,Starter,2025-05,49,10.59,0
+C0043,Mosaic Labs 043,2025-02,Organic,Starter,2025-06,49,10.59,0
+C0043,Mosaic Labs 043,2025-02,Organic,Starter,2025-07,49,10.59,0
+C0043,Mosaic Labs 043,2025-02,Organic,Starter,2025-08,49,10.59,0
+C0043,Mosaic Labs 043,2025-02,Organic,Starter,2025-09,49,10.59,0
+C0043,Mosaic Labs 043,2025-02,Organic,Starter,2025-10,49,10.59,0
+C0043,Mosaic Labs 043,2025-02,Organic,Starter,2025-11,49,10.59,0
+C0043,Mosaic Labs 043,2025-02,Organic,Starter,2025-12,49,10.59,0
+C0044,Cedar Works 044,2025-02,Organic,Scale,2025-02,199,46.66,101
+C0044,Cedar Works 044,2025-02,Organic,Scale,2025-03,199,46.66,0
+C0044,Cedar Works 044,2025-02,Organic,Scale,2025-04,199,46.66,0
+C0044,Cedar Works 044,2025-02,Organic,Scale,2025-05,199,46.66,0
+C0044,Cedar Works 044,2025-02,Organic,Scale,2025-06,199,46.66,0
+C0044,Cedar Works 044,2025-02,Organic,Scale,2025-07,199,46.66,0
+C0044,Cedar Works 044,2025-02,Organic,Scale,2025-08,199,46.66,0
+C0044,Cedar Works 044,2025-02,Organic,Scale,2025-09,199,46.66,0
+C0044,Cedar Works 044,2025-02,Organic,Scale,2025-10,199,46.66,0
+C0044,Cedar Works 044,2025-02,Organic,Scale,2025-11,199,46.66,0
+C0045,Northstar Systems 045,2025-02,Paid search,Starter,2025-02,49,17.74,292
+C0045,Northstar Systems 045,2025-02,Paid search,Starter,2025-03,49,17.74,0
+C0045,Northstar Systems 045,2025-02,Paid search,Starter,2025-04,49,17.74,0
+C0045,Northstar Systems 045,2025-02,Paid search,Starter,2025-05,49,17.74,0
+C0045,Northstar Systems 045,2025-02,Paid search,Starter,2025-06,49,17.74,0
+C0045,Northstar Systems 045,2025-02,Paid search,Starter,2025-07,49,17.74,0
+C0045,Northstar Systems 045,2025-02,Paid search,Starter,2025-08,49,17.74,0
+C0045,Northstar Systems 045,2025-02,Paid search,Starter,2025-09,49,17.74,0
+C0045,Northstar Systems 045,2025-02,Paid search,Starter,2025-10,49,17.74,0
+C0045,Northstar Systems 045,2025-02,Paid search,Starter,2025-11,49,17.74,0
+C0045,Northstar Systems 045,2025-02,Paid search,Starter,2025-12,49,17.74,0
+C0046,Willow & Co. 046,2025-02,Referral,Growth,2025-02,99,19.22,49
+C0046,Willow & Co. 046,2025-02,Referral,Growth,2025-03,99,19.22,0
+C0046,Willow & Co. 046,2025-02,Referral,Growth,2025-04,99,19.22,0
+C0046,Willow & Co. 046,2025-02,Referral,Growth,2025-05,99,19.22,0
+C0046,Willow & Co. 046,2025-02,Referral,Growth,2025-06,99,19.22,0
+C0046,Willow & Co. 046,2025-02,Referral,Growth,2025-07,99,19.22,0
+C0046,Willow & Co. 046,2025-02,Referral,Growth,2025-08,99,19.22,0
+C0047,Beacon & Co. 047,2025-02,Referral,Growth,2025-02,99,20.16,56
+C0047,Beacon & Co. 047,2025-02,Referral,Growth,2025-03,99,20.16,0
+C0047,Beacon & Co. 047,2025-02,Referral,Growth,2025-04,99,20.16,0
+C0047,Beacon & Co. 047,2025-02,Referral,Growth,2025-05,99,20.16,0
+C0047,Beacon & Co. 047,2025-02,Referral,Growth,2025-06,99,20.16,0
+C0047,Beacon & Co. 047,2025-02,Referral,Growth,2025-07,99,20.16,0
+C0047,Beacon & Co. 047,2025-02,Referral,Growth,2025-08,99,20.16,0
+C0047,Beacon & Co. 047,2025-02,Referral,Growth,2025-09,99,20.16,0
+C0047,Beacon & Co. 047,2025-02,Referral,Growth,2025-10,99,20.16,0
+C0047,Beacon & Co. 047,2025-02,Referral,Growth,2025-11,99,20.16,0
+C0047,Beacon & Co. 047,2025-02,Referral,Growth,2025-12,99,20.16,0
+C0048,Forma Works 048,2025-02,Organic,Growth,2025-02,99,20.34,94
+C0048,Forma Works 048,2025-02,Organic,Growth,2025-03,99,20.34,0
+C0049,Atlas Studio 049,2025-02,Paid search,Starter,2025-02,49,16.24,342
+C0049,Atlas Studio 049,2025-02,Paid search,Starter,2025-03,49,16.24,0
+C0049,Atlas Studio 049,2025-02,Paid search,Starter,2025-04,49,16.24,0
+C0049,Atlas Studio 049,2025-02,Paid search,Starter,2025-05,49,16.24,0
+C0050,Bloom Studio 050,2025-02,Referral,Growth,2025-02,99,20.31,60
+C0050,Bloom Studio 050,2025-02,Referral,Growth,2025-03,99,20.31,0
+C0051,Kinfolk Collective 051,2025-02,Organic,Growth,2025-02,99,21.1,80
+C0051,Kinfolk Collective 051,2025-02,Organic,Growth,2025-03,99,21.1,0
+C0051,Kinfolk Collective 051,2025-02,Organic,Growth,2025-04,99,21.1,0
+C0051,Kinfolk Collective 051,2025-02,Organic,Growth,2025-05,99,21.1,0
+C0051,Kinfolk Collective 051,2025-02,Organic,Growth,2025-06,99,21.1,0
+C0051,Kinfolk Collective 051,2025-02,Organic,Growth,2025-07,99,21.1,0
+C0051,Kinfolk Collective 051,2025-02,Organic,Growth,2025-08,99,21.1,0
+C0051,Kinfolk Collective 051,2025-02,Organic,Growth,2025-09,99,21.1,0
+C0051,Kinfolk Collective 051,2025-02,Organic,Growth,2025-10,99,21.1,0
+C0051,Kinfolk Collective 051,2025-02,Organic,Growth,2025-11,99,21.1,0
+C0051,Kinfolk Collective 051,2025-02,Organic,Growth,2025-12,99,21.1,0
+C0052,Lumen Systems 052,2025-02,Organic,Growth,2025-02,99,19.44,89
+C0052,Lumen Systems 052,2025-02,Organic,Growth,2025-03,99,19.44,0
+C0052,Lumen Systems 052,2025-02,Organic,Growth,2025-04,99,19.44,0
+C0052,Lumen Systems 052,2025-02,Organic,Growth,2025-05,99,19.44,0
+C0052,Lumen Systems 052,2025-02,Organic,Growth,2025-06,99,19.44,0
+C0052,Lumen Systems 052,2025-02,Organic,Growth,2025-07,99,19.44,0
+C0052,Lumen Systems 052,2025-02,Organic,Growth,2025-08,99,19.44,0
+C0052,Lumen Systems 052,2025-02,Organic,Growth,2025-09,99,19.44,0
+C0052,Lumen Systems 052,2025-02,Organic,Growth,2025-10,99,19.44,0
+C0052,Lumen Systems 052,2025-02,Organic,Growth,2025-11,99,19.44,0
+C0052,Lumen Systems 052,2025-02,Organic,Growth,2025-12,99,19.44,0
+C0053,Tandem Labs 053,2025-02,Paid search,Starter,2025-02,49,15.97,342
+C0053,Tandem Labs 053,2025-02,Paid search,Starter,2025-03,49,15.97,0
+C0053,Tandem Labs 053,2025-02,Paid search,Starter,2025-04,49,15.97,0
+C0053,Tandem Labs 053,2025-02,Paid search,Starter,2025-05,49,15.97,0
+C0053,Tandem Labs 053,2025-02,Paid search,Starter,2025-06,49,15.97,0
+C0053,Tandem Labs 053,2025-02,Paid search,Starter,2025-07,49,15.97,0
+C0053,Tandem Labs 053,2025-02,Paid search,Starter,2025-08,49,15.97,0
+C0053,Tandem Labs 053,2025-02,Paid search,Starter,2025-09,49,15.97,0
+C0054,Olive & Co. 054,2025-02,Paid search,Starter,2025-02,49,17.73,270
+C0054,Olive & Co. 054,2025-02,Paid search,Starter,2025-03,49,17.73,0
+C0054,Olive & Co. 054,2025-02,Paid search,Starter,2025-04,49,17.73,0
+C0054,Olive & Co. 054,2025-02,Paid search,Starter,2025-05,49,17.73,0
+C0054,Olive & Co. 054,2025-02,Paid search,Starter,2025-06,49,17.73,0
+C0054,Olive & Co. 054,2025-02,Paid search,Starter,2025-07,49,17.73,0
+C0054,Olive & Co. 054,2025-02,Paid search,Starter,2025-08,49,17.73,0
+C0054,Olive & Co. 054,2025-02,Paid search,Starter,2025-09,49,17.73,0
+C0054,Olive & Co. 054,2025-02,Paid search,Starter,2025-10,49,17.73,0
+C0055,Sunday Collective 055,2025-02,Organic,Starter,2025-02,49,9.57,100
+C0055,Sunday Collective 055,2025-02,Organic,Starter,2025-03,49,9.57,0
+C0055,Sunday Collective 055,2025-02,Organic,Starter,2025-04,49,9.57,0
+C0055,Sunday Collective 055,2025-02,Organic,Starter,2025-05,49,9.57,0
+C0055,Sunday Collective 055,2025-02,Organic,Starter,2025-06,49,9.57,0
+C0055,Sunday Collective 055,2025-02,Organic,Starter,2025-07,49,9.57,0
+C0055,Sunday Collective 055,2025-02,Organic,Starter,2025-08,49,9.57,0
+C0056,Studio Collective 056,2025-02,Organic,Starter,2025-02,49,11.02,100
+C0056,Studio Collective 056,2025-02,Organic,Starter,2025-03,49,11.02,0
+C0056,Studio Collective 056,2025-02,Organic,Starter,2025-04,49,11.02,0
+C0056,Studio Collective 056,2025-02,Organic,Starter,2025-05,49,11.02,0
+C0056,Studio Collective 056,2025-02,Organic,Starter,2025-06,49,11.02,0
+C0056,Studio Collective 056,2025-02,Organic,Starter,2025-07,58.8,13.23,0
+C0056,Studio Collective 056,2025-02,Organic,Starter,2025-08,58.8,13.23,0
+C0056,Studio Collective 056,2025-02,Organic,Starter,2025-09,58.8,13.23,0
+C0056,Studio Collective 056,2025-02,Organic,Starter,2025-10,58.8,13.23,0
+C0056,Studio Collective 056,2025-02,Organic,Starter,2025-11,58.8,13.23,0
+C0056,Studio Collective 056,2025-02,Organic,Starter,2025-12,58.8,13.23,0
+C0057,Pebble & Co. 057,2025-02,Partnerships,Scale,2025-02,199,53.82,132
+C0057,Pebble & Co. 057,2025-02,Partnerships,Scale,2025-03,199,53.82,0
+C0058,Aster Design 058,2025-02,Organic,Scale,2025-02,199,44.64,92
+C0059,Cove Studio 059,2025-02,Organic,Scale,2025-02,199,38.91,69
+C0059,Cove Studio 059,2025-02,Organic,Scale,2025-03,199,38.91,0
+C0060,Juniper Studio 060,2025-02,Referral,Starter,2025-02,49,10.32,51
+C0061,Orbit Studio 061,2025-02,Paid search,Starter,2025-02,49,16.12,271
+C0062,Slate Works 062,2025-02,Partnerships,Starter,2025-02,49,14.18,139
+C0062,Slate Works 062,2025-02,Partnerships,Starter,2025-03,49,14.18,0
+C0062,Slate Works 062,2025-02,Partnerships,Starter,2025-04,49,14.18,0
+C0062,Slate Works 062,2025-02,Partnerships,Starter,2025-05,49,14.18,0
+C0062,Slate Works 062,2025-02,Partnerships,Starter,2025-06,49,14.18,0
+C0062,Slate Works 062,2025-02,Partnerships,Starter,2025-07,49,14.18,0
+C0062,Slate Works 062,2025-02,Partnerships,Starter,2025-08,49,14.18,0
+C0062,Slate Works 062,2025-02,Partnerships,Starter,2025-09,49,14.18,0
+C0062,Slate Works 062,2025-02,Partnerships,Starter,2025-10,49,14.18,0
+C0062,Slate Works 062,2025-02,Partnerships,Starter,2025-11,49,14.18,0
+C0062,Slate Works 062,2025-02,Partnerships,Starter,2025-12,49,14.18,0
+C0063,Mosaic Design 063,2025-02,Paid search,Growth,2025-02,99,34.44,247
+C0063,Mosaic Design 063,2025-02,Paid search,Growth,2025-03,99,34.44,0
+C0063,Mosaic Design 063,2025-02,Paid search,Growth,2025-04,99,34.44,0
+C0063,Mosaic Design 063,2025-02,Paid search,Growth,2025-05,99,34.44,0
+C0063,Mosaic Design 063,2025-02,Paid search,Growth,2025-06,99,34.44,0
+C0064,Cedar Digital 064,2025-02,Paid search,Starter,2025-02,49,17.79,337
+C0064,Cedar Digital 064,2025-02,Paid search,Starter,2025-03,49,17.79,0
+C0064,Cedar Digital 064,2025-02,Paid search,Starter,2025-04,49,17.79,0
+C0064,Cedar Digital 064,2025-02,Paid search,Starter,2025-05,49,17.79,0
+C0064,Cedar Digital 064,2025-02,Paid search,Starter,2025-06,49,17.79,0
+C0064,Cedar Digital 064,2025-02,Paid search,Starter,2025-07,49,17.79,0
+C0064,Cedar Digital 064,2025-02,Paid search,Starter,2025-08,49,17.79,0
+C0064,Cedar Digital 064,2025-02,Paid search,Starter,2025-09,49,17.79,0
+C0064,Cedar Digital 064,2025-02,Paid search,Starter,2025-10,49,17.79,0
+C0065,Northstar & Co. 065,2025-03,Partnerships,Starter,2025-03,49,12.26,160
+C0065,Northstar & Co. 065,2025-03,Partnerships,Starter,2025-04,49,12.26,0
+C0066,Willow Works 066,2025-03,Partnerships,Starter,2025-03,49,12.37,178
+C0066,Willow Works 066,2025-03,Partnerships,Starter,2025-04,49,12.37,0
+C0067,Beacon & Co. 067,2025-03,Paid search,Scale,2025-03,199,64.83,252
+C0067,Beacon & Co. 067,2025-03,Paid search,Scale,2025-04,199,64.83,0
+C0067,Beacon & Co. 067,2025-03,Paid search,Scale,2025-05,199,64.83,0
+C0067,Beacon & Co. 067,2025-03,Paid search,Scale,2025-06,199,64.83,0
+C0067,Beacon & Co. 067,2025-03,Paid search,Scale,2025-07,199,64.83,0
+C0067,Beacon & Co. 067,2025-03,Paid search,Scale,2025-08,199,64.83,0
+C0067,Beacon & Co. 067,2025-03,Paid search,Scale,2025-09,199,64.83,0
+C0068,Forma Systems 068,2025-03,Organic,Starter,2025-03,49,10.81,84
+C0068,Forma Systems 068,2025-03,Organic,Starter,2025-04,49,10.81,0
+C0068,Forma Systems 068,2025-03,Organic,Starter,2025-05,49,10.81,0
+C0068,Forma Systems 068,2025-03,Organic,Starter,2025-06,49,10.81,0
+C0068,Forma Systems 068,2025-03,Organic,Starter,2025-07,49,10.81,0
+C0068,Forma Systems 068,2025-03,Organic,Starter,2025-08,49,10.81,0
+C0068,Forma Systems 068,2025-03,Organic,Starter,2025-09,49,10.81,0
+C0068,Forma Systems 068,2025-03,Organic,Starter,2025-10,49,10.81,0
+C0068,Forma Systems 068,2025-03,Organic,Starter,2025-11,49,10.81,0
+C0068,Forma Systems 068,2025-03,Organic,Starter,2025-12,49,10.81,0
+C0069,Atlas Systems 069,2025-03,Referral,Growth,2025-03,99,21.2,60
+C0069,Atlas Systems 069,2025-03,Referral,Growth,2025-04,99,21.2,0
+C0069,Atlas Systems 069,2025-03,Referral,Growth,2025-05,99,21.2,0
+C0069,Atlas Systems 069,2025-03,Referral,Growth,2025-06,99,21.2,0
+C0069,Atlas Systems 069,2025-03,Referral,Growth,2025-07,99,21.2,0
+C0069,Atlas Systems 069,2025-03,Referral,Growth,2025-08,99,21.2,0
+C0069,Atlas Systems 069,2025-03,Referral,Growth,2025-09,99,21.2,0
+C0069,Atlas Systems 069,2025-03,Referral,Growth,2025-10,99,21.2,0
+C0069,Atlas Systems 069,2025-03,Referral,Growth,2025-11,99,21.2,0
+C0069,Atlas Systems 069,2025-03,Referral,Growth,2025-12,99,21.2,0
+C0070,Bloom Digital 070,2025-03,Paid search,Starter,2025-03,49,17.39,304
+C0070,Bloom Digital 070,2025-03,Paid search,Starter,2025-04,49,17.39,0
+C0070,Bloom Digital 070,2025-03,Paid search,Starter,2025-05,49,17.39,0
+C0070,Bloom Digital 070,2025-03,Paid search,Starter,2025-06,49,17.39,0
+C0070,Bloom Digital 070,2025-03,Paid search,Starter,2025-07,49,17.39,0
+C0070,Bloom Digital 070,2025-03,Paid search,Starter,2025-08,58.8,20.87,0
+C0070,Bloom Digital 070,2025-03,Paid search,Starter,2025-09,58.8,20.87,0
+C0071,Kinfolk Studio 071,2025-03,Paid search,Starter,2025-03,49,17.36,323
+C0071,Kinfolk Studio 071,2025-03,Paid search,Starter,2025-04,49,17.36,0
+C0071,Kinfolk Studio 071,2025-03,Paid search,Starter,2025-05,49,17.36,0
+C0072,Lumen Digital 072,2025-03,Organic,Starter,2025-03,49,9.54,86
+C0072,Lumen Digital 072,2025-03,Organic,Starter,2025-04,49,9.54,0
+C0072,Lumen Digital 072,2025-03,Organic,Starter,2025-05,49,9.54,0
+C0072,Lumen Digital 072,2025-03,Organic,Starter,2025-06,49,9.54,0
+C0072,Lumen Digital 072,2025-03,Organic,Starter,2025-07,49,9.54,0
+C0072,Lumen Digital 072,2025-03,Organic,Starter,2025-08,49,9.54,0
+C0072,Lumen Digital 072,2025-03,Organic,Starter,2025-09,49,9.54,0
+C0073,Tandem Studio 073,2025-03,Referral,Starter,2025-03,49,9.45,59
+C0073,Tandem Studio 073,2025-03,Referral,Starter,2025-04,49,9.45,0
+C0073,Tandem Studio 073,2025-03,Referral,Starter,2025-05,49,9.45,0
+C0073,Tandem Studio 073,2025-03,Referral,Starter,2025-06,49,9.45,0
+C0073,Tandem Studio 073,2025-03,Referral,Starter,2025-07,49,9.45,0
+C0073,Tandem Studio 073,2025-03,Referral,Starter,2025-08,49,9.45,0
+C0073,Tandem Studio 073,2025-03,Referral,Starter,2025-09,49,9.45,0
+C0074,Olive Studio 074,2025-03,Organic,Starter,2025-03,49,10.69,93
+C0074,Olive Studio 074,2025-03,Organic,Starter,2025-04,49,10.69,0
+C0074,Olive Studio 074,2025-03,Organic,Starter,2025-05,49,10.69,0
+C0074,Olive Studio 074,2025-03,Organic,Starter,2025-06,49,10.69,0
+C0074,Olive Studio 074,2025-03,Organic,Starter,2025-07,49,10.69,0
+C0075,Sunday Studio 075,2025-03,Paid search,Growth,2025-03,99,33.9,270
+C0075,Sunday Studio 075,2025-03,Paid search,Growth,2025-04,99,33.9,0
+C0075,Sunday Studio 075,2025-03,Paid search,Growth,2025-05,99,33.9,0
+C0075,Sunday Studio 075,2025-03,Paid search,Growth,2025-06,99,33.9,0
+C0075,Sunday Studio 075,2025-03,Paid search,Growth,2025-07,99,33.9,0
+C0075,Sunday Studio 075,2025-03,Paid search,Growth,2025-08,99,33.9,0
+C0075,Sunday Studio 075,2025-03,Paid search,Growth,2025-09,99,33.9,0
+C0075,Sunday Studio 075,2025-03,Paid search,Growth,2025-10,99,33.9,0
+C0076,Studio Design 076,2025-03,Partnerships,Growth,2025-03,99,24.85,159
+C0076,Studio Design 076,2025-03,Partnerships,Growth,2025-04,99,24.85,0
+C0076,Studio Design 076,2025-03,Partnerships,Growth,2025-05,99,24.85,0
+C0076,Studio Design 076,2025-03,Partnerships,Growth,2025-06,99,24.85,0
+C0076,Studio Design 076,2025-03,Partnerships,Growth,2025-07,99,24.85,0
+C0076,Studio Design 076,2025-03,Partnerships,Growth,2025-08,99,24.85,0
+C0076,Studio Design 076,2025-03,Partnerships,Growth,2025-09,99,24.85,0
+C0076,Studio Design 076,2025-03,Partnerships,Growth,2025-10,99,24.85,0
+C0077,Pebble Design 077,2025-03,Referral,Starter,2025-03,49,8.59,60
+C0077,Pebble Design 077,2025-03,Referral,Starter,2025-04,49,8.59,0
+C0077,Pebble Design 077,2025-03,Referral,Starter,2025-05,49,8.59,0
+C0077,Pebble Design 077,2025-03,Referral,Starter,2025-06,49,8.59,0
+C0077,Pebble Design 077,2025-03,Referral,Starter,2025-07,49,8.59,0
+C0077,Pebble Design 077,2025-03,Referral,Starter,2025-08,58.8,10.3,0
+C0077,Pebble Design 077,2025-03,Referral,Starter,2025-09,58.8,10.3,0
+C0077,Pebble Design 077,2025-03,Referral,Starter,2025-10,58.8,10.3,0
+C0077,Pebble Design 077,2025-03,Referral,Starter,2025-11,58.8,10.3,0
+C0077,Pebble Design 077,2025-03,Referral,Starter,2025-12,58.8,10.3,0
+C0078,Aster Labs 078,2025-03,Partnerships,Starter,2025-03,49,12.52,134
+C0078,Aster Labs 078,2025-03,Partnerships,Starter,2025-04,49,12.52,0
+C0078,Aster Labs 078,2025-03,Partnerships,Starter,2025-05,49,12.52,0
+C0078,Aster Labs 078,2025-03,Partnerships,Starter,2025-06,49,12.52,0
+C0079,Cove Systems 079,2025-03,Paid search,Growth,2025-03,99,32.87,295
+C0079,Cove Systems 079,2025-03,Paid search,Growth,2025-04,99,32.87,0
+C0079,Cove Systems 079,2025-03,Paid search,Growth,2025-05,99,32.87,0
+C0079,Cove Systems 079,2025-03,Paid search,Growth,2025-06,99,32.87,0
+C0079,Cove Systems 079,2025-03,Paid search,Growth,2025-07,99,32.87,0
+C0079,Cove Systems 079,2025-03,Paid search,Growth,2025-08,99,32.87,0
+C0079,Cove Systems 079,2025-03,Paid search,Growth,2025-09,99,32.87,0
+C0079,Cove Systems 079,2025-03,Paid search,Growth,2025-10,99,32.87,0
+C0079,Cove Systems 079,2025-03,Paid search,Growth,2025-11,99,32.87,0
+C0079,Cove Systems 079,2025-03,Paid search,Growth,2025-12,99,32.87,0
+C0080,Juniper & Co. 080,2025-03,Referral,Starter,2025-03,49,10.49,53
+C0080,Juniper & Co. 080,2025-03,Referral,Starter,2025-04,49,10.49,0
+C0080,Juniper & Co. 080,2025-03,Referral,Starter,2025-05,49,10.49,0
+C0080,Juniper & Co. 080,2025-03,Referral,Starter,2025-06,49,10.49,0
+C0080,Juniper & Co. 080,2025-03,Referral,Starter,2025-07,49,10.49,0
+C0081,Orbit Studio 081,2025-03,Referral,Scale,2025-03,199,40.98,61
+C0081,Orbit Studio 081,2025-03,Referral,Scale,2025-04,199,40.98,0
+C0081,Orbit Studio 081,2025-03,Referral,Scale,2025-05,199,40.98,0
+C0081,Orbit Studio 081,2025-03,Referral,Scale,2025-06,199,40.98,0
+C0081,Orbit Studio 081,2025-03,Referral,Scale,2025-07,199,40.98,0
+C0081,Orbit Studio 081,2025-03,Referral,Scale,2025-08,199,40.98,0
+C0081,Orbit Studio 081,2025-03,Referral,Scale,2025-09,199,40.98,0
+C0081,Orbit Studio 081,2025-03,Referral,Scale,2025-10,199,40.98,0
+C0081,Orbit Studio 081,2025-03,Referral,Scale,2025-11,199,40.98,0
+C0081,Orbit Studio 081,2025-03,Referral,Scale,2025-12,199,40.98,0
+C0082,Slate Design 082,2025-03,Organic,Starter,2025-03,49,10.04,94
+C0082,Slate Design 082,2025-03,Organic,Starter,2025-04,49,10.04,0
+C0082,Slate Design 082,2025-03,Organic,Starter,2025-05,49,10.04,0
+C0082,Slate Design 082,2025-03,Organic,Starter,2025-06,49,10.04,0
+C0082,Slate Design 082,2025-03,Organic,Starter,2025-07,49,10.04,0
+C0082,Slate Design 082,2025-03,Organic,Starter,2025-08,49,10.04,0
+C0083,Mosaic Collective 083,2025-03,Referral,Growth,2025-03,99,19.74,61
+C0083,Mosaic Collective 083,2025-03,Referral,Growth,2025-04,99,19.74,0
+C0083,Mosaic Collective 083,2025-03,Referral,Growth,2025-05,99,19.74,0
+C0083,Mosaic Collective 083,2025-03,Referral,Growth,2025-06,99,19.74,0
+C0083,Mosaic Collective 083,2025-03,Referral,Growth,2025-07,99,19.74,0
+C0083,Mosaic Collective 083,2025-03,Referral,Growth,2025-08,99,19.74,0
+C0083,Mosaic Collective 083,2025-03,Referral,Growth,2025-09,99,19.74,0
+C0083,Mosaic Collective 083,2025-03,Referral,Growth,2025-10,99,19.74,0
+C0083,Mosaic Collective 083,2025-03,Referral,Growth,2025-11,99,19.74,0
+C0083,Mosaic Collective 083,2025-03,Referral,Growth,2025-12,99,19.74,0
+C0084,Cedar Digital 084,2025-03,Partnerships,Scale,2025-03,199,50.46,176
+C0084,Cedar Digital 084,2025-03,Partnerships,Scale,2025-04,199,50.46,0
+C0084,Cedar Digital 084,2025-03,Partnerships,Scale,2025-05,199,50.46,0
+C0084,Cedar Digital 084,2025-03,Partnerships,Scale,2025-06,199,50.46,0
+C0084,Cedar Digital 084,2025-03,Partnerships,Scale,2025-07,199,50.46,0
+C0084,Cedar Digital 084,2025-03,Partnerships,Scale,2025-08,238.8,60.55,0
+C0084,Cedar Digital 084,2025-03,Partnerships,Scale,2025-09,238.8,60.55,0
+C0084,Cedar Digital 084,2025-03,Partnerships,Scale,2025-10,238.8,60.55,0
+C0084,Cedar Digital 084,2025-03,Partnerships,Scale,2025-11,238.8,60.55,0
+C0084,Cedar Digital 084,2025-03,Partnerships,Scale,2025-12,238.8,60.55,0
+C0085,Northstar Works 085,2025-03,Organic,Starter,2025-03,49,11.73,81
+C0085,Northstar Works 085,2025-03,Organic,Starter,2025-04,49,11.73,0
+C0085,Northstar Works 085,2025-03,Organic,Starter,2025-05,49,11.73,0
+C0085,Northstar Works 085,2025-03,Organic,Starter,2025-06,49,11.73,0
+C0085,Northstar Works 085,2025-03,Organic,Starter,2025-07,49,11.73,0
+C0085,Northstar Works 085,2025-03,Organic,Starter,2025-08,49,11.73,0
+C0085,Northstar Works 085,2025-03,Organic,Starter,2025-09,49,11.73,0
+C0085,Northstar Works 085,2025-03,Organic,Starter,2025-10,49,11.73,0
+C0085,Northstar Works 085,2025-03,Organic,Starter,2025-11,49,11.73,0
+C0085,Northstar Works 085,2025-03,Organic,Starter,2025-12,49,11.73,0
+C0086,Willow Digital 086,2025-03,Organic,Scale,2025-03,199,45.82,98
+C0086,Willow Digital 086,2025-03,Organic,Scale,2025-04,199,45.82,0
+C0086,Willow Digital 086,2025-03,Organic,Scale,2025-05,199,45.82,0
+C0086,Willow Digital 086,2025-03,Organic,Scale,2025-06,199,45.82,0
+C0086,Willow Digital 086,2025-03,Organic,Scale,2025-07,199,45.82,0
+C0086,Willow Digital 086,2025-03,Organic,Scale,2025-08,199,45.82,0
+C0086,Willow Digital 086,2025-03,Organic,Scale,2025-09,199,45.82,0
+C0086,Willow Digital 086,2025-03,Organic,Scale,2025-10,199,45.82,0
+C0086,Willow Digital 086,2025-03,Organic,Scale,2025-11,199,45.82,0
+C0086,Willow Digital 086,2025-03,Organic,Scale,2025-12,199,45.82,0
+C0087,Beacon Labs 087,2025-03,Paid search,Starter,2025-03,49,16.99,233
+C0088,Forma Digital 088,2025-03,Referral,Growth,2025-03,99,19.13,64
+C0088,Forma Digital 088,2025-03,Referral,Growth,2025-04,99,19.13,0
+C0088,Forma Digital 088,2025-03,Referral,Growth,2025-05,99,19.13,0
+C0088,Forma Digital 088,2025-03,Referral,Growth,2025-06,99,19.13,0
+C0088,Forma Digital 088,2025-03,Referral,Growth,2025-07,99,19.13,0
+C0088,Forma Digital 088,2025-03,Referral,Growth,2025-08,99,19.13,0
+C0088,Forma Digital 088,2025-03,Referral,Growth,2025-09,99,19.13,0
+C0088,Forma Digital 088,2025-03,Referral,Growth,2025-10,99,19.13,0
+C0088,Forma Digital 088,2025-03,Referral,Growth,2025-11,99,19.13,0
+C0088,Forma Digital 088,2025-03,Referral,Growth,2025-12,99,19.13,0
+C0089,Atlas Digital 089,2025-03,Partnerships,Scale,2025-03,199,56.95,182
+C0089,Atlas Digital 089,2025-03,Partnerships,Scale,2025-04,199,56.95,0
+C0089,Atlas Digital 089,2025-03,Partnerships,Scale,2025-05,199,56.95,0
+C0089,Atlas Digital 089,2025-03,Partnerships,Scale,2025-06,199,56.95,0
+C0089,Atlas Digital 089,2025-03,Partnerships,Scale,2025-07,199,56.95,0
+C0089,Atlas Digital 089,2025-03,Partnerships,Scale,2025-08,199,56.95,0
+C0089,Atlas Digital 089,2025-03,Partnerships,Scale,2025-09,199,56.95,0
+C0089,Atlas Digital 089,2025-03,Partnerships,Scale,2025-10,199,56.95,0
+C0089,Atlas Digital 089,2025-03,Partnerships,Scale,2025-11,199,56.95,0
+C0089,Atlas Digital 089,2025-03,Partnerships,Scale,2025-12,199,56.95,0
+C0090,Bloom Studio 090,2025-03,Paid search,Starter,2025-03,49,17.43,347
+C0090,Bloom Studio 090,2025-03,Paid search,Starter,2025-04,49,17.43,0
+C0090,Bloom Studio 090,2025-03,Paid search,Starter,2025-05,49,17.43,0
+C0090,Bloom Studio 090,2025-03,Paid search,Starter,2025-06,49,17.43,0
+C0091,Kinfolk Labs 091,2025-03,Referral,Starter,2025-03,49,10.18,62
+C0091,Kinfolk Labs 091,2025-03,Referral,Starter,2025-04,49,10.18,0
+C0091,Kinfolk Labs 091,2025-03,Referral,Starter,2025-05,49,10.18,0
+C0091,Kinfolk Labs 091,2025-03,Referral,Starter,2025-06,49,10.18,0
+C0091,Kinfolk Labs 091,2025-03,Referral,Starter,2025-07,49,10.18,0
+C0091,Kinfolk Labs 091,2025-03,Referral,Starter,2025-08,58.8,12.22,0
+C0091,Kinfolk Labs 091,2025-03,Referral,Starter,2025-09,58.8,12.22,0
+C0091,Kinfolk Labs 091,2025-03,Referral,Starter,2025-10,58.8,12.22,0
+C0091,Kinfolk Labs 091,2025-03,Referral,Starter,2025-11,58.8,12.22,0
+C0091,Kinfolk Labs 091,2025-03,Referral,Starter,2025-12,58.8,12.22,0
+C0092,Lumen Design 092,2025-03,Paid search,Starter,2025-03,49,17.11,310
+C0093,Tandem Works 093,2025-03,Organic,Starter,2025-03,49,10.52,82
+C0093,Tandem Works 093,2025-03,Organic,Starter,2025-04,49,10.52,0
+C0093,Tandem Works 093,2025-03,Organic,Starter,2025-05,49,10.52,0
+C0093,Tandem Works 093,2025-03,Organic,Starter,2025-06,49,10.52,0
+C0093,Tandem Works 093,2025-03,Organic,Starter,2025-07,49,10.52,0
+C0093,Tandem Works 093,2025-03,Organic,Starter,2025-08,49,10.52,0
+C0093,Tandem Works 093,2025-03,Organic,Starter,2025-09,49,10.52,0
+C0093,Tandem Works 093,2025-03,Organic,Starter,2025-10,49,10.52,0
+C0093,Tandem Works 093,2025-03,Organic,Starter,2025-11,49,10.52,0
+C0093,Tandem Works 093,2025-03,Organic,Starter,2025-12,49,10.52,0
+C0094,Olive Studio 094,2025-03,Referral,Starter,2025-03,49,9.86,53
+C0094,Olive Studio 094,2025-03,Referral,Starter,2025-04,49,9.86,0
+C0094,Olive Studio 094,2025-03,Referral,Starter,2025-05,49,9.86,0
+C0094,Olive Studio 094,2025-03,Referral,Starter,2025-06,49,9.86,0
+C0094,Olive Studio 094,2025-03,Referral,Starter,2025-07,49,9.86,0
+C0094,Olive Studio 094,2025-03,Referral,Starter,2025-08,49,9.86,0
+C0094,Olive Studio 094,2025-03,Referral,Starter,2025-09,49,9.86,0
+C0094,Olive Studio 094,2025-03,Referral,Starter,2025-10,49,9.86,0
+C0094,Olive Studio 094,2025-03,Referral,Starter,2025-11,49,9.86,0
+C0094,Olive Studio 094,2025-03,Referral,Starter,2025-12,49,9.86,0
+C0095,Sunday Studio 095,2025-03,Paid search,Growth,2025-03,99,33.45,262
+C0095,Sunday Studio 095,2025-03,Paid search,Growth,2025-04,99,33.45,0
+C0095,Sunday Studio 095,2025-03,Paid search,Growth,2025-05,99,33.45,0
+C0095,Sunday Studio 095,2025-03,Paid search,Growth,2025-06,99,33.45,0
+C0095,Sunday Studio 095,2025-03,Paid search,Growth,2025-07,99,33.45,0
+C0095,Sunday Studio 095,2025-03,Paid search,Growth,2025-08,99,33.45,0
+C0095,Sunday Studio 095,2025-03,Paid search,Growth,2025-09,99,33.45,0
+C0096,Studio Works 096,2025-03,Paid search,Starter,2025-03,49,17.26,255
+C0096,Studio Works 096,2025-03,Paid search,Starter,2025-04,49,17.26,0
+C0096,Studio Works 096,2025-03,Paid search,Starter,2025-05,49,17.26,0
+C0096,Studio Works 096,2025-03,Paid search,Starter,2025-06,49,17.26,0
+C0096,Studio Works 096,2025-03,Paid search,Starter,2025-07,49,17.26,0
+C0097,Pebble Studio 097,2025-03,Referral,Starter,2025-03,49,8.56,56
+C0097,Pebble Studio 097,2025-03,Referral,Starter,2025-04,49,8.56,0
+C0097,Pebble Studio 097,2025-03,Referral,Starter,2025-05,49,8.56,0
+C0097,Pebble Studio 097,2025-03,Referral,Starter,2025-06,49,8.56,0
+C0097,Pebble Studio 097,2025-03,Referral,Starter,2025-07,49,8.56,0
+C0098,Aster Labs 098,2025-03,Organic,Scale,2025-03,199,41.09,78
+C0098,Aster Labs 098,2025-03,Organic,Scale,2025-04,199,41.09,0
+C0098,Aster Labs 098,2025-03,Organic,Scale,2025-05,199,41.09,0
+C0098,Aster Labs 098,2025-03,Organic,Scale,2025-06,199,41.09,0
+C0098,Aster Labs 098,2025-03,Organic,Scale,2025-07,199,41.09,0
+C0098,Aster Labs 098,2025-03,Organic,Scale,2025-08,238.8,49.31,0
+C0098,Aster Labs 098,2025-03,Organic,Scale,2025-09,238.8,49.31,0
+C0098,Aster Labs 098,2025-03,Organic,Scale,2025-10,238.8,49.31,0
+C0098,Aster Labs 098,2025-03,Organic,Scale,2025-11,238.8,49.31,0
+C0098,Aster Labs 098,2025-03,Organic,Scale,2025-12,238.8,49.31,0
+C0099,Cove Works 099,2025-03,Organic,Starter,2025-03,49,9.32,87
+C0099,Cove Works 099,2025-03,Organic,Starter,2025-04,49,9.32,0
+C0099,Cove Works 099,2025-03,Organic,Starter,2025-05,49,9.32,0
+C0099,Cove Works 099,2025-03,Organic,Starter,2025-06,49,9.32,0
+C0099,Cove Works 099,2025-03,Organic,Starter,2025-07,49,9.32,0
+C0100,Juniper & Co. 100,2025-04,Referral,Growth,2025-04,99,21.31,53
+C0100,Juniper & Co. 100,2025-04,Referral,Growth,2025-05,99,21.31,0
+C0100,Juniper & Co. 100,2025-04,Referral,Growth,2025-06,99,21.31,0
+C0100,Juniper & Co. 100,2025-04,Referral,Growth,2025-07,99,21.31,0
+C0100,Juniper & Co. 100,2025-04,Referral,Growth,2025-08,99,21.31,0
+C0100,Juniper & Co. 100,2025-04,Referral,Growth,2025-09,99,21.31,0
+C0100,Juniper & Co. 100,2025-04,Referral,Growth,2025-10,99,21.31,0
+C0100,Juniper & Co. 100,2025-04,Referral,Growth,2025-11,99,21.31,0
+C0100,Juniper & Co. 100,2025-04,Referral,Growth,2025-12,99,21.31,0
+C0101,Orbit & Co. 101,2025-04,Paid search,Starter,2025-04,49,17.49,290
+C0101,Orbit & Co. 101,2025-04,Paid search,Starter,2025-05,49,17.49,0
+C0101,Orbit & Co. 101,2025-04,Paid search,Starter,2025-06,49,17.49,0
+C0102,Slate & Co. 102,2025-04,Paid search,Starter,2025-04,49,16.85,253
+C0102,Slate & Co. 102,2025-04,Paid search,Starter,2025-05,49,16.85,0
+C0102,Slate & Co. 102,2025-04,Paid search,Starter,2025-06,49,16.85,0
+C0102,Slate & Co. 102,2025-04,Paid search,Starter,2025-07,49,16.85,0
+C0102,Slate & Co. 102,2025-04,Paid search,Starter,2025-08,49,16.85,0
+C0103,Mosaic Collective 103,2025-04,Paid search,Starter,2025-04,49,17.9,273
+C0103,Mosaic Collective 103,2025-04,Paid search,Starter,2025-05,49,17.9,0
+C0104,Cedar Works 104,2025-04,Paid search,Starter,2025-04,49,16.61,240
+C0104,Cedar Works 104,2025-04,Paid search,Starter,2025-05,49,16.61,0
+C0104,Cedar Works 104,2025-04,Paid search,Starter,2025-06,49,16.61,0
+C0104,Cedar Works 104,2025-04,Paid search,Starter,2025-07,49,16.61,0
+C0104,Cedar Works 104,2025-04,Paid search,Starter,2025-08,49,16.61,0
+C0104,Cedar Works 104,2025-04,Paid search,Starter,2025-09,49,16.61,0
+C0105,Northstar Design 105,2025-04,Referral,Growth,2025-04,99,19.51,54
+C0105,Northstar Design 105,2025-04,Referral,Growth,2025-05,99,19.51,0
+C0105,Northstar Design 105,2025-04,Referral,Growth,2025-06,99,19.51,0
+C0105,Northstar Design 105,2025-04,Referral,Growth,2025-07,99,19.51,0
+C0105,Northstar Design 105,2025-04,Referral,Growth,2025-08,99,19.51,0
+C0105,Northstar Design 105,2025-04,Referral,Growth,2025-09,118.8,23.41,0
+C0105,Northstar Design 105,2025-04,Referral,Growth,2025-10,118.8,23.41,0
+C0105,Northstar Design 105,2025-04,Referral,Growth,2025-11,118.8,23.41,0
+C0105,Northstar Design 105,2025-04,Referral,Growth,2025-12,118.8,23.41,0
+C0106,Willow & Co. 106,2025-04,Paid search,Starter,2025-04,49,17.01,272
+C0106,Willow & Co. 106,2025-04,Paid search,Starter,2025-05,49,17.01,0
+C0106,Willow & Co. 106,2025-04,Paid search,Starter,2025-06,49,17.01,0
+C0106,Willow & Co. 106,2025-04,Paid search,Starter,2025-07,49,17.01,0
+C0106,Willow & Co. 106,2025-04,Paid search,Starter,2025-08,49,17.01,0
+C0106,Willow & Co. 106,2025-04,Paid search,Starter,2025-09,49,17.01,0
+C0106,Willow & Co. 106,2025-04,Paid search,Starter,2025-10,49,17.01,0
+C0106,Willow & Co. 106,2025-04,Paid search,Starter,2025-11,49,17.01,0
+C0106,Willow & Co. 106,2025-04,Paid search,Starter,2025-12,49,17.01,0
+C0107,Beacon & Co. 107,2025-04,Organic,Growth,2025-04,99,20.28,83
+C0107,Beacon & Co. 107,2025-04,Organic,Growth,2025-05,99,20.28,0
+C0107,Beacon & Co. 107,2025-04,Organic,Growth,2025-06,99,20.28,0
+C0108,Forma Collective 108,2025-04,Partnerships,Growth,2025-04,99,28.12,184
+C0108,Forma Collective 108,2025-04,Partnerships,Growth,2025-05,99,28.12,0
+C0109,Atlas Design 109,2025-04,Paid search,Starter,2025-04,49,15.72,325
+C0110,Bloom Studio 110,2025-04,Referral,Growth,2025-04,99,21.38,56
+C0110,Bloom Studio 110,2025-04,Referral,Growth,2025-05,99,21.38,0
+C0110,Bloom Studio 110,2025-04,Referral,Growth,2025-06,99,21.38,0
+C0110,Bloom Studio 110,2025-04,Referral,Growth,2025-07,99,21.38,0
+C0110,Bloom Studio 110,2025-04,Referral,Growth,2025-08,99,21.38,0
+C0110,Bloom Studio 110,2025-04,Referral,Growth,2025-09,99,21.38,0
+C0110,Bloom Studio 110,2025-04,Referral,Growth,2025-10,99,21.38,0
+C0110,Bloom Studio 110,2025-04,Referral,Growth,2025-11,99,21.38,0
+C0111,Kinfolk Works 111,2025-04,Paid search,Starter,2025-04,49,16.52,249
+C0111,Kinfolk Works 111,2025-04,Paid search,Starter,2025-05,49,16.52,0
+C0112,Lumen & Co. 112,2025-04,Referral,Starter,2025-04,49,10.32,53
+C0112,Lumen & Co. 112,2025-04,Referral,Starter,2025-05,49,10.32,0
+C0112,Lumen & Co. 112,2025-04,Referral,Starter,2025-06,49,10.32,0
+C0112,Lumen & Co. 112,2025-04,Referral,Starter,2025-07,49,10.32,0
+C0112,Lumen & Co. 112,2025-04,Referral,Starter,2025-08,49,10.32,0
+C0112,Lumen & Co. 112,2025-04,Referral,Starter,2025-09,58.8,12.38,0
+C0112,Lumen & Co. 112,2025-04,Referral,Starter,2025-10,58.8,12.38,0
+C0112,Lumen & Co. 112,2025-04,Referral,Starter,2025-11,58.8,12.38,0
+C0112,Lumen & Co. 112,2025-04,Referral,Starter,2025-12,58.8,12.38,0
+C0113,Tandem Collective 113,2025-04,Organic,Growth,2025-04,99,23.49,79
+C0113,Tandem Collective 113,2025-04,Organic,Growth,2025-05,99,23.49,0
+C0113,Tandem Collective 113,2025-04,Organic,Growth,2025-06,99,23.49,0
+C0113,Tandem Collective 113,2025-04,Organic,Growth,2025-07,99,23.49,0
+C0113,Tandem Collective 113,2025-04,Organic,Growth,2025-08,99,23.49,0
+C0113,Tandem Collective 113,2025-04,Organic,Growth,2025-09,99,23.49,0
+C0113,Tandem Collective 113,2025-04,Organic,Growth,2025-10,99,23.49,0
+C0113,Tandem Collective 113,2025-04,Organic,Growth,2025-11,99,23.49,0
+C0113,Tandem Collective 113,2025-04,Organic,Growth,2025-12,99,23.49,0
+C0114,Olive Labs 114,2025-04,Paid search,Starter,2025-04,49,18.05,305
+C0114,Olive Labs 114,2025-04,Paid search,Starter,2025-05,49,18.05,0
+C0114,Olive Labs 114,2025-04,Paid search,Starter,2025-06,49,18.05,0
+C0114,Olive Labs 114,2025-04,Paid search,Starter,2025-07,49,18.05,0
+C0115,Sunday Systems 115,2025-04,Referral,Starter,2025-04,49,8.87,58
+C0115,Sunday Systems 115,2025-04,Referral,Starter,2025-05,49,8.87,0
+C0115,Sunday Systems 115,2025-04,Referral,Starter,2025-06,49,8.87,0
+C0115,Sunday Systems 115,2025-04,Referral,Starter,2025-07,49,8.87,0
+C0115,Sunday Systems 115,2025-04,Referral,Starter,2025-08,49,8.87,0
+C0115,Sunday Systems 115,2025-04,Referral,Starter,2025-09,49,8.87,0
+C0115,Sunday Systems 115,2025-04,Referral,Starter,2025-10,49,8.87,0
+C0116,Studio Studio 116,2025-04,Referral,Scale,2025-04,199,36.83,55
+C0116,Studio Studio 116,2025-04,Referral,Scale,2025-05,199,36.83,0
+C0116,Studio Studio 116,2025-04,Referral,Scale,2025-06,199,36.83,0
+C0116,Studio Studio 116,2025-04,Referral,Scale,2025-07,199,36.83,0
+C0116,Studio Studio 116,2025-04,Referral,Scale,2025-08,199,36.83,0
+C0116,Studio Studio 116,2025-04,Referral,Scale,2025-09,199,36.83,0
+C0116,Studio Studio 116,2025-04,Referral,Scale,2025-10,199,36.83,0
+C0116,Studio Studio 116,2025-04,Referral,Scale,2025-11,199,36.83,0
+C0116,Studio Studio 116,2025-04,Referral,Scale,2025-12,199,36.83,0
+C0117,Pebble Systems 117,2025-04,Partnerships,Growth,2025-04,99,24.66,183
+C0117,Pebble Systems 117,2025-04,Partnerships,Growth,2025-05,99,24.66,0
+C0117,Pebble Systems 117,2025-04,Partnerships,Growth,2025-06,99,24.66,0
+C0117,Pebble Systems 117,2025-04,Partnerships,Growth,2025-07,99,24.66,0
+C0117,Pebble Systems 117,2025-04,Partnerships,Growth,2025-08,99,24.66,0
+C0117,Pebble Systems 117,2025-04,Partnerships,Growth,2025-09,99,24.66,0
+C0117,Pebble Systems 117,2025-04,Partnerships,Growth,2025-10,99,24.66,0
+C0117,Pebble Systems 117,2025-04,Partnerships,Growth,2025-11,99,24.66,0
+C0117,Pebble Systems 117,2025-04,Partnerships,Growth,2025-12,99,24.66,0
+C0118,Aster Works 118,2025-04,Organic,Growth,2025-04,99,22.74,85
+C0118,Aster Works 118,2025-04,Organic,Growth,2025-05,99,22.74,0
+C0118,Aster Works 118,2025-04,Organic,Growth,2025-06,99,22.74,0
+C0118,Aster Works 118,2025-04,Organic,Growth,2025-07,99,22.74,0
+C0118,Aster Works 118,2025-04,Organic,Growth,2025-08,99,22.74,0
+C0118,Aster Works 118,2025-04,Organic,Growth,2025-09,99,22.74,0
+C0118,Aster Works 118,2025-04,Organic,Growth,2025-10,99,22.74,0
+C0118,Aster Works 118,2025-04,Organic,Growth,2025-11,99,22.74,0
+C0118,Aster Works 118,2025-04,Organic,Growth,2025-12,99,22.74,0
+C0119,Cove Systems 119,2025-04,Organic,Growth,2025-04,99,22.5,82
+C0119,Cove Systems 119,2025-04,Organic,Growth,2025-05,99,22.5,0
+C0119,Cove Systems 119,2025-04,Organic,Growth,2025-06,99,22.5,0
+C0119,Cove Systems 119,2025-04,Organic,Growth,2025-07,99,22.5,0
+C0119,Cove Systems 119,2025-04,Organic,Growth,2025-08,99,22.5,0
+C0119,Cove Systems 119,2025-04,Organic,Growth,2025-09,118.8,27,0
+C0119,Cove Systems 119,2025-04,Organic,Growth,2025-10,118.8,27,0
+C0119,Cove Systems 119,2025-04,Organic,Growth,2025-11,118.8,27,0
+C0119,Cove Systems 119,2025-04,Organic,Growth,2025-12,118.8,27,0
+C0120,Juniper Works 120,2025-04,Partnerships,Starter,2025-04,49,13.35,134
+C0120,Juniper Works 120,2025-04,Partnerships,Starter,2025-05,49,13.35,0
+C0120,Juniper Works 120,2025-04,Partnerships,Starter,2025-06,49,13.35,0
+C0120,Juniper Works 120,2025-04,Partnerships,Starter,2025-07,49,13.35,0
+C0120,Juniper Works 120,2025-04,Partnerships,Starter,2025-08,49,13.35,0
+C0120,Juniper Works 120,2025-04,Partnerships,Starter,2025-09,49,13.35,0
+C0120,Juniper Works 120,2025-04,Partnerships,Starter,2025-10,49,13.35,0
+C0120,Juniper Works 120,2025-04,Partnerships,Starter,2025-11,49,13.35,0
+C0120,Juniper Works 120,2025-04,Partnerships,Starter,2025-12,49,13.35,0
+C0121,Orbit Design 121,2025-04,Paid search,Starter,2025-04,49,15.82,329
+C0121,Orbit Design 121,2025-04,Paid search,Starter,2025-05,49,15.82,0
+C0121,Orbit Design 121,2025-04,Paid search,Starter,2025-06,49,15.82,0
+C0121,Orbit Design 121,2025-04,Paid search,Starter,2025-07,49,15.82,0
+C0121,Orbit Design 121,2025-04,Paid search,Starter,2025-08,49,15.82,0
+C0121,Orbit Design 121,2025-04,Paid search,Starter,2025-09,49,15.82,0
+C0122,Slate Studio 122,2025-04,Paid search,Starter,2025-04,49,17.75,324
+C0123,Mosaic Collective 123,2025-04,Referral,Starter,2025-04,49,10.57,50
+C0123,Mosaic Collective 123,2025-04,Referral,Starter,2025-05,49,10.57,0
+C0123,Mosaic Collective 123,2025-04,Referral,Starter,2025-06,49,10.57,0
+C0123,Mosaic Collective 123,2025-04,Referral,Starter,2025-07,49,10.57,0
+C0123,Mosaic Collective 123,2025-04,Referral,Starter,2025-08,49,10.57,0
+C0123,Mosaic Collective 123,2025-04,Referral,Starter,2025-09,49,10.57,0
+C0123,Mosaic Collective 123,2025-04,Referral,Starter,2025-10,49,10.57,0
+C0123,Mosaic Collective 123,2025-04,Referral,Starter,2025-11,49,10.57,0
+C0123,Mosaic Collective 123,2025-04,Referral,Starter,2025-12,49,10.57,0
+C0124,Cedar Systems 124,2025-04,Referral,Growth,2025-04,99,21.53,46
+C0125,Northstar Systems 125,2025-04,Organic,Scale,2025-04,199,39.32,72
+C0125,Northstar Systems 125,2025-04,Organic,Scale,2025-05,199,39.32,0
+C0125,Northstar Systems 125,2025-04,Organic,Scale,2025-06,199,39.32,0
+C0125,Northstar Systems 125,2025-04,Organic,Scale,2025-07,199,39.32,0
+C0125,Northstar Systems 125,2025-04,Organic,Scale,2025-08,199,39.32,0
+C0125,Northstar Systems 125,2025-04,Organic,Scale,2025-09,199,39.32,0
+C0125,Northstar Systems 125,2025-04,Organic,Scale,2025-10,199,39.32,0
+C0126,Willow Works 126,2025-04,Partnerships,Growth,2025-04,99,24.72,181
+C0126,Willow Works 126,2025-04,Partnerships,Growth,2025-05,99,24.72,0
+C0126,Willow Works 126,2025-04,Partnerships,Growth,2025-06,99,24.72,0
+C0126,Willow Works 126,2025-04,Partnerships,Growth,2025-07,99,24.72,0
+C0127,Beacon Design 127,2025-04,Organic,Growth,2025-04,99,20.15,86
+C0127,Beacon Design 127,2025-04,Organic,Growth,2025-05,99,20.15,0
+C0127,Beacon Design 127,2025-04,Organic,Growth,2025-06,99,20.15,0
+C0127,Beacon Design 127,2025-04,Organic,Growth,2025-07,99,20.15,0
+C0127,Beacon Design 127,2025-04,Organic,Growth,2025-08,99,20.15,0
+C0127,Beacon Design 127,2025-04,Organic,Growth,2025-09,99,20.15,0
+C0128,Forma Collective 128,2025-04,Organic,Growth,2025-04,99,20.81,96
+C0129,Atlas Studio 129,2025-04,Organic,Starter,2025-04,49,11.01,89
+C0129,Atlas Studio 129,2025-04,Organic,Starter,2025-05,49,11.01,0
+C0129,Atlas Studio 129,2025-04,Organic,Starter,2025-06,49,11.01,0
+C0129,Atlas Studio 129,2025-04,Organic,Starter,2025-07,49,11.01,0
+C0129,Atlas Studio 129,2025-04,Organic,Starter,2025-08,49,11.01,0
+C0129,Atlas Studio 129,2025-04,Organic,Starter,2025-09,49,11.01,0
+C0129,Atlas Studio 129,2025-04,Organic,Starter,2025-10,49,11.01,0
+C0129,Atlas Studio 129,2025-04,Organic,Starter,2025-11,49,11.01,0
+C0129,Atlas Studio 129,2025-04,Organic,Starter,2025-12,49,11.01,0
+C0130,Bloom Labs 130,2025-04,Organic,Starter,2025-04,49,9.88,87
+C0130,Bloom Labs 130,2025-04,Organic,Starter,2025-05,49,9.88,0
+C0130,Bloom Labs 130,2025-04,Organic,Starter,2025-06,49,9.88,0
+C0130,Bloom Labs 130,2025-04,Organic,Starter,2025-07,49,9.88,0
+C0130,Bloom Labs 130,2025-04,Organic,Starter,2025-08,49,9.88,0
+C0130,Bloom Labs 130,2025-04,Organic,Starter,2025-09,49,9.88,0
+C0130,Bloom Labs 130,2025-04,Organic,Starter,2025-10,49,9.88,0
+C0131,Kinfolk Studio 131,2025-04,Paid search,Starter,2025-04,49,17.6,307
+C0131,Kinfolk Studio 131,2025-04,Paid search,Starter,2025-05,49,17.6,0
+C0131,Kinfolk Studio 131,2025-04,Paid search,Starter,2025-06,49,17.6,0
+C0131,Kinfolk Studio 131,2025-04,Paid search,Starter,2025-07,49,17.6,0
+C0131,Kinfolk Studio 131,2025-04,Paid search,Starter,2025-08,49,17.6,0
+C0131,Kinfolk Studio 131,2025-04,Paid search,Starter,2025-09,49,17.6,0
+C0131,Kinfolk Studio 131,2025-04,Paid search,Starter,2025-10,49,17.6,0
+C0131,Kinfolk Studio 131,2025-04,Paid search,Starter,2025-11,49,17.6,0
+C0131,Kinfolk Studio 131,2025-04,Paid search,Starter,2025-12,49,17.6,0
+C0132,Lumen Systems 132,2025-04,Referral,Growth,2025-04,99,17.8,54
+C0132,Lumen Systems 132,2025-04,Referral,Growth,2025-05,99,17.8,0
+C0132,Lumen Systems 132,2025-04,Referral,Growth,2025-06,99,17.8,0
+C0132,Lumen Systems 132,2025-04,Referral,Growth,2025-07,99,17.8,0
+C0132,Lumen Systems 132,2025-04,Referral,Growth,2025-08,99,17.8,0
+C0132,Lumen Systems 132,2025-04,Referral,Growth,2025-09,99,17.8,0
+C0132,Lumen Systems 132,2025-04,Referral,Growth,2025-10,99,17.8,0
+C0132,Lumen Systems 132,2025-04,Referral,Growth,2025-11,99,17.8,0
+C0132,Lumen Systems 132,2025-04,Referral,Growth,2025-12,99,17.8,0
+C0133,Tandem Digital 133,2025-04,Referral,Growth,2025-04,99,19.15,49
+C0133,Tandem Digital 133,2025-04,Referral,Growth,2025-05,99,19.15,0
+C0133,Tandem Digital 133,2025-04,Referral,Growth,2025-06,99,19.15,0
+C0133,Tandem Digital 133,2025-04,Referral,Growth,2025-07,99,19.15,0
+C0133,Tandem Digital 133,2025-04,Referral,Growth,2025-08,99,19.15,0
+C0133,Tandem Digital 133,2025-04,Referral,Growth,2025-09,118.8,22.98,0
+C0133,Tandem Digital 133,2025-04,Referral,Growth,2025-10,118.8,22.98,0
+C0133,Tandem Digital 133,2025-04,Referral,Growth,2025-11,118.8,22.98,0
+C0133,Tandem Digital 133,2025-04,Referral,Growth,2025-12,118.8,22.98,0
+C0134,Olive Labs 134,2025-04,Organic,Starter,2025-04,49,9.92,98
+C0134,Olive Labs 134,2025-04,Organic,Starter,2025-05,49,9.92,0
+C0134,Olive Labs 134,2025-04,Organic,Starter,2025-06,49,9.92,0
+C0134,Olive Labs 134,2025-04,Organic,Starter,2025-07,49,9.92,0
+C0134,Olive Labs 134,2025-04,Organic,Starter,2025-08,49,9.92,0
+C0134,Olive Labs 134,2025-04,Organic,Starter,2025-09,49,9.92,0
+C0134,Olive Labs 134,2025-04,Organic,Starter,2025-10,49,9.92,0
+C0134,Olive Labs 134,2025-04,Organic,Starter,2025-11,49,9.92,0
+C0134,Olive Labs 134,2025-04,Organic,Starter,2025-12,49,9.92,0
+C0135,Sunday Labs 135,2025-04,Referral,Starter,2025-04,49,9.56,59
+C0135,Sunday Labs 135,2025-04,Referral,Starter,2025-05,49,9.56,0
+C0135,Sunday Labs 135,2025-04,Referral,Starter,2025-06,49,9.56,0
+C0135,Sunday Labs 135,2025-04,Referral,Starter,2025-07,49,9.56,0
+C0135,Sunday Labs 135,2025-04,Referral,Starter,2025-08,49,9.56,0
+C0135,Sunday Labs 135,2025-04,Referral,Starter,2025-09,49,9.56,0
+C0135,Sunday Labs 135,2025-04,Referral,Starter,2025-10,49,9.56,0
+C0135,Sunday Labs 135,2025-04,Referral,Starter,2025-11,49,9.56,0
+C0135,Sunday Labs 135,2025-04,Referral,Starter,2025-12,49,9.56,0
+C0136,Studio Studio 136,2025-04,Paid search,Growth,2025-04,99,34.19,288
+C0136,Studio Studio 136,2025-04,Paid search,Growth,2025-05,99,34.19,0
+C0137,Pebble Design 137,2025-04,Partnerships,Starter,2025-04,49,14.11,136
+C0137,Pebble Design 137,2025-04,Partnerships,Starter,2025-05,49,14.11,0
+C0137,Pebble Design 137,2025-04,Partnerships,Starter,2025-06,49,14.11,0
+C0137,Pebble Design 137,2025-04,Partnerships,Starter,2025-07,49,14.11,0
+C0137,Pebble Design 137,2025-04,Partnerships,Starter,2025-08,49,14.11,0
+C0137,Pebble Design 137,2025-04,Partnerships,Starter,2025-09,49,14.11,0
+C0137,Pebble Design 137,2025-04,Partnerships,Starter,2025-10,49,14.11,0
+C0137,Pebble Design 137,2025-04,Partnerships,Starter,2025-11,49,14.11,0
+C0137,Pebble Design 137,2025-04,Partnerships,Starter,2025-12,49,14.11,0
+C0138,Aster Collective 138,2025-04,Partnerships,Starter,2025-04,49,12.13,154
+C0139,Cove Collective 139,2025-04,Partnerships,Starter,2025-04,49,12.27,134
+C0139,Cove Collective 139,2025-04,Partnerships,Starter,2025-05,49,12.27,0
+C0139,Cove Collective 139,2025-04,Partnerships,Starter,2025-06,49,12.27,0
+C0139,Cove Collective 139,2025-04,Partnerships,Starter,2025-07,49,12.27,0
+C0139,Cove Collective 139,2025-04,Partnerships,Starter,2025-08,49,12.27,0
+C0139,Cove Collective 139,2025-04,Partnerships,Starter,2025-09,49,12.27,0
+C0139,Cove Collective 139,2025-04,Partnerships,Starter,2025-10,49,12.27,0
+C0139,Cove Collective 139,2025-04,Partnerships,Starter,2025-11,49,12.27,0
+C0139,Cove Collective 139,2025-04,Partnerships,Starter,2025-12,49,12.27,0
+C0140,Juniper Studio 140,2025-05,Referral,Growth,2025-05,99,19.16,60
+C0141,Orbit Works 141,2025-05,Organic,Growth,2025-05,99,19.12,80
+C0141,Orbit Works 141,2025-05,Organic,Growth,2025-06,99,19.12,0
+C0141,Orbit Works 141,2025-05,Organic,Growth,2025-07,99,19.12,0
+C0141,Orbit Works 141,2025-05,Organic,Growth,2025-08,99,19.12,0
+C0141,Orbit Works 141,2025-05,Organic,Growth,2025-09,99,19.12,0
+C0141,Orbit Works 141,2025-05,Organic,Growth,2025-10,99,19.12,0
+C0141,Orbit Works 141,2025-05,Organic,Growth,2025-11,99,19.12,0
+C0141,Orbit Works 141,2025-05,Organic,Growth,2025-12,99,19.12,0
+C0142,Slate Digital 142,2025-05,Organic,Starter,2025-05,49,10.81,76
+C0142,Slate Digital 142,2025-05,Organic,Starter,2025-06,49,10.81,0
+C0142,Slate Digital 142,2025-05,Organic,Starter,2025-07,49,10.81,0
+C0142,Slate Digital 142,2025-05,Organic,Starter,2025-08,49,10.81,0
+C0142,Slate Digital 142,2025-05,Organic,Starter,2025-09,49,10.81,0
+C0142,Slate Digital 142,2025-05,Organic,Starter,2025-10,49,10.81,0
+C0142,Slate Digital 142,2025-05,Organic,Starter,2025-11,49,10.81,0
+C0142,Slate Digital 142,2025-05,Organic,Starter,2025-12,49,10.81,0
+C0143,Mosaic Digital 143,2025-05,Paid search,Starter,2025-05,49,17.16,307
+C0143,Mosaic Digital 143,2025-05,Paid search,Starter,2025-06,49,17.16,0
+C0143,Mosaic Digital 143,2025-05,Paid search,Starter,2025-07,49,17.16,0
+C0143,Mosaic Digital 143,2025-05,Paid search,Starter,2025-08,49,17.16,0
+C0143,Mosaic Digital 143,2025-05,Paid search,Starter,2025-09,49,17.16,0
+C0143,Mosaic Digital 143,2025-05,Paid search,Starter,2025-10,49,17.16,0
+C0144,Cedar Design 144,2025-05,Partnerships,Growth,2025-05,99,27.77,140
+C0144,Cedar Design 144,2025-05,Partnerships,Growth,2025-06,99,27.77,0
+C0144,Cedar Design 144,2025-05,Partnerships,Growth,2025-07,99,27.77,0
+C0144,Cedar Design 144,2025-05,Partnerships,Growth,2025-08,99,27.77,0
+C0144,Cedar Design 144,2025-05,Partnerships,Growth,2025-09,99,27.77,0
+C0144,Cedar Design 144,2025-05,Partnerships,Growth,2025-10,99,27.77,0
+C0144,Cedar Design 144,2025-05,Partnerships,Growth,2025-11,99,27.77,0
+C0145,Northstar & Co. 145,2025-05,Paid search,Starter,2025-05,49,17.56,304
+C0145,Northstar & Co. 145,2025-05,Paid search,Starter,2025-06,49,17.56,0
+C0145,Northstar & Co. 145,2025-05,Paid search,Starter,2025-07,49,17.56,0
+C0145,Northstar & Co. 145,2025-05,Paid search,Starter,2025-08,49,17.56,0
+C0145,Northstar & Co. 145,2025-05,Paid search,Starter,2025-09,49,17.56,0
+C0145,Northstar & Co. 145,2025-05,Paid search,Starter,2025-10,49,17.56,0
+C0145,Northstar & Co. 145,2025-05,Paid search,Starter,2025-11,49,17.56,0
+C0146,Willow Labs 146,2025-05,Referral,Growth,2025-05,99,17.25,50
+C0146,Willow Labs 146,2025-05,Referral,Growth,2025-06,99,17.25,0
+C0146,Willow Labs 146,2025-05,Referral,Growth,2025-07,99,17.25,0
+C0146,Willow Labs 146,2025-05,Referral,Growth,2025-08,99,17.25,0
+C0146,Willow Labs 146,2025-05,Referral,Growth,2025-09,99,17.25,0
+C0146,Willow Labs 146,2025-05,Referral,Growth,2025-10,99,17.25,0
+C0146,Willow Labs 146,2025-05,Referral,Growth,2025-11,99,17.25,0
+C0146,Willow Labs 146,2025-05,Referral,Growth,2025-12,99,17.25,0
+C0147,Beacon Systems 147,2025-05,Paid search,Starter,2025-05,49,18.03,329
+C0147,Beacon Systems 147,2025-05,Paid search,Starter,2025-06,49,18.03,0
+C0147,Beacon Systems 147,2025-05,Paid search,Starter,2025-07,49,18.03,0
+C0147,Beacon Systems 147,2025-05,Paid search,Starter,2025-08,49,18.03,0
+C0147,Beacon Systems 147,2025-05,Paid search,Starter,2025-09,49,18.03,0
+C0147,Beacon Systems 147,2025-05,Paid search,Starter,2025-10,58.8,21.63,0
+C0147,Beacon Systems 147,2025-05,Paid search,Starter,2025-11,58.8,21.63,0
+C0148,Forma Works 148,2025-05,Referral,Growth,2025-05,99,16.95,55
+C0148,Forma Works 148,2025-05,Referral,Growth,2025-06,99,16.95,0
+C0148,Forma Works 148,2025-05,Referral,Growth,2025-07,99,16.95,0
+C0148,Forma Works 148,2025-05,Referral,Growth,2025-08,99,16.95,0
+C0148,Forma Works 148,2025-05,Referral,Growth,2025-09,99,16.95,0
+C0148,Forma Works 148,2025-05,Referral,Growth,2025-10,99,16.95,0
+C0148,Forma Works 148,2025-05,Referral,Growth,2025-11,99,16.95,0
+C0148,Forma Works 148,2025-05,Referral,Growth,2025-12,99,16.95,0
+C0149,Atlas Digital 149,2025-05,Paid search,Growth,2025-05,99,32.57,297
+C0149,Atlas Digital 149,2025-05,Paid search,Growth,2025-06,99,32.57,0
+C0149,Atlas Digital 149,2025-05,Paid search,Growth,2025-07,99,32.57,0
+C0150,Bloom Digital 150,2025-05,Partnerships,Scale,2025-05,199,48.57,156
+C0150,Bloom Digital 150,2025-05,Partnerships,Scale,2025-06,199,48.57,0
+C0150,Bloom Digital 150,2025-05,Partnerships,Scale,2025-07,199,48.57,0
+C0150,Bloom Digital 150,2025-05,Partnerships,Scale,2025-08,199,48.57,0
+C0150,Bloom Digital 150,2025-05,Partnerships,Scale,2025-09,199,48.57,0
+C0150,Bloom Digital 150,2025-05,Partnerships,Scale,2025-10,199,48.57,0
+C0150,Bloom Digital 150,2025-05,Partnerships,Scale,2025-11,199,48.57,0
+C0150,Bloom Digital 150,2025-05,Partnerships,Scale,2025-12,199,48.57,0
+C0151,Kinfolk Design 151,2025-05,Paid search,Scale,2025-05,199,70.8,250
+C0151,Kinfolk Design 151,2025-05,Paid search,Scale,2025-06,199,70.8,0
+C0151,Kinfolk Design 151,2025-05,Paid search,Scale,2025-07,199,70.8,0
+C0151,Kinfolk Design 151,2025-05,Paid search,Scale,2025-08,199,70.8,0
+C0151,Kinfolk Design 151,2025-05,Paid search,Scale,2025-09,199,70.8,0
+C0151,Kinfolk Design 151,2025-05,Paid search,Scale,2025-10,199,70.8,0
+C0151,Kinfolk Design 151,2025-05,Paid search,Scale,2025-11,199,70.8,0
+C0151,Kinfolk Design 151,2025-05,Paid search,Scale,2025-12,199,70.8,0
+C0152,Lumen Systems 152,2025-05,Organic,Growth,2025-05,99,21.25,96
+C0152,Lumen Systems 152,2025-05,Organic,Growth,2025-06,99,21.25,0
+C0152,Lumen Systems 152,2025-05,Organic,Growth,2025-07,99,21.25,0
+C0152,Lumen Systems 152,2025-05,Organic,Growth,2025-08,99,21.25,0
+C0152,Lumen Systems 152,2025-05,Organic,Growth,2025-09,99,21.25,0
+C0152,Lumen Systems 152,2025-05,Organic,Growth,2025-10,99,21.25,0
+C0152,Lumen Systems 152,2025-05,Organic,Growth,2025-11,99,21.25,0
+C0152,Lumen Systems 152,2025-05,Organic,Growth,2025-12,99,21.25,0
+C0153,Tandem Design 153,2025-05,Organic,Growth,2025-05,99,22.67,76
+C0154,Olive & Co. 154,2025-05,Partnerships,Growth,2025-05,99,27.3,150
+C0154,Olive & Co. 154,2025-05,Partnerships,Growth,2025-06,99,27.3,0
+C0154,Olive & Co. 154,2025-05,Partnerships,Growth,2025-07,99,27.3,0
+C0154,Olive & Co. 154,2025-05,Partnerships,Growth,2025-08,99,27.3,0
+C0154,Olive & Co. 154,2025-05,Partnerships,Growth,2025-09,99,27.3,0
+C0154,Olive & Co. 154,2025-05,Partnerships,Growth,2025-10,118.8,32.76,0
+C0154,Olive & Co. 154,2025-05,Partnerships,Growth,2025-11,118.8,32.76,0
+C0155,Sunday Studio 155,2025-05,Paid search,Growth,2025-05,99,35.43,276
+C0155,Sunday Studio 155,2025-05,Paid search,Growth,2025-06,99,35.43,0
+C0155,Sunday Studio 155,2025-05,Paid search,Growth,2025-07,99,35.43,0
+C0155,Sunday Studio 155,2025-05,Paid search,Growth,2025-08,99,35.43,0
+C0155,Sunday Studio 155,2025-05,Paid search,Growth,2025-09,99,35.43,0
+C0156,Studio Design 156,2025-05,Organic,Scale,2025-05,199,41.99,90
+C0156,Studio Design 156,2025-05,Organic,Scale,2025-06,199,41.99,0
+C0156,Studio Design 156,2025-05,Organic,Scale,2025-07,199,41.99,0
+C0156,Studio Design 156,2025-05,Organic,Scale,2025-08,199,41.99,0
+C0156,Studio Design 156,2025-05,Organic,Scale,2025-09,199,41.99,0
+C0156,Studio Design 156,2025-05,Organic,Scale,2025-10,199,41.99,0
+C0156,Studio Design 156,2025-05,Organic,Scale,2025-11,199,41.99,0
+C0156,Studio Design 156,2025-05,Organic,Scale,2025-12,199,41.99,0
+C0157,Pebble & Co. 157,2025-05,Referral,Growth,2025-05,99,19.14,62
+C0157,Pebble & Co. 157,2025-05,Referral,Growth,2025-06,99,19.14,0
+C0157,Pebble & Co. 157,2025-05,Referral,Growth,2025-07,99,19.14,0
+C0157,Pebble & Co. 157,2025-05,Referral,Growth,2025-08,99,19.14,0
+C0157,Pebble & Co. 157,2025-05,Referral,Growth,2025-09,99,19.14,0
+C0157,Pebble & Co. 157,2025-05,Referral,Growth,2025-10,99,19.14,0
+C0157,Pebble & Co. 157,2025-05,Referral,Growth,2025-11,99,19.14,0
+C0157,Pebble & Co. 157,2025-05,Referral,Growth,2025-12,99,19.14,0
+C0158,Aster Works 158,2025-05,Paid search,Starter,2025-05,49,17.76,324
+C0158,Aster Works 158,2025-05,Paid search,Starter,2025-06,49,17.76,0
+C0159,Cove Studio 159,2025-05,Paid search,Growth,2025-05,99,35.37,254
+C0160,Juniper Digital 160,2025-05,Paid search,Growth,2025-05,99,33.2,301
+C0160,Juniper Digital 160,2025-05,Paid search,Growth,2025-06,99,33.2,0
+C0160,Juniper Digital 160,2025-05,Paid search,Growth,2025-07,99,33.2,0
+C0160,Juniper Digital 160,2025-05,Paid search,Growth,2025-08,99,33.2,0
+C0161,Orbit & Co. 161,2025-05,Organic,Starter,2025-05,49,11.75,102
+C0162,Slate Labs 162,2025-05,Organic,Starter,2025-05,49,10.12,71
+C0162,Slate Labs 162,2025-05,Organic,Starter,2025-06,49,10.12,0
+C0162,Slate Labs 162,2025-05,Organic,Starter,2025-07,49,10.12,0
+C0162,Slate Labs 162,2025-05,Organic,Starter,2025-08,49,10.12,0
+C0162,Slate Labs 162,2025-05,Organic,Starter,2025-09,49,10.12,0
+C0162,Slate Labs 162,2025-05,Organic,Starter,2025-10,49,10.12,0
+C0162,Slate Labs 162,2025-05,Organic,Starter,2025-11,49,10.12,0
+C0162,Slate Labs 162,2025-05,Organic,Starter,2025-12,49,10.12,0
+C0163,Mosaic Works 163,2025-05,Referral,Growth,2025-05,99,20,62
+C0163,Mosaic Works 163,2025-05,Referral,Growth,2025-06,99,20,0
+C0163,Mosaic Works 163,2025-05,Referral,Growth,2025-07,99,20,0
+C0163,Mosaic Works 163,2025-05,Referral,Growth,2025-08,99,20,0
+C0163,Mosaic Works 163,2025-05,Referral,Growth,2025-09,99,20,0
+C0163,Mosaic Works 163,2025-05,Referral,Growth,2025-10,99,20,0
+C0163,Mosaic Works 163,2025-05,Referral,Growth,2025-11,99,20,0
+C0163,Mosaic Works 163,2025-05,Referral,Growth,2025-12,99,20,0
+C0164,Cedar Collective 164,2025-05,Partnerships,Starter,2025-05,49,12.06,171
+C0164,Cedar Collective 164,2025-05,Partnerships,Starter,2025-06,49,12.06,0
+C0164,Cedar Collective 164,2025-05,Partnerships,Starter,2025-07,49,12.06,0
+C0164,Cedar Collective 164,2025-05,Partnerships,Starter,2025-08,49,12.06,0
+C0164,Cedar Collective 164,2025-05,Partnerships,Starter,2025-09,49,12.06,0
+C0164,Cedar Collective 164,2025-05,Partnerships,Starter,2025-10,49,12.06,0
+C0164,Cedar Collective 164,2025-05,Partnerships,Starter,2025-11,49,12.06,0
+C0164,Cedar Collective 164,2025-05,Partnerships,Starter,2025-12,49,12.06,0
+C0165,Northstar Collective 165,2025-05,Paid search,Scale,2025-05,199,66.46,312
+C0165,Northstar Collective 165,2025-05,Paid search,Scale,2025-06,199,66.46,0
+C0165,Northstar Collective 165,2025-05,Paid search,Scale,2025-07,199,66.46,0
+C0165,Northstar Collective 165,2025-05,Paid search,Scale,2025-08,199,66.46,0
+C0165,Northstar Collective 165,2025-05,Paid search,Scale,2025-09,199,66.46,0
+C0165,Northstar Collective 165,2025-05,Paid search,Scale,2025-10,199,66.46,0
+C0165,Northstar Collective 165,2025-05,Paid search,Scale,2025-11,199,66.46,0
+C0165,Northstar Collective 165,2025-05,Paid search,Scale,2025-12,199,66.46,0
+C0166,Willow Digital 166,2025-05,Organic,Growth,2025-05,99,19.55,84
+C0166,Willow Digital 166,2025-05,Organic,Growth,2025-06,99,19.55,0
+C0166,Willow Digital 166,2025-05,Organic,Growth,2025-07,99,19.55,0
+C0166,Willow Digital 166,2025-05,Organic,Growth,2025-08,99,19.55,0
+C0166,Willow Digital 166,2025-05,Organic,Growth,2025-09,99,19.55,0
+C0166,Willow Digital 166,2025-05,Organic,Growth,2025-10,99,19.55,0
+C0166,Willow Digital 166,2025-05,Organic,Growth,2025-11,99,19.55,0
+C0166,Willow Digital 166,2025-05,Organic,Growth,2025-12,99,19.55,0
+C0167,Beacon Works 167,2025-05,Paid search,Starter,2025-05,49,18.11,312
+C0167,Beacon Works 167,2025-05,Paid search,Starter,2025-06,49,18.11,0
+C0167,Beacon Works 167,2025-05,Paid search,Starter,2025-07,49,18.11,0
+C0167,Beacon Works 167,2025-05,Paid search,Starter,2025-08,49,18.11,0
+C0167,Beacon Works 167,2025-05,Paid search,Starter,2025-09,49,18.11,0
+C0168,Forma Studio 168,2025-05,Partnerships,Growth,2025-05,99,28.56,174
+C0168,Forma Studio 168,2025-05,Partnerships,Growth,2025-06,99,28.56,0
+C0168,Forma Studio 168,2025-05,Partnerships,Growth,2025-07,99,28.56,0
+C0169,Atlas Studio 169,2025-05,Organic,Growth,2025-05,99,20.89,74
+C0169,Atlas Studio 169,2025-05,Organic,Growth,2025-06,99,20.89,0
+C0169,Atlas Studio 169,2025-05,Organic,Growth,2025-07,99,20.89,0
+C0169,Atlas Studio 169,2025-05,Organic,Growth,2025-08,99,20.89,0
+C0169,Atlas Studio 169,2025-05,Organic,Growth,2025-09,99,20.89,0
+C0169,Atlas Studio 169,2025-05,Organic,Growth,2025-10,99,20.89,0
+C0169,Atlas Studio 169,2025-05,Organic,Growth,2025-11,99,20.89,0
+C0169,Atlas Studio 169,2025-05,Organic,Growth,2025-12,99,20.89,0
+C0170,Bloom & Co. 170,2025-05,Paid search,Growth,2025-05,99,36.26,303
+C0170,Bloom & Co. 170,2025-05,Paid search,Growth,2025-06,99,36.26,0
+C0170,Bloom & Co. 170,2025-05,Paid search,Growth,2025-07,99,36.26,0
+C0170,Bloom & Co. 170,2025-05,Paid search,Growth,2025-08,99,36.26,0
+C0170,Bloom & Co. 170,2025-05,Paid search,Growth,2025-09,99,36.26,0
+C0170,Bloom & Co. 170,2025-05,Paid search,Growth,2025-10,99,36.26,0
+C0170,Bloom & Co. 170,2025-05,Paid search,Growth,2025-11,99,36.26,0
+C0170,Bloom & Co. 170,2025-05,Paid search,Growth,2025-12,99,36.26,0
+C0171,Kinfolk & Co. 171,2025-05,Paid search,Growth,2025-05,99,34.41,275
+C0171,Kinfolk & Co. 171,2025-05,Paid search,Growth,2025-06,99,34.41,0
+C0172,Lumen Labs 172,2025-05,Paid search,Starter,2025-05,49,16.94,267
+C0172,Lumen Labs 172,2025-05,Paid search,Starter,2025-06,49,16.94,0
+C0172,Lumen Labs 172,2025-05,Paid search,Starter,2025-07,49,16.94,0
+C0172,Lumen Labs 172,2025-05,Paid search,Starter,2025-08,49,16.94,0
+C0172,Lumen Labs 172,2025-05,Paid search,Starter,2025-09,49,16.94,0
+C0172,Lumen Labs 172,2025-05,Paid search,Starter,2025-10,49,16.94,0
+C0172,Lumen Labs 172,2025-05,Paid search,Starter,2025-11,49,16.94,0
+C0172,Lumen Labs 172,2025-05,Paid search,Starter,2025-12,49,16.94,0
+C0173,Tandem & Co. 173,2025-05,Organic,Growth,2025-05,99,23.28,71
+C0173,Tandem & Co. 173,2025-05,Organic,Growth,2025-06,99,23.28,0
+C0173,Tandem & Co. 173,2025-05,Organic,Growth,2025-07,99,23.28,0
+C0173,Tandem & Co. 173,2025-05,Organic,Growth,2025-08,99,23.28,0
+C0173,Tandem & Co. 173,2025-05,Organic,Growth,2025-09,99,23.28,0
+C0173,Tandem & Co. 173,2025-05,Organic,Growth,2025-10,99,23.28,0
+C0173,Tandem & Co. 173,2025-05,Organic,Growth,2025-11,99,23.28,0
+C0174,Olive Systems 174,2025-05,Referral,Starter,2025-05,49,8.66,64
+C0174,Olive Systems 174,2025-05,Referral,Starter,2025-06,49,8.66,0
+C0174,Olive Systems 174,2025-05,Referral,Starter,2025-07,49,8.66,0
+C0174,Olive Systems 174,2025-05,Referral,Starter,2025-08,49,8.66,0
+C0174,Olive Systems 174,2025-05,Referral,Starter,2025-09,49,8.66,0
+C0174,Olive Systems 174,2025-05,Referral,Starter,2025-10,49,8.66,0
+C0174,Olive Systems 174,2025-05,Referral,Starter,2025-11,49,8.66,0
+C0174,Olive Systems 174,2025-05,Referral,Starter,2025-12,49,8.66,0
+C0175,Sunday & Co. 175,2025-05,Paid search,Starter,2025-05,49,16.82,253
+C0176,Studio Works 176,2025-05,Organic,Growth,2025-05,99,23.48,73
+C0176,Studio Works 176,2025-05,Organic,Growth,2025-06,99,23.48,0
+C0176,Studio Works 176,2025-05,Organic,Growth,2025-07,99,23.48,0
+C0176,Studio Works 176,2025-05,Organic,Growth,2025-08,99,23.48,0
+C0176,Studio Works 176,2025-05,Organic,Growth,2025-09,99,23.48,0
+C0176,Studio Works 176,2025-05,Organic,Growth,2025-10,99,23.48,0
+C0176,Studio Works 176,2025-05,Organic,Growth,2025-11,99,23.48,0
+C0176,Studio Works 176,2025-05,Organic,Growth,2025-12,99,23.48,0
+C0177,Pebble Collective 177,2025-05,Paid search,Growth,2025-05,99,35.94,265
+C0177,Pebble Collective 177,2025-05,Paid search,Growth,2025-06,99,35.94,0
+C0177,Pebble Collective 177,2025-05,Paid search,Growth,2025-07,99,35.94,0
+C0177,Pebble Collective 177,2025-05,Paid search,Growth,2025-08,99,35.94,0
+C0177,Pebble Collective 177,2025-05,Paid search,Growth,2025-09,99,35.94,0
+C0177,Pebble Collective 177,2025-05,Paid search,Growth,2025-10,99,35.94,0
+C0177,Pebble Collective 177,2025-05,Paid search,Growth,2025-11,99,35.94,0
+C0178,Aster Collective 178,2025-05,Paid search,Starter,2025-05,49,17.59,276
+C0178,Aster Collective 178,2025-05,Paid search,Starter,2025-06,49,17.59,0
+C0179,Cove Works 179,2025-05,Paid search,Scale,2025-05,199,68.59,255
+C0179,Cove Works 179,2025-05,Paid search,Scale,2025-06,199,68.59,0
+C0179,Cove Works 179,2025-05,Paid search,Scale,2025-07,199,68.59,0
+C0179,Cove Works 179,2025-05,Paid search,Scale,2025-08,199,68.59,0
+C0179,Cove Works 179,2025-05,Paid search,Scale,2025-09,199,68.59,0
+C0179,Cove Works 179,2025-05,Paid search,Scale,2025-10,199,68.59,0
+C0179,Cove Works 179,2025-05,Paid search,Scale,2025-11,199,68.59,0
+C0180,Juniper Studio 180,2025-05,Paid search,Growth,2025-05,99,32.19,299
+C0180,Juniper Studio 180,2025-05,Paid search,Growth,2025-06,99,32.19,0
+C0181,Orbit Collective 181,2025-06,Organic,Starter,2025-06,49,9.71,78
+C0181,Orbit Collective 181,2025-06,Organic,Starter,2025-07,49,9.71,0
+C0181,Orbit Collective 181,2025-06,Organic,Starter,2025-08,49,9.71,0
+C0181,Orbit Collective 181,2025-06,Organic,Starter,2025-09,49,9.71,0
+C0181,Orbit Collective 181,2025-06,Organic,Starter,2025-10,49,9.71,0
+C0181,Orbit Collective 181,2025-06,Organic,Starter,2025-11,49,9.71,0
+C0181,Orbit Collective 181,2025-06,Organic,Starter,2025-12,49,9.71,0
+C0182,Slate Digital 182,2025-06,Paid search,Scale,2025-06,199,73.44,241
+C0183,Mosaic Labs 183,2025-06,Organic,Starter,2025-06,49,11.44,97
+C0184,Cedar Works 184,2025-06,Referral,Starter,2025-06,49,8.66,46
+C0184,Cedar Works 184,2025-06,Referral,Starter,2025-07,49,8.66,0
+C0184,Cedar Works 184,2025-06,Referral,Starter,2025-08,49,8.66,0
+C0184,Cedar Works 184,2025-06,Referral,Starter,2025-09,49,8.66,0
+C0184,Cedar Works 184,2025-06,Referral,Starter,2025-10,49,8.66,0
+C0184,Cedar Works 184,2025-06,Referral,Starter,2025-11,49,8.66,0
+C0184,Cedar Works 184,2025-06,Referral,Starter,2025-12,49,8.66,0
+C0185,Northstar Collective 185,2025-06,Referral,Growth,2025-06,99,18.72,64
+C0185,Northstar Collective 185,2025-06,Referral,Growth,2025-07,99,18.72,0
+C0185,Northstar Collective 185,2025-06,Referral,Growth,2025-08,99,18.72,0
+C0185,Northstar Collective 185,2025-06,Referral,Growth,2025-09,99,18.72,0
+C0185,Northstar Collective 185,2025-06,Referral,Growth,2025-10,99,18.72,0
+C0185,Northstar Collective 185,2025-06,Referral,Growth,2025-11,99,18.72,0
+C0185,Northstar Collective 185,2025-06,Referral,Growth,2025-12,99,18.72,0
+C0186,Willow Collective 186,2025-06,Referral,Starter,2025-06,49,9.55,52
+C0186,Willow Collective 186,2025-06,Referral,Starter,2025-07,49,9.55,0
+C0186,Willow Collective 186,2025-06,Referral,Starter,2025-08,49,9.55,0
+C0186,Willow Collective 186,2025-06,Referral,Starter,2025-09,49,9.55,0
+C0186,Willow Collective 186,2025-06,Referral,Starter,2025-10,49,9.55,0
+C0186,Willow Collective 186,2025-06,Referral,Starter,2025-11,49,9.55,0
+C0186,Willow Collective 186,2025-06,Referral,Starter,2025-12,49,9.55,0
+C0187,Beacon Systems 187,2025-06,Paid search,Starter,2025-06,49,17.67,250
+C0187,Beacon Systems 187,2025-06,Paid search,Starter,2025-07,49,17.67,0
+C0187,Beacon Systems 187,2025-06,Paid search,Starter,2025-08,49,17.67,0
+C0187,Beacon Systems 187,2025-06,Paid search,Starter,2025-09,49,17.67,0
+C0187,Beacon Systems 187,2025-06,Paid search,Starter,2025-10,49,17.67,0
+C0187,Beacon Systems 187,2025-06,Paid search,Starter,2025-11,49,17.67,0
+C0188,Forma & Co. 188,2025-06,Partnerships,Starter,2025-06,49,12.3,147
+C0188,Forma & Co. 188,2025-06,Partnerships,Starter,2025-07,49,12.3,0
+C0188,Forma & Co. 188,2025-06,Partnerships,Starter,2025-08,49,12.3,0
+C0188,Forma & Co. 188,2025-06,Partnerships,Starter,2025-09,49,12.3,0
+C0188,Forma & Co. 188,2025-06,Partnerships,Starter,2025-10,49,12.3,0
+C0189,Atlas Collective 189,2025-06,Referral,Starter,2025-06,49,9.66,49
+C0189,Atlas Collective 189,2025-06,Referral,Starter,2025-07,49,9.66,0
+C0189,Atlas Collective 189,2025-06,Referral,Starter,2025-08,49,9.66,0
+C0189,Atlas Collective 189,2025-06,Referral,Starter,2025-09,49,9.66,0
+C0189,Atlas Collective 189,2025-06,Referral,Starter,2025-10,49,9.66,0
+C0189,Atlas Collective 189,2025-06,Referral,Starter,2025-11,58.8,11.59,0
+C0189,Atlas Collective 189,2025-06,Referral,Starter,2025-12,58.8,11.59,0
+C0190,Bloom Systems 190,2025-06,Paid search,Starter,2025-06,49,17.46,340
+C0191,Kinfolk Digital 191,2025-06,Paid search,Starter,2025-06,49,17.34,257
+C0191,Kinfolk Digital 191,2025-06,Paid search,Starter,2025-07,49,17.34,0
+C0191,Kinfolk Digital 191,2025-06,Paid search,Starter,2025-08,49,17.34,0
+C0191,Kinfolk Digital 191,2025-06,Paid search,Starter,2025-09,49,17.34,0
+C0191,Kinfolk Digital 191,2025-06,Paid search,Starter,2025-10,49,17.34,0
+C0192,Lumen Systems 192,2025-06,Referral,Growth,2025-06,99,19.16,50
+C0192,Lumen Systems 192,2025-06,Referral,Growth,2025-07,99,19.16,0
+C0192,Lumen Systems 192,2025-06,Referral,Growth,2025-08,99,19.16,0
+C0192,Lumen Systems 192,2025-06,Referral,Growth,2025-09,99,19.16,0
+C0192,Lumen Systems 192,2025-06,Referral,Growth,2025-10,99,19.16,0
+C0192,Lumen Systems 192,2025-06,Referral,Growth,2025-11,99,19.16,0
+C0192,Lumen Systems 192,2025-06,Referral,Growth,2025-12,99,19.16,0
+C0193,Tandem Labs 193,2025-06,Partnerships,Growth,2025-06,99,26.35,176
+C0193,Tandem Labs 193,2025-06,Partnerships,Growth,2025-07,99,26.35,0
+C0193,Tandem Labs 193,2025-06,Partnerships,Growth,2025-08,99,26.35,0
+C0193,Tandem Labs 193,2025-06,Partnerships,Growth,2025-09,99,26.35,0
+C0193,Tandem Labs 193,2025-06,Partnerships,Growth,2025-10,99,26.35,0
+C0193,Tandem Labs 193,2025-06,Partnerships,Growth,2025-11,99,26.35,0
+C0193,Tandem Labs 193,2025-06,Partnerships,Growth,2025-12,99,26.35,0
+C0194,Olive Labs 194,2025-06,Organic,Starter,2025-06,49,9.56,93
+C0194,Olive Labs 194,2025-06,Organic,Starter,2025-07,49,9.56,0
+C0194,Olive Labs 194,2025-06,Organic,Starter,2025-08,49,9.56,0
+C0194,Olive Labs 194,2025-06,Organic,Starter,2025-09,49,9.56,0
+C0194,Olive Labs 194,2025-06,Organic,Starter,2025-10,49,9.56,0
+C0194,Olive Labs 194,2025-06,Organic,Starter,2025-11,49,9.56,0
+C0195,Sunday Labs 195,2025-06,Organic,Scale,2025-06,199,42.81,73
+C0195,Sunday Labs 195,2025-06,Organic,Scale,2025-07,199,42.81,0
+C0195,Sunday Labs 195,2025-06,Organic,Scale,2025-08,199,42.81,0
+C0195,Sunday Labs 195,2025-06,Organic,Scale,2025-09,199,42.81,0
+C0195,Sunday Labs 195,2025-06,Organic,Scale,2025-10,199,42.81,0
+C0195,Sunday Labs 195,2025-06,Organic,Scale,2025-11,199,42.81,0
+C0195,Sunday Labs 195,2025-06,Organic,Scale,2025-12,199,42.81,0
+C0196,Studio Digital 196,2025-06,Referral,Scale,2025-06,199,42.69,64
+C0196,Studio Digital 196,2025-06,Referral,Scale,2025-07,199,42.69,0
+C0196,Studio Digital 196,2025-06,Referral,Scale,2025-08,199,42.69,0
+C0196,Studio Digital 196,2025-06,Referral,Scale,2025-09,199,42.69,0
+C0196,Studio Digital 196,2025-06,Referral,Scale,2025-10,199,42.69,0
+C0196,Studio Digital 196,2025-06,Referral,Scale,2025-11,238.8,51.23,0
+C0196,Studio Digital 196,2025-06,Referral,Scale,2025-12,238.8,51.23,0
+C0197,Pebble Works 197,2025-06,Organic,Starter,2025-06,49,11.24,93
+C0197,Pebble Works 197,2025-06,Organic,Starter,2025-07,49,11.24,0
+C0198,Aster & Co. 198,2025-06,Referral,Starter,2025-06,49,8.45,50
+C0198,Aster & Co. 198,2025-06,Referral,Starter,2025-07,49,8.45,0
+C0198,Aster & Co. 198,2025-06,Referral,Starter,2025-08,49,8.45,0
+C0198,Aster & Co. 198,2025-06,Referral,Starter,2025-09,49,8.45,0
+C0198,Aster & Co. 198,2025-06,Referral,Starter,2025-10,49,8.45,0
+C0198,Aster & Co. 198,2025-06,Referral,Starter,2025-11,49,8.45,0
+C0198,Aster & Co. 198,2025-06,Referral,Starter,2025-12,49,8.45,0
+C0199,Cove Studio 199,2025-06,Paid search,Scale,2025-06,199,66.48,256
+C0200,Juniper Collective 200,2025-06,Organic,Growth,2025-06,99,20.03,79
+C0200,Juniper Collective 200,2025-06,Organic,Growth,2025-07,99,20.03,0
+C0200,Juniper Collective 200,2025-06,Organic,Growth,2025-08,99,20.03,0
+C0200,Juniper Collective 200,2025-06,Organic,Growth,2025-09,99,20.03,0
+C0200,Juniper Collective 200,2025-06,Organic,Growth,2025-10,99,20.03,0
+C0200,Juniper Collective 200,2025-06,Organic,Growth,2025-11,99,20.03,0
+C0200,Juniper Collective 200,2025-06,Organic,Growth,2025-12,99,20.03,0
+C0201,Orbit Systems 201,2025-06,Paid search,Starter,2025-06,49,16.04,339
+C0202,Slate Works 202,2025-06,Referral,Scale,2025-06,199,40.77,46
+C0202,Slate Works 202,2025-06,Referral,Scale,2025-07,199,40.77,0
+C0202,Slate Works 202,2025-06,Referral,Scale,2025-08,199,40.77,0
+C0202,Slate Works 202,2025-06,Referral,Scale,2025-09,199,40.77,0
+C0202,Slate Works 202,2025-06,Referral,Scale,2025-10,199,40.77,0
+C0202,Slate Works 202,2025-06,Referral,Scale,2025-11,199,40.77,0
+C0202,Slate Works 202,2025-06,Referral,Scale,2025-12,199,40.77,0
+C0203,Mosaic Systems 203,2025-06,Paid search,Starter,2025-06,49,16.17,263
+C0203,Mosaic Systems 203,2025-06,Paid search,Starter,2025-07,49,16.17,0
+C0203,Mosaic Systems 203,2025-06,Paid search,Starter,2025-08,49,16.17,0
+C0203,Mosaic Systems 203,2025-06,Paid search,Starter,2025-09,49,16.17,0
+C0203,Mosaic Systems 203,2025-06,Paid search,Starter,2025-10,49,16.17,0
+C0203,Mosaic Systems 203,2025-06,Paid search,Starter,2025-11,58.8,19.4,0
+C0203,Mosaic Systems 203,2025-06,Paid search,Starter,2025-12,58.8,19.4,0
+C0204,Cedar Collective 204,2025-06,Partnerships,Growth,2025-06,99,25.82,132
+C0205,Northstar Collective 205,2025-06,Referral,Scale,2025-06,199,42.28,55
+C0205,Northstar Collective 205,2025-06,Referral,Scale,2025-07,199,42.28,0
+C0205,Northstar Collective 205,2025-06,Referral,Scale,2025-08,199,42.28,0
+C0205,Northstar Collective 205,2025-06,Referral,Scale,2025-09,199,42.28,0
+C0205,Northstar Collective 205,2025-06,Referral,Scale,2025-10,199,42.28,0
+C0205,Northstar Collective 205,2025-06,Referral,Scale,2025-11,199,42.28,0
+C0205,Northstar Collective 205,2025-06,Referral,Scale,2025-12,199,42.28,0
+C0206,Willow Digital 206,2025-06,Organic,Growth,2025-06,99,23.31,73
+C0206,Willow Digital 206,2025-06,Organic,Growth,2025-07,99,23.31,0
+C0206,Willow Digital 206,2025-06,Organic,Growth,2025-08,99,23.31,0
+C0206,Willow Digital 206,2025-06,Organic,Growth,2025-09,99,23.31,0
+C0207,Beacon Labs 207,2025-06,Organic,Growth,2025-06,99,22.79,97
+C0207,Beacon Labs 207,2025-06,Organic,Growth,2025-07,99,22.79,0
+C0207,Beacon Labs 207,2025-06,Organic,Growth,2025-08,99,22.79,0
+C0207,Beacon Labs 207,2025-06,Organic,Growth,2025-09,99,22.79,0
+C0207,Beacon Labs 207,2025-06,Organic,Growth,2025-10,99,22.79,0
+C0207,Beacon Labs 207,2025-06,Organic,Growth,2025-11,99,22.79,0
+C0207,Beacon Labs 207,2025-06,Organic,Growth,2025-12,99,22.79,0
+C0208,Forma Collective 208,2025-06,Organic,Starter,2025-06,49,10.64,101
+C0208,Forma Collective 208,2025-06,Organic,Starter,2025-07,49,10.64,0
+C0208,Forma Collective 208,2025-06,Organic,Starter,2025-08,49,10.64,0
+C0208,Forma Collective 208,2025-06,Organic,Starter,2025-09,49,10.64,0
+C0208,Forma Collective 208,2025-06,Organic,Starter,2025-10,49,10.64,0
+C0208,Forma Collective 208,2025-06,Organic,Starter,2025-11,49,10.64,0
+C0208,Forma Collective 208,2025-06,Organic,Starter,2025-12,49,10.64,0
+C0209,Atlas Design 209,2025-06,Organic,Scale,2025-06,199,38.23,98
+C0209,Atlas Design 209,2025-06,Organic,Scale,2025-07,199,38.23,0
+C0209,Atlas Design 209,2025-06,Organic,Scale,2025-08,199,38.23,0
+C0209,Atlas Design 209,2025-06,Organic,Scale,2025-09,199,38.23,0
+C0209,Atlas Design 209,2025-06,Organic,Scale,2025-10,199,38.23,0
+C0209,Atlas Design 209,2025-06,Organic,Scale,2025-11,199,38.23,0
+C0209,Atlas Design 209,2025-06,Organic,Scale,2025-12,199,38.23,0
+C0210,Bloom & Co. 210,2025-06,Partnerships,Starter,2025-06,49,13.04,128
+C0210,Bloom & Co. 210,2025-06,Partnerships,Starter,2025-07,49,13.04,0
+C0210,Bloom & Co. 210,2025-06,Partnerships,Starter,2025-08,49,13.04,0
+C0210,Bloom & Co. 210,2025-06,Partnerships,Starter,2025-09,49,13.04,0
+C0210,Bloom & Co. 210,2025-06,Partnerships,Starter,2025-10,49,13.04,0
+C0210,Bloom & Co. 210,2025-06,Partnerships,Starter,2025-11,58.8,15.65,0
+C0210,Bloom & Co. 210,2025-06,Partnerships,Starter,2025-12,58.8,15.65,0
+C0211,Kinfolk Digital 211,2025-06,Paid search,Growth,2025-06,99,33.28,283
+C0211,Kinfolk Digital 211,2025-06,Paid search,Growth,2025-07,99,33.28,0
+C0211,Kinfolk Digital 211,2025-06,Paid search,Growth,2025-08,99,33.28,0
+C0211,Kinfolk Digital 211,2025-06,Paid search,Growth,2025-09,99,33.28,0
+C0211,Kinfolk Digital 211,2025-06,Paid search,Growth,2025-10,99,33.28,0
+C0211,Kinfolk Digital 211,2025-06,Paid search,Growth,2025-11,99,33.28,0
+C0211,Kinfolk Digital 211,2025-06,Paid search,Growth,2025-12,99,33.28,0
+C0212,Lumen Collective 212,2025-06,Referral,Growth,2025-06,99,17.87,63
+C0212,Lumen Collective 212,2025-06,Referral,Growth,2025-07,99,17.87,0
+C0212,Lumen Collective 212,2025-06,Referral,Growth,2025-08,99,17.87,0
+C0212,Lumen Collective 212,2025-06,Referral,Growth,2025-09,99,17.87,0
+C0212,Lumen Collective 212,2025-06,Referral,Growth,2025-10,99,17.87,0
+C0212,Lumen Collective 212,2025-06,Referral,Growth,2025-11,99,17.87,0
+C0212,Lumen Collective 212,2025-06,Referral,Growth,2025-12,99,17.87,0
+C0213,Tandem & Co. 213,2025-06,Organic,Starter,2025-06,49,10.23,70
+C0213,Tandem & Co. 213,2025-06,Organic,Starter,2025-07,49,10.23,0
+C0213,Tandem & Co. 213,2025-06,Organic,Starter,2025-08,49,10.23,0
+C0213,Tandem & Co. 213,2025-06,Organic,Starter,2025-09,49,10.23,0
+C0213,Tandem & Co. 213,2025-06,Organic,Starter,2025-10,49,10.23,0
+C0213,Tandem & Co. 213,2025-06,Organic,Starter,2025-11,49,10.23,0
+C0213,Tandem & Co. 213,2025-06,Organic,Starter,2025-12,49,10.23,0
+C0214,Olive & Co. 214,2025-06,Organic,Starter,2025-06,49,10.58,95
+C0214,Olive & Co. 214,2025-06,Organic,Starter,2025-07,49,10.58,0
+C0214,Olive & Co. 214,2025-06,Organic,Starter,2025-08,49,10.58,0
+C0214,Olive & Co. 214,2025-06,Organic,Starter,2025-09,49,10.58,0
+C0214,Olive & Co. 214,2025-06,Organic,Starter,2025-10,49,10.58,0
+C0214,Olive & Co. 214,2025-06,Organic,Starter,2025-11,49,10.58,0
+C0214,Olive & Co. 214,2025-06,Organic,Starter,2025-12,49,10.58,0
+C0215,Sunday Systems 215,2025-06,Paid search,Starter,2025-06,49,17.02,236
+C0215,Sunday Systems 215,2025-06,Paid search,Starter,2025-07,49,17.02,0
+C0215,Sunday Systems 215,2025-06,Paid search,Starter,2025-08,49,17.02,0
+C0216,Studio Labs 216,2025-06,Organic,Growth,2025-06,99,20.04,79
+C0216,Studio Labs 216,2025-06,Organic,Growth,2025-07,99,20.04,0
+C0216,Studio Labs 216,2025-06,Organic,Growth,2025-08,99,20.04,0
+C0216,Studio Labs 216,2025-06,Organic,Growth,2025-09,99,20.04,0
+C0216,Studio Labs 216,2025-06,Organic,Growth,2025-10,99,20.04,0
+C0216,Studio Labs 216,2025-06,Organic,Growth,2025-11,99,20.04,0
+C0216,Studio Labs 216,2025-06,Organic,Growth,2025-12,99,20.04,0
+C0217,Pebble Works 217,2025-06,Organic,Growth,2025-06,99,18.93,91
+C0217,Pebble Works 217,2025-06,Organic,Growth,2025-07,99,18.93,0
+C0217,Pebble Works 217,2025-06,Organic,Growth,2025-08,99,18.93,0
+C0218,Aster Studio 218,2025-06,Referral,Growth,2025-06,99,21.09,58
+C0218,Aster Studio 218,2025-06,Referral,Growth,2025-07,99,21.09,0
+C0218,Aster Studio 218,2025-06,Referral,Growth,2025-08,99,21.09,0
+C0218,Aster Studio 218,2025-06,Referral,Growth,2025-09,99,21.09,0
+C0219,Cove Studio 219,2025-06,Organic,Growth,2025-06,99,19.84,96
+C0219,Cove Studio 219,2025-06,Organic,Growth,2025-07,99,19.84,0
+C0219,Cove Studio 219,2025-06,Organic,Growth,2025-08,99,19.84,0
+C0219,Cove Studio 219,2025-06,Organic,Growth,2025-09,99,19.84,0
+C0219,Cove Studio 219,2025-06,Organic,Growth,2025-10,99,19.84,0
+C0219,Cove Studio 219,2025-06,Organic,Growth,2025-11,99,19.84,0
+C0219,Cove Studio 219,2025-06,Organic,Growth,2025-12,99,19.84,0
+C0220,Juniper Labs 220,2025-06,Referral,Growth,2025-06,99,19.21,54
+C0220,Juniper Labs 220,2025-06,Referral,Growth,2025-07,99,19.21,0
+C0220,Juniper Labs 220,2025-06,Referral,Growth,2025-08,99,19.21,0
+C0220,Juniper Labs 220,2025-06,Referral,Growth,2025-09,99,19.21,0
+C0221,Orbit Labs 221,2025-06,Partnerships,Starter,2025-06,49,13.68,163
+C0221,Orbit Labs 221,2025-06,Partnerships,Starter,2025-07,49,13.68,0
+C0221,Orbit Labs 221,2025-06,Partnerships,Starter,2025-08,49,13.68,0
+C0221,Orbit Labs 221,2025-06,Partnerships,Starter,2025-09,49,13.68,0
+C0221,Orbit Labs 221,2025-06,Partnerships,Starter,2025-10,49,13.68,0
+C0221,Orbit Labs 221,2025-06,Partnerships,Starter,2025-11,49,13.68,0
+C0221,Orbit Labs 221,2025-06,Partnerships,Starter,2025-12,49,13.68,0
+C0222,Slate Works 222,2025-06,Organic,Starter,2025-06,49,10.07,92
+C0222,Slate Works 222,2025-06,Organic,Starter,2025-07,49,10.07,0
+C0222,Slate Works 222,2025-06,Organic,Starter,2025-08,49,10.07,0
+C0222,Slate Works 222,2025-06,Organic,Starter,2025-09,49,10.07,0
+C0222,Slate Works 222,2025-06,Organic,Starter,2025-10,49,10.07,0
+C0222,Slate Works 222,2025-06,Organic,Starter,2025-11,49,10.07,0
+C0222,Slate Works 222,2025-06,Organic,Starter,2025-12,49,10.07,0
+C0223,Mosaic Systems 223,2025-06,Referral,Growth,2025-06,99,21.72,48
+C0223,Mosaic Systems 223,2025-06,Referral,Growth,2025-07,99,21.72,0
+C0223,Mosaic Systems 223,2025-06,Referral,Growth,2025-08,99,21.72,0
+C0224,Cedar Design 224,2025-06,Paid search,Starter,2025-06,49,16.75,310
+C0224,Cedar Design 224,2025-06,Paid search,Starter,2025-07,49,16.75,0
+C0225,Northstar Labs 225,2025-06,Referral,Growth,2025-06,99,18.33,50
+C0225,Northstar Labs 225,2025-06,Referral,Growth,2025-07,99,18.33,0
+C0225,Northstar Labs 225,2025-06,Referral,Growth,2025-08,99,18.33,0
+C0225,Northstar Labs 225,2025-06,Referral,Growth,2025-09,99,18.33,0
+C0225,Northstar Labs 225,2025-06,Referral,Growth,2025-10,99,18.33,0
+C0225,Northstar Labs 225,2025-06,Referral,Growth,2025-11,99,18.33,0
+C0225,Northstar Labs 225,2025-06,Referral,Growth,2025-12,99,18.33,0
+C0226,Willow Studio 226,2025-06,Referral,Growth,2025-06,99,20.16,54
+C0226,Willow Studio 226,2025-06,Referral,Growth,2025-07,99,20.16,0
+C0226,Willow Studio 226,2025-06,Referral,Growth,2025-08,99,20.16,0
+C0226,Willow Studio 226,2025-06,Referral,Growth,2025-09,99,20.16,0
+C0226,Willow Studio 226,2025-06,Referral,Growth,2025-10,99,20.16,0
+C0226,Willow Studio 226,2025-06,Referral,Growth,2025-11,99,20.16,0
+C0226,Willow Studio 226,2025-06,Referral,Growth,2025-12,99,20.16,0
+C0227,Beacon Digital 227,2025-07,Organic,Growth,2025-07,99,23.62,93
+C0227,Beacon Digital 227,2025-07,Organic,Growth,2025-08,99,23.62,0
+C0227,Beacon Digital 227,2025-07,Organic,Growth,2025-09,99,23.62,0
+C0227,Beacon Digital 227,2025-07,Organic,Growth,2025-10,99,23.62,0
+C0227,Beacon Digital 227,2025-07,Organic,Growth,2025-11,99,23.62,0
+C0227,Beacon Digital 227,2025-07,Organic,Growth,2025-12,99,23.62,0
+C0228,Forma Works 228,2025-07,Paid search,Starter,2025-07,49,17.59,284
+C0228,Forma Works 228,2025-07,Paid search,Starter,2025-08,49,17.59,0
+C0228,Forma Works 228,2025-07,Paid search,Starter,2025-09,49,17.59,0
+C0228,Forma Works 228,2025-07,Paid search,Starter,2025-10,49,17.59,0
+C0228,Forma Works 228,2025-07,Paid search,Starter,2025-11,49,17.59,0
+C0228,Forma Works 228,2025-07,Paid search,Starter,2025-12,49,17.59,0
+C0229,Atlas & Co. 229,2025-07,Paid search,Growth,2025-07,99,33.25,254
+C0229,Atlas & Co. 229,2025-07,Paid search,Growth,2025-08,99,33.25,0
+C0229,Atlas & Co. 229,2025-07,Paid search,Growth,2025-09,99,33.25,0
+C0229,Atlas & Co. 229,2025-07,Paid search,Growth,2025-10,99,33.25,0
+C0229,Atlas & Co. 229,2025-07,Paid search,Growth,2025-11,99,33.25,0
+C0229,Atlas & Co. 229,2025-07,Paid search,Growth,2025-12,99,33.25,0
+C0230,Bloom Studio 230,2025-07,Paid search,Starter,2025-07,49,16.09,288
+C0230,Bloom Studio 230,2025-07,Paid search,Starter,2025-08,49,16.09,0
+C0230,Bloom Studio 230,2025-07,Paid search,Starter,2025-09,49,16.09,0
+C0230,Bloom Studio 230,2025-07,Paid search,Starter,2025-10,49,16.09,0
+C0230,Bloom Studio 230,2025-07,Paid search,Starter,2025-11,49,16.09,0
+C0230,Bloom Studio 230,2025-07,Paid search,Starter,2025-12,49,16.09,0
+C0231,Kinfolk Studio 231,2025-07,Partnerships,Starter,2025-07,49,13.83,184
+C0231,Kinfolk Studio 231,2025-07,Partnerships,Starter,2025-08,49,13.83,0
+C0231,Kinfolk Studio 231,2025-07,Partnerships,Starter,2025-09,49,13.83,0
+C0232,Lumen Labs 232,2025-07,Organic,Starter,2025-07,49,10.31,94
+C0232,Lumen Labs 232,2025-07,Organic,Starter,2025-08,49,10.31,0
+C0232,Lumen Labs 232,2025-07,Organic,Starter,2025-09,49,10.31,0
+C0232,Lumen Labs 232,2025-07,Organic,Starter,2025-10,49,10.31,0
+C0232,Lumen Labs 232,2025-07,Organic,Starter,2025-11,49,10.31,0
+C0232,Lumen Labs 232,2025-07,Organic,Starter,2025-12,49,10.31,0
+C0233,Tandem Systems 233,2025-07,Partnerships,Starter,2025-07,49,12.46,127
+C0233,Tandem Systems 233,2025-07,Partnerships,Starter,2025-08,49,12.46,0
+C0233,Tandem Systems 233,2025-07,Partnerships,Starter,2025-09,49,12.46,0
+C0233,Tandem Systems 233,2025-07,Partnerships,Starter,2025-10,49,12.46,0
+C0233,Tandem Systems 233,2025-07,Partnerships,Starter,2025-11,49,12.46,0
+C0233,Tandem Systems 233,2025-07,Partnerships,Starter,2025-12,49,12.46,0
+C0234,Olive Systems 234,2025-07,Paid search,Starter,2025-07,49,17.88,273
+C0235,Sunday Works 235,2025-07,Partnerships,Growth,2025-07,99,24.08,160
+C0235,Sunday Works 235,2025-07,Partnerships,Growth,2025-08,99,24.08,0
+C0235,Sunday Works 235,2025-07,Partnerships,Growth,2025-09,99,24.08,0
+C0235,Sunday Works 235,2025-07,Partnerships,Growth,2025-10,99,24.08,0
+C0236,Studio & Co. 236,2025-07,Organic,Starter,2025-07,49,9.34,78
+C0236,Studio & Co. 236,2025-07,Organic,Starter,2025-08,49,9.34,0
+C0236,Studio & Co. 236,2025-07,Organic,Starter,2025-09,49,9.34,0
+C0236,Studio & Co. 236,2025-07,Organic,Starter,2025-10,49,9.34,0
+C0236,Studio & Co. 236,2025-07,Organic,Starter,2025-11,49,9.34,0
+C0236,Studio & Co. 236,2025-07,Organic,Starter,2025-12,49,9.34,0
+C0237,Pebble Works 237,2025-07,Organic,Scale,2025-07,199,46.69,87
+C0237,Pebble Works 237,2025-07,Organic,Scale,2025-08,199,46.69,0
+C0237,Pebble Works 237,2025-07,Organic,Scale,2025-09,199,46.69,0
+C0237,Pebble Works 237,2025-07,Organic,Scale,2025-10,199,46.69,0
+C0237,Pebble Works 237,2025-07,Organic,Scale,2025-11,199,46.69,0
+C0237,Pebble Works 237,2025-07,Organic,Scale,2025-12,199,46.69,0
+C0238,Aster Systems 238,2025-07,Referral,Starter,2025-07,49,10.28,64
+C0238,Aster Systems 238,2025-07,Referral,Starter,2025-08,49,10.28,0
+C0238,Aster Systems 238,2025-07,Referral,Starter,2025-09,49,10.28,0
+C0238,Aster Systems 238,2025-07,Referral,Starter,2025-10,49,10.28,0
+C0238,Aster Systems 238,2025-07,Referral,Starter,2025-11,49,10.28,0
+C0238,Aster Systems 238,2025-07,Referral,Starter,2025-12,58.8,12.34,0
+C0239,Cove Works 239,2025-07,Organic,Starter,2025-07,49,9.83,100
+C0239,Cove Works 239,2025-07,Organic,Starter,2025-08,49,9.83,0
+C0239,Cove Works 239,2025-07,Organic,Starter,2025-09,49,9.83,0
+C0239,Cove Works 239,2025-07,Organic,Starter,2025-10,49,9.83,0
+C0239,Cove Works 239,2025-07,Organic,Starter,2025-11,49,9.83,0
+C0239,Cove Works 239,2025-07,Organic,Starter,2025-12,49,9.83,0
+C0240,Juniper Collective 240,2025-07,Organic,Scale,2025-07,199,39.83,75
+C0241,Orbit Systems 241,2025-07,Partnerships,Starter,2025-07,49,12.51,162
+C0242,Slate Collective 242,2025-07,Referral,Starter,2025-07,49,10.4,61
+C0242,Slate Collective 242,2025-07,Referral,Starter,2025-08,49,10.4,0
+C0242,Slate Collective 242,2025-07,Referral,Starter,2025-09,49,10.4,0
+C0242,Slate Collective 242,2025-07,Referral,Starter,2025-10,49,10.4,0
+C0242,Slate Collective 242,2025-07,Referral,Starter,2025-11,49,10.4,0
+C0242,Slate Collective 242,2025-07,Referral,Starter,2025-12,49,10.4,0
+C0243,Mosaic Studio 243,2025-07,Organic,Starter,2025-07,49,9.44,82
+C0243,Mosaic Studio 243,2025-07,Organic,Starter,2025-08,49,9.44,0
+C0243,Mosaic Studio 243,2025-07,Organic,Starter,2025-09,49,9.44,0
+C0243,Mosaic Studio 243,2025-07,Organic,Starter,2025-10,49,9.44,0
+C0243,Mosaic Studio 243,2025-07,Organic,Starter,2025-11,49,9.44,0
+C0243,Mosaic Studio 243,2025-07,Organic,Starter,2025-12,49,9.44,0
+C0244,Cedar Digital 244,2025-07,Paid search,Starter,2025-07,49,17.79,263
+C0245,Northstar Digital 245,2025-07,Organic,Growth,2025-07,99,22.19,80
+C0245,Northstar Digital 245,2025-07,Organic,Growth,2025-08,99,22.19,0
+C0245,Northstar Digital 245,2025-07,Organic,Growth,2025-09,99,22.19,0
+C0245,Northstar Digital 245,2025-07,Organic,Growth,2025-10,99,22.19,0
+C0245,Northstar Digital 245,2025-07,Organic,Growth,2025-11,99,22.19,0
+C0246,Willow Systems 246,2025-07,Referral,Starter,2025-07,49,8.47,51
+C0246,Willow Systems 246,2025-07,Referral,Starter,2025-08,49,8.47,0
+C0246,Willow Systems 246,2025-07,Referral,Starter,2025-09,49,8.47,0
+C0246,Willow Systems 246,2025-07,Referral,Starter,2025-10,49,8.47,0
+C0246,Willow Systems 246,2025-07,Referral,Starter,2025-11,49,8.47,0
+C0246,Willow Systems 246,2025-07,Referral,Starter,2025-12,49,8.47,0
+C0247,Beacon Digital 247,2025-07,Partnerships,Scale,2025-07,199,52.17,124
+C0247,Beacon Digital 247,2025-07,Partnerships,Scale,2025-08,199,52.17,0
+C0247,Beacon Digital 247,2025-07,Partnerships,Scale,2025-09,199,52.17,0
+C0247,Beacon Digital 247,2025-07,Partnerships,Scale,2025-10,199,52.17,0
+C0247,Beacon Digital 247,2025-07,Partnerships,Scale,2025-11,199,52.17,0
+C0247,Beacon Digital 247,2025-07,Partnerships,Scale,2025-12,199,52.17,0
+C0248,Forma Studio 248,2025-07,Referral,Growth,2025-07,99,17.96,52
+C0248,Forma Studio 248,2025-07,Referral,Growth,2025-08,99,17.96,0
+C0248,Forma Studio 248,2025-07,Referral,Growth,2025-09,99,17.96,0
+C0248,Forma Studio 248,2025-07,Referral,Growth,2025-10,99,17.96,0
+C0248,Forma Studio 248,2025-07,Referral,Growth,2025-11,99,17.96,0
+C0248,Forma Studio 248,2025-07,Referral,Growth,2025-12,99,17.96,0
+C0249,Atlas Collective 249,2025-07,Organic,Growth,2025-07,99,19.18,83
+C0249,Atlas Collective 249,2025-07,Organic,Growth,2025-08,99,19.18,0
+C0249,Atlas Collective 249,2025-07,Organic,Growth,2025-09,99,19.18,0
+C0249,Atlas Collective 249,2025-07,Organic,Growth,2025-10,99,19.18,0
+C0249,Atlas Collective 249,2025-07,Organic,Growth,2025-11,99,19.18,0
+C0249,Atlas Collective 249,2025-07,Organic,Growth,2025-12,99,19.18,0
+C0250,Bloom Systems 250,2025-07,Organic,Starter,2025-07,49,10.28,82
+C0250,Bloom Systems 250,2025-07,Organic,Starter,2025-08,49,10.28,0
+C0250,Bloom Systems 250,2025-07,Organic,Starter,2025-09,49,10.28,0
+C0250,Bloom Systems 250,2025-07,Organic,Starter,2025-10,49,10.28,0
+C0250,Bloom Systems 250,2025-07,Organic,Starter,2025-11,49,10.28,0
+C0250,Bloom Systems 250,2025-07,Organic,Starter,2025-12,49,10.28,0
+C0251,Kinfolk Design 251,2025-07,Paid search,Starter,2025-07,49,17.2,318
+C0252,Lumen Studio 252,2025-07,Paid search,Starter,2025-07,49,16.82,334
+C0252,Lumen Studio 252,2025-07,Paid search,Starter,2025-08,49,16.82,0
+C0253,Tandem Digital 253,2025-07,Paid search,Scale,2025-07,199,66,257
+C0253,Tandem Digital 253,2025-07,Paid search,Scale,2025-08,199,66,0
+C0254,Olive Digital 254,2025-07,Paid search,Scale,2025-07,199,70.3,245
+C0254,Olive Digital 254,2025-07,Paid search,Scale,2025-08,199,70.3,0
+C0254,Olive Digital 254,2025-07,Paid search,Scale,2025-09,199,70.3,0
+C0254,Olive Digital 254,2025-07,Paid search,Scale,2025-10,199,70.3,0
+C0255,Sunday Systems 255,2025-07,Paid search,Starter,2025-07,49,16.09,316
+C0255,Sunday Systems 255,2025-07,Paid search,Starter,2025-08,49,16.09,0
+C0255,Sunday Systems 255,2025-07,Paid search,Starter,2025-09,49,16.09,0
+C0255,Sunday Systems 255,2025-07,Paid search,Starter,2025-10,49,16.09,0
+C0255,Sunday Systems 255,2025-07,Paid search,Starter,2025-11,49,16.09,0
+C0255,Sunday Systems 255,2025-07,Paid search,Starter,2025-12,49,16.09,0
+C0256,Studio Works 256,2025-07,Referral,Starter,2025-07,49,9.25,63
+C0256,Studio Works 256,2025-07,Referral,Starter,2025-08,49,9.25,0
+C0256,Studio Works 256,2025-07,Referral,Starter,2025-09,49,9.25,0
+C0256,Studio Works 256,2025-07,Referral,Starter,2025-10,49,9.25,0
+C0256,Studio Works 256,2025-07,Referral,Starter,2025-11,49,9.25,0
+C0256,Studio Works 256,2025-07,Referral,Starter,2025-12,49,9.25,0
+C0257,Pebble Design 257,2025-07,Organic,Growth,2025-07,99,22.52,73
+C0258,Aster Digital 258,2025-07,Paid search,Growth,2025-07,99,31.72,289
+C0258,Aster Digital 258,2025-07,Paid search,Growth,2025-08,99,31.72,0
+C0258,Aster Digital 258,2025-07,Paid search,Growth,2025-09,99,31.72,0
+C0258,Aster Digital 258,2025-07,Paid search,Growth,2025-10,99,31.72,0
+C0259,Cove Digital 259,2025-07,Referral,Growth,2025-07,99,21.33,64
+C0259,Cove Digital 259,2025-07,Referral,Growth,2025-08,99,21.33,0
+C0259,Cove Digital 259,2025-07,Referral,Growth,2025-09,99,21.33,0
+C0259,Cove Digital 259,2025-07,Referral,Growth,2025-10,99,21.33,0
+C0259,Cove Digital 259,2025-07,Referral,Growth,2025-11,99,21.33,0
+C0259,Cove Digital 259,2025-07,Referral,Growth,2025-12,118.8,25.59,0
+C0260,Juniper Studio 260,2025-07,Partnerships,Starter,2025-07,49,13.22,127
+C0260,Juniper Studio 260,2025-07,Partnerships,Starter,2025-08,49,13.22,0
+C0260,Juniper Studio 260,2025-07,Partnerships,Starter,2025-09,49,13.22,0
+C0261,Orbit Works 261,2025-07,Organic,Starter,2025-07,49,10.78,91
+C0261,Orbit Works 261,2025-07,Organic,Starter,2025-08,49,10.78,0
+C0261,Orbit Works 261,2025-07,Organic,Starter,2025-09,49,10.78,0
+C0261,Orbit Works 261,2025-07,Organic,Starter,2025-10,49,10.78,0
+C0261,Orbit Works 261,2025-07,Organic,Starter,2025-11,49,10.78,0
+C0261,Orbit Works 261,2025-07,Organic,Starter,2025-12,49,10.78,0
+C0262,Slate Studio 262,2025-07,Paid search,Growth,2025-07,99,36.18,336
+C0262,Slate Studio 262,2025-07,Paid search,Growth,2025-08,99,36.18,0
+C0262,Slate Studio 262,2025-07,Paid search,Growth,2025-09,99,36.18,0
+C0262,Slate Studio 262,2025-07,Paid search,Growth,2025-10,99,36.18,0
+C0262,Slate Studio 262,2025-07,Paid search,Growth,2025-11,99,36.18,0
+C0262,Slate Studio 262,2025-07,Paid search,Growth,2025-12,99,36.18,0
+C0263,Mosaic Design 263,2025-07,Referral,Scale,2025-07,199,38.53,64
+C0263,Mosaic Design 263,2025-07,Referral,Scale,2025-08,199,38.53,0
+C0263,Mosaic Design 263,2025-07,Referral,Scale,2025-09,199,38.53,0
+C0263,Mosaic Design 263,2025-07,Referral,Scale,2025-10,199,38.53,0
+C0264,Cedar Systems 264,2025-07,Partnerships,Growth,2025-07,99,28.12,170
+C0264,Cedar Systems 264,2025-07,Partnerships,Growth,2025-08,99,28.12,0
+C0264,Cedar Systems 264,2025-07,Partnerships,Growth,2025-09,99,28.12,0
+C0264,Cedar Systems 264,2025-07,Partnerships,Growth,2025-10,99,28.12,0
+C0265,Northstar & Co. 265,2025-07,Partnerships,Growth,2025-07,99,26.42,156
+C0265,Northstar & Co. 265,2025-07,Partnerships,Growth,2025-08,99,26.42,0
+C0265,Northstar & Co. 265,2025-07,Partnerships,Growth,2025-09,99,26.42,0
+C0265,Northstar & Co. 265,2025-07,Partnerships,Growth,2025-10,99,26.42,0
+C0265,Northstar & Co. 265,2025-07,Partnerships,Growth,2025-11,99,26.42,0
+C0265,Northstar & Co. 265,2025-07,Partnerships,Growth,2025-12,99,26.42,0
+C0266,Willow Collective 266,2025-07,Referral,Starter,2025-07,49,9.16,56
+C0266,Willow Collective 266,2025-07,Referral,Starter,2025-08,49,9.16,0
+C0266,Willow Collective 266,2025-07,Referral,Starter,2025-09,49,9.16,0
+C0266,Willow Collective 266,2025-07,Referral,Starter,2025-10,49,9.16,0
+C0266,Willow Collective 266,2025-07,Referral,Starter,2025-11,49,9.16,0
+C0266,Willow Collective 266,2025-07,Referral,Starter,2025-12,58.8,10.99,0
+C0267,Beacon & Co. 267,2025-07,Paid search,Starter,2025-07,49,17.62,307
+C0267,Beacon & Co. 267,2025-07,Paid search,Starter,2025-08,49,17.62,0
+C0267,Beacon & Co. 267,2025-07,Paid search,Starter,2025-09,49,17.62,0
+C0267,Beacon & Co. 267,2025-07,Paid search,Starter,2025-10,49,17.62,0
+C0267,Beacon & Co. 267,2025-07,Paid search,Starter,2025-11,49,17.62,0
+C0267,Beacon & Co. 267,2025-07,Paid search,Starter,2025-12,49,17.62,0
+C0268,Forma & Co. 268,2025-07,Paid search,Starter,2025-07,49,18.07,283
+C0268,Forma & Co. 268,2025-07,Paid search,Starter,2025-08,49,18.07,0
+C0268,Forma & Co. 268,2025-07,Paid search,Starter,2025-09,49,18.07,0
+C0268,Forma & Co. 268,2025-07,Paid search,Starter,2025-10,49,18.07,0
+C0268,Forma & Co. 268,2025-07,Paid search,Starter,2025-11,49,18.07,0
+C0268,Forma & Co. 268,2025-07,Paid search,Starter,2025-12,49,18.07,0
+C0269,Atlas Works 269,2025-07,Referral,Growth,2025-07,99,20.56,48
+C0269,Atlas Works 269,2025-07,Referral,Growth,2025-08,99,20.56,0
+C0269,Atlas Works 269,2025-07,Referral,Growth,2025-09,99,20.56,0
+C0269,Atlas Works 269,2025-07,Referral,Growth,2025-10,99,20.56,0
+C0269,Atlas Works 269,2025-07,Referral,Growth,2025-11,99,20.56,0
+C0269,Atlas Works 269,2025-07,Referral,Growth,2025-12,99,20.56,0
+C0270,Bloom & Co. 270,2025-07,Referral,Starter,2025-07,49,9.68,45
+C0270,Bloom & Co. 270,2025-07,Referral,Starter,2025-08,49,9.68,0
+C0270,Bloom & Co. 270,2025-07,Referral,Starter,2025-09,49,9.68,0
+C0270,Bloom & Co. 270,2025-07,Referral,Starter,2025-10,49,9.68,0
+C0270,Bloom & Co. 270,2025-07,Referral,Starter,2025-11,49,9.68,0
+C0270,Bloom & Co. 270,2025-07,Referral,Starter,2025-12,49,9.68,0
+C0271,Kinfolk Labs 271,2025-07,Paid search,Starter,2025-07,49,17.81,233
+C0271,Kinfolk Labs 271,2025-07,Paid search,Starter,2025-08,49,17.81,0
+C0271,Kinfolk Labs 271,2025-07,Paid search,Starter,2025-09,49,17.81,0
+C0272,Lumen & Co. 272,2025-07,Referral,Scale,2025-07,199,41.22,47
+C0272,Lumen & Co. 272,2025-07,Referral,Scale,2025-08,199,41.22,0
+C0272,Lumen & Co. 272,2025-07,Referral,Scale,2025-09,199,41.22,0
+C0272,Lumen & Co. 272,2025-07,Referral,Scale,2025-10,199,41.22,0
+C0272,Lumen & Co. 272,2025-07,Referral,Scale,2025-11,199,41.22,0
+C0272,Lumen & Co. 272,2025-07,Referral,Scale,2025-12,199,41.22,0
+C0273,Tandem Labs 273,2025-07,Partnerships,Starter,2025-07,49,12.99,164
+C0273,Tandem Labs 273,2025-07,Partnerships,Starter,2025-08,49,12.99,0
+C0273,Tandem Labs 273,2025-07,Partnerships,Starter,2025-09,49,12.99,0
+C0273,Tandem Labs 273,2025-07,Partnerships,Starter,2025-10,49,12.99,0
+C0274,Olive Design 274,2025-07,Organic,Growth,2025-07,99,20.57,75
+C0274,Olive Design 274,2025-07,Organic,Growth,2025-08,99,20.57,0
+C0275,Sunday Design 275,2025-07,Paid search,Starter,2025-07,49,17.46,308
+C0275,Sunday Design 275,2025-07,Paid search,Starter,2025-08,49,17.46,0
+C0275,Sunday Design 275,2025-07,Paid search,Starter,2025-09,49,17.46,0
+C0276,Studio Labs 276,2025-08,Partnerships,Growth,2025-08,99,27.84,145
+C0276,Studio Labs 276,2025-08,Partnerships,Growth,2025-09,99,27.84,0
+C0276,Studio Labs 276,2025-08,Partnerships,Growth,2025-10,99,27.84,0
+C0276,Studio Labs 276,2025-08,Partnerships,Growth,2025-11,99,27.84,0
+C0276,Studio Labs 276,2025-08,Partnerships,Growth,2025-12,99,27.84,0
+C0277,Pebble & Co. 277,2025-08,Paid search,Starter,2025-08,49,16.28,247
+C0277,Pebble & Co. 277,2025-08,Paid search,Starter,2025-09,49,16.28,0
+C0277,Pebble & Co. 277,2025-08,Paid search,Starter,2025-10,49,16.28,0
+C0277,Pebble & Co. 277,2025-08,Paid search,Starter,2025-11,49,16.28,0
+C0277,Pebble & Co. 277,2025-08,Paid search,Starter,2025-12,49,16.28,0
+C0278,Aster Works 278,2025-08,Referral,Growth,2025-08,99,17.2,60
+C0278,Aster Works 278,2025-08,Referral,Growth,2025-09,99,17.2,0
+C0278,Aster Works 278,2025-08,Referral,Growth,2025-10,99,17.2,0
+C0278,Aster Works 278,2025-08,Referral,Growth,2025-11,99,17.2,0
+C0278,Aster Works 278,2025-08,Referral,Growth,2025-12,99,17.2,0
+C0279,Cove Works 279,2025-08,Organic,Starter,2025-08,49,9.91,83
+C0279,Cove Works 279,2025-08,Organic,Starter,2025-09,49,9.91,0
+C0279,Cove Works 279,2025-08,Organic,Starter,2025-10,49,9.91,0
+C0279,Cove Works 279,2025-08,Organic,Starter,2025-11,49,9.91,0
+C0279,Cove Works 279,2025-08,Organic,Starter,2025-12,49,9.91,0
+C0280,Juniper & Co. 280,2025-08,Paid search,Starter,2025-08,49,16.76,235
+C0280,Juniper & Co. 280,2025-08,Paid search,Starter,2025-09,49,16.76,0
+C0280,Juniper & Co. 280,2025-08,Paid search,Starter,2025-10,49,16.76,0
+C0280,Juniper & Co. 280,2025-08,Paid search,Starter,2025-11,49,16.76,0
+C0281,Orbit Labs 281,2025-08,Paid search,Starter,2025-08,49,15.96,345
+C0281,Orbit Labs 281,2025-08,Paid search,Starter,2025-09,49,15.96,0
+C0282,Slate Works 282,2025-08,Paid search,Starter,2025-08,49,16.68,232
+C0282,Slate Works 282,2025-08,Paid search,Starter,2025-09,49,16.68,0
+C0282,Slate Works 282,2025-08,Paid search,Starter,2025-10,49,16.68,0
+C0282,Slate Works 282,2025-08,Paid search,Starter,2025-11,49,16.68,0
+C0282,Slate Works 282,2025-08,Paid search,Starter,2025-12,49,16.68,0
+C0283,Mosaic Digital 283,2025-08,Organic,Starter,2025-08,49,9.91,89
+C0283,Mosaic Digital 283,2025-08,Organic,Starter,2025-09,49,9.91,0
+C0283,Mosaic Digital 283,2025-08,Organic,Starter,2025-10,49,9.91,0
+C0283,Mosaic Digital 283,2025-08,Organic,Starter,2025-11,49,9.91,0
+C0283,Mosaic Digital 283,2025-08,Organic,Starter,2025-12,49,9.91,0
+C0284,Cedar Labs 284,2025-08,Organic,Starter,2025-08,49,9.43,73
+C0284,Cedar Labs 284,2025-08,Organic,Starter,2025-09,49,9.43,0
+C0284,Cedar Labs 284,2025-08,Organic,Starter,2025-10,49,9.43,0
+C0284,Cedar Labs 284,2025-08,Organic,Starter,2025-11,49,9.43,0
+C0284,Cedar Labs 284,2025-08,Organic,Starter,2025-12,49,9.43,0
+C0285,Northstar Digital 285,2025-08,Paid search,Starter,2025-08,49,18.06,331
+C0285,Northstar Digital 285,2025-08,Paid search,Starter,2025-09,49,18.06,0
+C0285,Northstar Digital 285,2025-08,Paid search,Starter,2025-10,49,18.06,0
+C0285,Northstar Digital 285,2025-08,Paid search,Starter,2025-11,49,18.06,0
+C0285,Northstar Digital 285,2025-08,Paid search,Starter,2025-12,49,18.06,0
+C0286,Willow & Co. 286,2025-08,Organic,Starter,2025-08,49,11.04,78
+C0286,Willow & Co. 286,2025-08,Organic,Starter,2025-09,49,11.04,0
+C0286,Willow & Co. 286,2025-08,Organic,Starter,2025-10,49,11.04,0
+C0286,Willow & Co. 286,2025-08,Organic,Starter,2025-11,49,11.04,0
+C0286,Willow & Co. 286,2025-08,Organic,Starter,2025-12,49,11.04,0
+C0287,Beacon Studio 287,2025-08,Organic,Growth,2025-08,99,19.3,99
+C0287,Beacon Studio 287,2025-08,Organic,Growth,2025-09,99,19.3,0
+C0287,Beacon Studio 287,2025-08,Organic,Growth,2025-10,99,19.3,0
+C0287,Beacon Studio 287,2025-08,Organic,Growth,2025-11,99,19.3,0
+C0287,Beacon Studio 287,2025-08,Organic,Growth,2025-12,99,19.3,0
+C0288,Forma Collective 288,2025-08,Organic,Growth,2025-08,99,19.67,71
+C0288,Forma Collective 288,2025-08,Organic,Growth,2025-09,99,19.67,0
+C0288,Forma Collective 288,2025-08,Organic,Growth,2025-10,99,19.67,0
+C0288,Forma Collective 288,2025-08,Organic,Growth,2025-11,99,19.67,0
+C0288,Forma Collective 288,2025-08,Organic,Growth,2025-12,99,19.67,0
+C0289,Atlas Labs 289,2025-08,Partnerships,Growth,2025-08,99,27.48,134
+C0289,Atlas Labs 289,2025-08,Partnerships,Growth,2025-09,99,27.48,0
+C0289,Atlas Labs 289,2025-08,Partnerships,Growth,2025-10,99,27.48,0
+C0289,Atlas Labs 289,2025-08,Partnerships,Growth,2025-11,99,27.48,0
+C0289,Atlas Labs 289,2025-08,Partnerships,Growth,2025-12,99,27.48,0
+C0290,Bloom & Co. 290,2025-08,Referral,Starter,2025-08,49,9.12,50
+C0290,Bloom & Co. 290,2025-08,Referral,Starter,2025-09,49,9.12,0
+C0290,Bloom & Co. 290,2025-08,Referral,Starter,2025-10,49,9.12,0
+C0290,Bloom & Co. 290,2025-08,Referral,Starter,2025-11,49,9.12,0
+C0291,Kinfolk Design 291,2025-08,Referral,Growth,2025-08,99,18.67,59
+C0291,Kinfolk Design 291,2025-08,Referral,Growth,2025-09,99,18.67,0
+C0291,Kinfolk Design 291,2025-08,Referral,Growth,2025-10,99,18.67,0
+C0291,Kinfolk Design 291,2025-08,Referral,Growth,2025-11,99,18.67,0
+C0291,Kinfolk Design 291,2025-08,Referral,Growth,2025-12,99,18.67,0
+C0292,Lumen Digital 292,2025-08,Paid search,Scale,2025-08,199,70.09,236
+C0293,Tandem Systems 293,2025-08,Referral,Scale,2025-08,199,37.33,62
+C0293,Tandem Systems 293,2025-08,Referral,Scale,2025-09,199,37.33,0
+C0293,Tandem Systems 293,2025-08,Referral,Scale,2025-10,199,37.33,0
+C0293,Tandem Systems 293,2025-08,Referral,Scale,2025-11,199,37.33,0
+C0293,Tandem Systems 293,2025-08,Referral,Scale,2025-12,199,37.33,0
+C0294,Olive Collective 294,2025-08,Organic,Starter,2025-08,49,10.37,86
+C0294,Olive Collective 294,2025-08,Organic,Starter,2025-09,49,10.37,0
+C0294,Olive Collective 294,2025-08,Organic,Starter,2025-10,49,10.37,0
+C0294,Olive Collective 294,2025-08,Organic,Starter,2025-11,49,10.37,0
+C0294,Olive Collective 294,2025-08,Organic,Starter,2025-12,49,10.37,0
+C0295,Sunday Studio 295,2025-08,Paid search,Starter,2025-08,49,16.91,329
+C0295,Sunday Studio 295,2025-08,Paid search,Starter,2025-09,49,16.91,0
+C0295,Sunday Studio 295,2025-08,Paid search,Starter,2025-10,49,16.91,0
+C0295,Sunday Studio 295,2025-08,Paid search,Starter,2025-11,49,16.91,0
+C0295,Sunday Studio 295,2025-08,Paid search,Starter,2025-12,49,16.91,0
+C0296,Studio Labs 296,2025-08,Referral,Growth,2025-08,99,17.77,48
+C0296,Studio Labs 296,2025-08,Referral,Growth,2025-09,99,17.77,0
+C0296,Studio Labs 296,2025-08,Referral,Growth,2025-10,99,17.77,0
+C0296,Studio Labs 296,2025-08,Referral,Growth,2025-11,99,17.77,0
+C0296,Studio Labs 296,2025-08,Referral,Growth,2025-12,99,17.77,0
+C0297,Pebble Works 297,2025-08,Organic,Scale,2025-08,199,44.13,97
+C0297,Pebble Works 297,2025-08,Organic,Scale,2025-09,199,44.13,0
+C0297,Pebble Works 297,2025-08,Organic,Scale,2025-10,199,44.13,0
+C0297,Pebble Works 297,2025-08,Organic,Scale,2025-11,199,44.13,0
+C0297,Pebble Works 297,2025-08,Organic,Scale,2025-12,199,44.13,0
+C0298,Aster Design 298,2025-08,Paid search,Scale,2025-08,199,64.31,333
+C0298,Aster Design 298,2025-08,Paid search,Scale,2025-09,199,64.31,0
+C0298,Aster Design 298,2025-08,Paid search,Scale,2025-10,199,64.31,0
+C0298,Aster Design 298,2025-08,Paid search,Scale,2025-11,199,64.31,0
+C0298,Aster Design 298,2025-08,Paid search,Scale,2025-12,199,64.31,0
+C0299,Cove & Co. 299,2025-08,Organic,Scale,2025-08,199,46.64,73
+C0299,Cove & Co. 299,2025-08,Organic,Scale,2025-09,199,46.64,0
+C0299,Cove & Co. 299,2025-08,Organic,Scale,2025-10,199,46.64,0
+C0299,Cove & Co. 299,2025-08,Organic,Scale,2025-11,199,46.64,0
+C0299,Cove & Co. 299,2025-08,Organic,Scale,2025-12,199,46.64,0
+C0300,Juniper & Co. 300,2025-08,Organic,Starter,2025-08,49,11.73,82
+C0300,Juniper & Co. 300,2025-08,Organic,Starter,2025-09,49,11.73,0
+C0300,Juniper & Co. 300,2025-08,Organic,Starter,2025-10,49,11.73,0
+C0300,Juniper & Co. 300,2025-08,Organic,Starter,2025-11,49,11.73,0
+C0300,Juniper & Co. 300,2025-08,Organic,Starter,2025-12,49,11.73,0
+C0301,Orbit Collective 301,2025-08,Paid search,Scale,2025-08,199,73,269
+C0302,Slate Design 302,2025-08,Paid search,Starter,2025-08,49,16.28,295
+C0302,Slate Design 302,2025-08,Paid search,Starter,2025-09,49,16.28,0
+C0302,Slate Design 302,2025-08,Paid search,Starter,2025-10,49,16.28,0
+C0302,Slate Design 302,2025-08,Paid search,Starter,2025-11,49,16.28,0
+C0302,Slate Design 302,2025-08,Paid search,Starter,2025-12,49,16.28,0
+C0303,Mosaic Labs 303,2025-08,Organic,Starter,2025-08,49,11.69,83
+C0303,Mosaic Labs 303,2025-08,Organic,Starter,2025-09,49,11.69,0
+C0303,Mosaic Labs 303,2025-08,Organic,Starter,2025-10,49,11.69,0
+C0303,Mosaic Labs 303,2025-08,Organic,Starter,2025-11,49,11.69,0
+C0303,Mosaic Labs 303,2025-08,Organic,Starter,2025-12,49,11.69,0
+C0304,Cedar Design 304,2025-08,Organic,Growth,2025-08,99,19.54,87
+C0304,Cedar Design 304,2025-08,Organic,Growth,2025-09,99,19.54,0
+C0304,Cedar Design 304,2025-08,Organic,Growth,2025-10,99,19.54,0
+C0304,Cedar Design 304,2025-08,Organic,Growth,2025-11,99,19.54,0
+C0304,Cedar Design 304,2025-08,Organic,Growth,2025-12,99,19.54,0
+C0305,Northstar & Co. 305,2025-08,Organic,Growth,2025-08,99,19.21,71
+C0305,Northstar & Co. 305,2025-08,Organic,Growth,2025-09,99,19.21,0
+C0305,Northstar & Co. 305,2025-08,Organic,Growth,2025-10,99,19.21,0
+C0305,Northstar & Co. 305,2025-08,Organic,Growth,2025-11,99,19.21,0
+C0305,Northstar & Co. 305,2025-08,Organic,Growth,2025-12,99,19.21,0
+C0306,Willow Digital 306,2025-08,Organic,Growth,2025-08,99,21.53,101
+C0306,Willow Digital 306,2025-08,Organic,Growth,2025-09,99,21.53,0
+C0306,Willow Digital 306,2025-08,Organic,Growth,2025-10,99,21.53,0
+C0306,Willow Digital 306,2025-08,Organic,Growth,2025-11,99,21.53,0
+C0306,Willow Digital 306,2025-08,Organic,Growth,2025-12,99,21.53,0
+C0307,Beacon & Co. 307,2025-08,Referral,Growth,2025-08,99,17.75,49
+C0307,Beacon & Co. 307,2025-08,Referral,Growth,2025-09,99,17.75,0
+C0307,Beacon & Co. 307,2025-08,Referral,Growth,2025-10,99,17.75,0
+C0308,Forma Collective 308,2025-08,Paid search,Starter,2025-08,49,17.95,333
+C0308,Forma Collective 308,2025-08,Paid search,Starter,2025-09,49,17.95,0
+C0308,Forma Collective 308,2025-08,Paid search,Starter,2025-10,49,17.95,0
+C0308,Forma Collective 308,2025-08,Paid search,Starter,2025-11,49,17.95,0
+C0308,Forma Collective 308,2025-08,Paid search,Starter,2025-12,49,17.95,0
+C0309,Atlas Studio 309,2025-08,Paid search,Starter,2025-08,49,17.14,257
+C0310,Bloom Studio 310,2025-08,Organic,Scale,2025-08,199,47.18,86
+C0310,Bloom Studio 310,2025-08,Organic,Scale,2025-09,199,47.18,0
+C0311,Kinfolk Systems 311,2025-08,Paid search,Starter,2025-08,49,17.63,270
+C0312,Lumen Labs 312,2025-08,Paid search,Scale,2025-08,199,73.39,253
+C0312,Lumen Labs 312,2025-08,Paid search,Scale,2025-09,199,73.39,0
+C0312,Lumen Labs 312,2025-08,Paid search,Scale,2025-10,199,73.39,0
+C0312,Lumen Labs 312,2025-08,Paid search,Scale,2025-11,199,73.39,0
+C0312,Lumen Labs 312,2025-08,Paid search,Scale,2025-12,199,73.39,0
+C0313,Tandem Studio 313,2025-08,Paid search,Starter,2025-08,49,16.05,258
+C0314,Olive & Co. 314,2025-08,Organic,Starter,2025-08,49,11.26,73
+C0314,Olive & Co. 314,2025-08,Organic,Starter,2025-09,49,11.26,0
+C0314,Olive & Co. 314,2025-08,Organic,Starter,2025-10,49,11.26,0
+C0314,Olive & Co. 314,2025-08,Organic,Starter,2025-11,49,11.26,0
+C0314,Olive & Co. 314,2025-08,Organic,Starter,2025-12,49,11.26,0
+C0315,Sunday Digital 315,2025-08,Referral,Starter,2025-08,49,8.81,60
+C0315,Sunday Digital 315,2025-08,Referral,Starter,2025-09,49,8.81,0
+C0315,Sunday Digital 315,2025-08,Referral,Starter,2025-10,49,8.81,0
+C0315,Sunday Digital 315,2025-08,Referral,Starter,2025-11,49,8.81,0
+C0315,Sunday Digital 315,2025-08,Referral,Starter,2025-12,49,8.81,0
+C0316,Studio Digital 316,2025-08,Paid search,Growth,2025-08,99,35.7,316
+C0316,Studio Digital 316,2025-08,Paid search,Growth,2025-09,99,35.7,0
+C0316,Studio Digital 316,2025-08,Paid search,Growth,2025-10,99,35.7,0
+C0316,Studio Digital 316,2025-08,Paid search,Growth,2025-11,99,35.7,0
+C0316,Studio Digital 316,2025-08,Paid search,Growth,2025-12,99,35.7,0
+C0317,Pebble Design 317,2025-08,Partnerships,Starter,2025-08,49,13.56,149
+C0317,Pebble Design 317,2025-08,Partnerships,Starter,2025-09,49,13.56,0
+C0317,Pebble Design 317,2025-08,Partnerships,Starter,2025-10,49,13.56,0
+C0317,Pebble Design 317,2025-08,Partnerships,Starter,2025-11,49,13.56,0
+C0317,Pebble Design 317,2025-08,Partnerships,Starter,2025-12,49,13.56,0
+C0318,Aster Systems 318,2025-08,Referral,Starter,2025-08,49,10.21,61
+C0318,Aster Systems 318,2025-08,Referral,Starter,2025-09,49,10.21,0
+C0318,Aster Systems 318,2025-08,Referral,Starter,2025-10,49,10.21,0
+C0318,Aster Systems 318,2025-08,Referral,Starter,2025-11,49,10.21,0
+C0318,Aster Systems 318,2025-08,Referral,Starter,2025-12,49,10.21,0
+C0319,Cove & Co. 319,2025-08,Organic,Starter,2025-08,49,9.85,102
+C0319,Cove & Co. 319,2025-08,Organic,Starter,2025-09,49,9.85,0
+C0319,Cove & Co. 319,2025-08,Organic,Starter,2025-10,49,9.85,0
+C0319,Cove & Co. 319,2025-08,Organic,Starter,2025-11,49,9.85,0
+C0319,Cove & Co. 319,2025-08,Organic,Starter,2025-12,49,9.85,0
+C0320,Juniper & Co. 320,2025-08,Organic,Growth,2025-08,99,20.81,69
+C0320,Juniper & Co. 320,2025-08,Organic,Growth,2025-09,99,20.81,0
+C0320,Juniper & Co. 320,2025-08,Organic,Growth,2025-10,99,20.81,0
+C0320,Juniper & Co. 320,2025-08,Organic,Growth,2025-11,99,20.81,0
+C0320,Juniper & Co. 320,2025-08,Organic,Growth,2025-12,99,20.81,0
+C0321,Orbit Works 321,2025-08,Referral,Growth,2025-08,99,19.64,55
+C0321,Orbit Works 321,2025-08,Referral,Growth,2025-09,99,19.64,0
+C0321,Orbit Works 321,2025-08,Referral,Growth,2025-10,99,19.64,0
+C0321,Orbit Works 321,2025-08,Referral,Growth,2025-11,99,19.64,0
+C0321,Orbit Works 321,2025-08,Referral,Growth,2025-12,99,19.64,0
+C0322,Slate Design 322,2025-08,Organic,Growth,2025-08,99,19.41,74
+C0322,Slate Design 322,2025-08,Organic,Growth,2025-09,99,19.41,0
+C0322,Slate Design 322,2025-08,Organic,Growth,2025-10,99,19.41,0
+C0322,Slate Design 322,2025-08,Organic,Growth,2025-11,99,19.41,0
+C0323,Mosaic Labs 323,2025-08,Referral,Scale,2025-08,199,43.08,59
+C0324,Cedar Studio 324,2025-08,Paid search,Starter,2025-08,49,17.29,317
+C0324,Cedar Studio 324,2025-08,Paid search,Starter,2025-09,49,17.29,0
+C0324,Cedar Studio 324,2025-08,Paid search,Starter,2025-10,49,17.29,0
+C0324,Cedar Studio 324,2025-08,Paid search,Starter,2025-11,49,17.29,0
+C0324,Cedar Studio 324,2025-08,Paid search,Starter,2025-12,49,17.29,0
+C0325,Northstar Labs 325,2025-08,Organic,Starter,2025-08,49,10.57,74
+C0325,Northstar Labs 325,2025-08,Organic,Starter,2025-09,49,10.57,0
+C0325,Northstar Labs 325,2025-08,Organic,Starter,2025-10,49,10.57,0
+C0325,Northstar Labs 325,2025-08,Organic,Starter,2025-11,49,10.57,0
+C0325,Northstar Labs 325,2025-08,Organic,Starter,2025-12,49,10.57,0
+C0326,Willow Design 326,2025-08,Organic,Growth,2025-08,99,22.64,89
+C0326,Willow Design 326,2025-08,Organic,Growth,2025-09,99,22.64,0
+C0326,Willow Design 326,2025-08,Organic,Growth,2025-10,99,22.64,0
+C0326,Willow Design 326,2025-08,Organic,Growth,2025-11,99,22.64,0
+C0327,Beacon Design 327,2025-08,Paid search,Growth,2025-08,99,35.09,241
+C0327,Beacon Design 327,2025-08,Paid search,Growth,2025-09,99,35.09,0
+C0328,Forma Digital 328,2025-08,Partnerships,Growth,2025-08,99,25.46,184
+C0328,Forma Digital 328,2025-08,Partnerships,Growth,2025-09,99,25.46,0
+C0328,Forma Digital 328,2025-08,Partnerships,Growth,2025-10,99,25.46,0
+C0328,Forma Digital 328,2025-08,Partnerships,Growth,2025-11,99,25.46,0
+C0328,Forma Digital 328,2025-08,Partnerships,Growth,2025-12,99,25.46,0
+C0329,Atlas Works 329,2025-09,Organic,Growth,2025-09,99,20.08,74
+C0329,Atlas Works 329,2025-09,Organic,Growth,2025-10,99,20.08,0
+C0329,Atlas Works 329,2025-09,Organic,Growth,2025-11,99,20.08,0
+C0329,Atlas Works 329,2025-09,Organic,Growth,2025-12,99,20.08,0
+C0330,Bloom Design 330,2025-09,Organic,Scale,2025-09,199,42.56,87
+C0330,Bloom Design 330,2025-09,Organic,Scale,2025-10,199,42.56,0
+C0330,Bloom Design 330,2025-09,Organic,Scale,2025-11,199,42.56,0
+C0330,Bloom Design 330,2025-09,Organic,Scale,2025-12,199,42.56,0
+C0331,Kinfolk Studio 331,2025-09,Organic,Growth,2025-09,99,20,89
+C0331,Kinfolk Studio 331,2025-09,Organic,Growth,2025-10,99,20,0
+C0331,Kinfolk Studio 331,2025-09,Organic,Growth,2025-11,99,20,0
+C0331,Kinfolk Studio 331,2025-09,Organic,Growth,2025-12,99,20,0
+C0332,Lumen Digital 332,2025-09,Referral,Growth,2025-09,99,18.88,62
+C0332,Lumen Digital 332,2025-09,Referral,Growth,2025-10,99,18.88,0
+C0332,Lumen Digital 332,2025-09,Referral,Growth,2025-11,99,18.88,0
+C0332,Lumen Digital 332,2025-09,Referral,Growth,2025-12,99,18.88,0
+C0333,Tandem & Co. 333,2025-09,Organic,Growth,2025-09,99,22.8,82
+C0333,Tandem & Co. 333,2025-09,Organic,Growth,2025-10,99,22.8,0
+C0333,Tandem & Co. 333,2025-09,Organic,Growth,2025-11,99,22.8,0
+C0333,Tandem & Co. 333,2025-09,Organic,Growth,2025-12,99,22.8,0
+C0334,Olive Design 334,2025-09,Organic,Starter,2025-09,49,9.71,84
+C0334,Olive Design 334,2025-09,Organic,Starter,2025-10,49,9.71,0
+C0334,Olive Design 334,2025-09,Organic,Starter,2025-11,49,9.71,0
+C0334,Olive Design 334,2025-09,Organic,Starter,2025-12,49,9.71,0
+C0335,Sunday Digital 335,2025-09,Referral,Growth,2025-09,99,17.97,59
+C0335,Sunday Digital 335,2025-09,Referral,Growth,2025-10,99,17.97,0
+C0335,Sunday Digital 335,2025-09,Referral,Growth,2025-11,99,17.97,0
+C0335,Sunday Digital 335,2025-09,Referral,Growth,2025-12,99,17.97,0
+C0336,Studio Digital 336,2025-09,Partnerships,Scale,2025-09,199,56.66,131
+C0336,Studio Digital 336,2025-09,Partnerships,Scale,2025-10,199,56.66,0
+C0336,Studio Digital 336,2025-09,Partnerships,Scale,2025-11,199,56.66,0
+C0336,Studio Digital 336,2025-09,Partnerships,Scale,2025-12,199,56.66,0
+C0337,Pebble Studio 337,2025-09,Organic,Starter,2025-09,49,10.18,84
+C0337,Pebble Studio 337,2025-09,Organic,Starter,2025-10,49,10.18,0
+C0337,Pebble Studio 337,2025-09,Organic,Starter,2025-11,49,10.18,0
+C0337,Pebble Studio 337,2025-09,Organic,Starter,2025-12,49,10.18,0
+C0338,Aster Works 338,2025-09,Partnerships,Starter,2025-09,49,12.71,159
+C0338,Aster Works 338,2025-09,Partnerships,Starter,2025-10,49,12.71,0
+C0338,Aster Works 338,2025-09,Partnerships,Starter,2025-11,49,12.71,0
+C0338,Aster Works 338,2025-09,Partnerships,Starter,2025-12,49,12.71,0
+C0339,Cove & Co. 339,2025-09,Paid search,Starter,2025-09,49,17.27,267
+C0340,Juniper Studio 340,2025-09,Referral,Starter,2025-09,49,9.26,47
+C0340,Juniper Studio 340,2025-09,Referral,Starter,2025-10,49,9.26,0
+C0340,Juniper Studio 340,2025-09,Referral,Starter,2025-11,49,9.26,0
+C0340,Juniper Studio 340,2025-09,Referral,Starter,2025-12,49,9.26,0
+C0341,Orbit Collective 341,2025-09,Paid search,Starter,2025-09,49,16.41,269
+C0341,Orbit Collective 341,2025-09,Paid search,Starter,2025-10,49,16.41,0
+C0341,Orbit Collective 341,2025-09,Paid search,Starter,2025-11,49,16.41,0
+C0341,Orbit Collective 341,2025-09,Paid search,Starter,2025-12,49,16.41,0
+C0342,Slate Studio 342,2025-09,Organic,Growth,2025-09,99,22.07,96
+C0342,Slate Studio 342,2025-09,Organic,Growth,2025-10,99,22.07,0
+C0342,Slate Studio 342,2025-09,Organic,Growth,2025-11,99,22.07,0
+C0342,Slate Studio 342,2025-09,Organic,Growth,2025-12,99,22.07,0
+C0343,Mosaic Studio 343,2025-09,Referral,Growth,2025-09,99,20.83,55
+C0343,Mosaic Studio 343,2025-09,Referral,Growth,2025-10,99,20.83,0
+C0343,Mosaic Studio 343,2025-09,Referral,Growth,2025-11,99,20.83,0
+C0343,Mosaic Studio 343,2025-09,Referral,Growth,2025-12,99,20.83,0
+C0344,Cedar Collective 344,2025-09,Referral,Starter,2025-09,49,9.25,57
+C0344,Cedar Collective 344,2025-09,Referral,Starter,2025-10,49,9.25,0
+C0344,Cedar Collective 344,2025-09,Referral,Starter,2025-11,49,9.25,0
+C0344,Cedar Collective 344,2025-09,Referral,Starter,2025-12,49,9.25,0
+C0345,Northstar Design 345,2025-09,Partnerships,Growth,2025-09,99,25.05,170
+C0345,Northstar Design 345,2025-09,Partnerships,Growth,2025-10,99,25.05,0
+C0345,Northstar Design 345,2025-09,Partnerships,Growth,2025-11,99,25.05,0
+C0345,Northstar Design 345,2025-09,Partnerships,Growth,2025-12,99,25.05,0
+C0346,Willow Digital 346,2025-09,Organic,Growth,2025-09,99,19.65,69
+C0347,Beacon Digital 347,2025-09,Paid search,Starter,2025-09,49,16.29,279
+C0347,Beacon Digital 347,2025-09,Paid search,Starter,2025-10,49,16.29,0
+C0347,Beacon Digital 347,2025-09,Paid search,Starter,2025-11,49,16.29,0
+C0347,Beacon Digital 347,2025-09,Paid search,Starter,2025-12,49,16.29,0
+C0348,Forma Labs 348,2025-09,Paid search,Starter,2025-09,49,17.45,316
+C0348,Forma Labs 348,2025-09,Paid search,Starter,2025-10,49,17.45,0
+C0348,Forma Labs 348,2025-09,Paid search,Starter,2025-11,49,17.45,0
+C0348,Forma Labs 348,2025-09,Paid search,Starter,2025-12,49,17.45,0
+C0349,Atlas Digital 349,2025-09,Referral,Growth,2025-09,99,18.33,62
+C0349,Atlas Digital 349,2025-09,Referral,Growth,2025-10,99,18.33,0
+C0349,Atlas Digital 349,2025-09,Referral,Growth,2025-11,99,18.33,0
+C0349,Atlas Digital 349,2025-09,Referral,Growth,2025-12,99,18.33,0
+C0350,Bloom Design 350,2025-09,Paid search,Scale,2025-09,199,65.88,327
+C0350,Bloom Design 350,2025-09,Paid search,Scale,2025-10,199,65.88,0
+C0350,Bloom Design 350,2025-09,Paid search,Scale,2025-11,199,65.88,0
+C0350,Bloom Design 350,2025-09,Paid search,Scale,2025-12,199,65.88,0
+C0351,Kinfolk Works 351,2025-09,Paid search,Starter,2025-09,49,15.85,321
+C0352,Lumen Digital 352,2025-09,Referral,Growth,2025-09,99,21.34,56
+C0352,Lumen Digital 352,2025-09,Referral,Growth,2025-10,99,21.34,0
+C0352,Lumen Digital 352,2025-09,Referral,Growth,2025-11,99,21.34,0
+C0352,Lumen Digital 352,2025-09,Referral,Growth,2025-12,99,21.34,0
+C0353,Tandem Design 353,2025-09,Paid search,Starter,2025-09,49,17.56,285
+C0353,Tandem Design 353,2025-09,Paid search,Starter,2025-10,49,17.56,0
+C0353,Tandem Design 353,2025-09,Paid search,Starter,2025-11,49,17.56,0
+C0353,Tandem Design 353,2025-09,Paid search,Starter,2025-12,49,17.56,0
+C0354,Olive Design 354,2025-09,Organic,Scale,2025-09,199,39.53,71
+C0354,Olive Design 354,2025-09,Organic,Scale,2025-10,199,39.53,0
+C0354,Olive Design 354,2025-09,Organic,Scale,2025-11,199,39.53,0
+C0354,Olive Design 354,2025-09,Organic,Scale,2025-12,199,39.53,0
+C0355,Sunday Systems 355,2025-09,Partnerships,Starter,2025-09,49,11.86,143
+C0355,Sunday Systems 355,2025-09,Partnerships,Starter,2025-10,49,11.86,0
+C0355,Sunday Systems 355,2025-09,Partnerships,Starter,2025-11,49,11.86,0
+C0355,Sunday Systems 355,2025-09,Partnerships,Starter,2025-12,49,11.86,0
+C0356,Studio Design 356,2025-09,Organic,Growth,2025-09,99,20.56,83
+C0357,Pebble Design 357,2025-09,Organic,Starter,2025-09,49,9.57,89
+C0357,Pebble Design 357,2025-09,Organic,Starter,2025-10,49,9.57,0
+C0358,Aster & Co. 358,2025-09,Partnerships,Starter,2025-09,49,12.2,142
+C0358,Aster & Co. 358,2025-09,Partnerships,Starter,2025-10,49,12.2,0
+C0358,Aster & Co. 358,2025-09,Partnerships,Starter,2025-11,49,12.2,0
+C0358,Aster & Co. 358,2025-09,Partnerships,Starter,2025-12,49,12.2,0
+C0359,Cove Labs 359,2025-09,Organic,Starter,2025-09,49,11.42,73
+C0359,Cove Labs 359,2025-09,Organic,Starter,2025-10,49,11.42,0
+C0359,Cove Labs 359,2025-09,Organic,Starter,2025-11,49,11.42,0
+C0359,Cove Labs 359,2025-09,Organic,Starter,2025-12,49,11.42,0
+C0360,Juniper Works 360,2025-09,Organic,Starter,2025-09,49,11.15,81
+C0360,Juniper Works 360,2025-09,Organic,Starter,2025-10,49,11.15,0
+C0360,Juniper Works 360,2025-09,Organic,Starter,2025-11,49,11.15,0
+C0361,Orbit Studio 361,2025-09,Paid search,Starter,2025-09,49,16.63,299
+C0361,Orbit Studio 361,2025-09,Paid search,Starter,2025-10,49,16.63,0
+C0361,Orbit Studio 361,2025-09,Paid search,Starter,2025-11,49,16.63,0
+C0361,Orbit Studio 361,2025-09,Paid search,Starter,2025-12,49,16.63,0
+C0362,Slate Works 362,2025-09,Organic,Scale,2025-09,199,40.68,101
+C0362,Slate Works 362,2025-09,Organic,Scale,2025-10,199,40.68,0
+C0362,Slate Works 362,2025-09,Organic,Scale,2025-11,199,40.68,0
+C0362,Slate Works 362,2025-09,Organic,Scale,2025-12,199,40.68,0
+C0363,Mosaic Collective 363,2025-09,Partnerships,Starter,2025-09,49,11.95,134
+C0363,Mosaic Collective 363,2025-09,Partnerships,Starter,2025-10,49,11.95,0
+C0363,Mosaic Collective 363,2025-09,Partnerships,Starter,2025-11,49,11.95,0
+C0363,Mosaic Collective 363,2025-09,Partnerships,Starter,2025-12,49,11.95,0
+C0364,Cedar Labs 364,2025-09,Organic,Growth,2025-09,99,23.41,99
+C0364,Cedar Labs 364,2025-09,Organic,Growth,2025-10,99,23.41,0
+C0364,Cedar Labs 364,2025-09,Organic,Growth,2025-11,99,23.41,0
+C0364,Cedar Labs 364,2025-09,Organic,Growth,2025-12,99,23.41,0
+C0365,Northstar Works 365,2025-09,Paid search,Growth,2025-09,99,33.35,243
+C0366,Willow Labs 366,2025-09,Organic,Starter,2025-09,49,9.82,72
+C0366,Willow Labs 366,2025-09,Organic,Starter,2025-10,49,9.82,0
+C0366,Willow Labs 366,2025-09,Organic,Starter,2025-11,49,9.82,0
+C0367,Beacon Studio 367,2025-09,Partnerships,Growth,2025-09,99,27.88,136
+C0368,Forma Digital 368,2025-09,Organic,Growth,2025-09,99,19.35,82
+C0368,Forma Digital 368,2025-09,Organic,Growth,2025-10,99,19.35,0
+C0368,Forma Digital 368,2025-09,Organic,Growth,2025-11,99,19.35,0
+C0368,Forma Digital 368,2025-09,Organic,Growth,2025-12,99,19.35,0
+C0369,Atlas Works 369,2025-09,Paid search,Scale,2025-09,199,70.77,292
+C0370,Bloom Digital 370,2025-09,Organic,Starter,2025-09,49,11.21,96
+C0370,Bloom Digital 370,2025-09,Organic,Starter,2025-10,49,11.21,0
+C0370,Bloom Digital 370,2025-09,Organic,Starter,2025-11,49,11.21,0
+C0370,Bloom Digital 370,2025-09,Organic,Starter,2025-12,49,11.21,0
+C0371,Kinfolk Studio 371,2025-09,Paid search,Starter,2025-09,49,16.71,287
+C0371,Kinfolk Studio 371,2025-09,Paid search,Starter,2025-10,49,16.71,0
+C0371,Kinfolk Studio 371,2025-09,Paid search,Starter,2025-11,49,16.71,0
+C0372,Lumen Design 372,2025-09,Paid search,Starter,2025-09,49,17.36,322
+C0372,Lumen Design 372,2025-09,Paid search,Starter,2025-10,49,17.36,0
+C0372,Lumen Design 372,2025-09,Paid search,Starter,2025-11,49,17.36,0
+C0372,Lumen Design 372,2025-09,Paid search,Starter,2025-12,49,17.36,0
+C0373,Tandem & Co. 373,2025-09,Organic,Scale,2025-09,199,45.74,83
+C0373,Tandem & Co. 373,2025-09,Organic,Scale,2025-10,199,45.74,0
+C0373,Tandem & Co. 373,2025-09,Organic,Scale,2025-11,199,45.74,0
+C0373,Tandem & Co. 373,2025-09,Organic,Scale,2025-12,199,45.74,0
+C0374,Olive Labs 374,2025-09,Paid search,Scale,2025-09,199,71.8,324
+C0374,Olive Labs 374,2025-09,Paid search,Scale,2025-10,199,71.8,0
+C0374,Olive Labs 374,2025-09,Paid search,Scale,2025-11,199,71.8,0
+C0374,Olive Labs 374,2025-09,Paid search,Scale,2025-12,199,71.8,0
+C0375,Sunday Works 375,2025-09,Paid search,Starter,2025-09,49,16.54,342
+C0375,Sunday Works 375,2025-09,Paid search,Starter,2025-10,49,16.54,0
+C0375,Sunday Works 375,2025-09,Paid search,Starter,2025-11,49,16.54,0
+C0375,Sunday Works 375,2025-09,Paid search,Starter,2025-12,49,16.54,0
+C0376,Studio Digital 376,2025-09,Paid search,Starter,2025-09,49,15.87,318
+C0376,Studio Digital 376,2025-09,Paid search,Starter,2025-10,49,15.87,0
+C0376,Studio Digital 376,2025-09,Paid search,Starter,2025-11,49,15.87,0
+C0376,Studio Digital 376,2025-09,Paid search,Starter,2025-12,49,15.87,0
+C0377,Pebble Digital 377,2025-09,Paid search,Starter,2025-09,49,15.91,235
+C0378,Aster Studio 378,2025-09,Organic,Growth,2025-09,99,22.79,93
+C0378,Aster Studio 378,2025-09,Organic,Growth,2025-10,99,22.79,0
+C0378,Aster Studio 378,2025-09,Organic,Growth,2025-11,99,22.79,0
+C0378,Aster Studio 378,2025-09,Organic,Growth,2025-12,99,22.79,0
+C0379,Cove Labs 379,2025-09,Paid search,Scale,2025-09,199,63.86,240
+C0379,Cove Labs 379,2025-09,Paid search,Scale,2025-10,199,63.86,0
+C0380,Juniper Systems 380,2025-09,Organic,Starter,2025-09,49,10.37,100
+C0380,Juniper Systems 380,2025-09,Organic,Starter,2025-10,49,10.37,0
+C0380,Juniper Systems 380,2025-09,Organic,Starter,2025-11,49,10.37,0
+C0380,Juniper Systems 380,2025-09,Organic,Starter,2025-12,49,10.37,0
+C0381,Orbit Collective 381,2025-09,Paid search,Scale,2025-09,199,67.43,290
+C0381,Orbit Collective 381,2025-09,Paid search,Scale,2025-10,199,67.43,0
+C0381,Orbit Collective 381,2025-09,Paid search,Scale,2025-11,199,67.43,0
+C0381,Orbit Collective 381,2025-09,Paid search,Scale,2025-12,199,67.43,0
+C0382,Slate Systems 382,2025-09,Paid search,Growth,2025-09,99,31.82,290
+C0382,Slate Systems 382,2025-09,Paid search,Growth,2025-10,99,31.82,0
+C0382,Slate Systems 382,2025-09,Paid search,Growth,2025-11,99,31.82,0
+C0382,Slate Systems 382,2025-09,Paid search,Growth,2025-12,99,31.82,0
+C0383,Mosaic Design 383,2025-09,Paid search,Starter,2025-09,49,15.79,333
+C0383,Mosaic Design 383,2025-09,Paid search,Starter,2025-10,49,15.79,0
+C0383,Mosaic Design 383,2025-09,Paid search,Starter,2025-11,49,15.79,0
+C0383,Mosaic Design 383,2025-09,Paid search,Starter,2025-12,49,15.79,0
+C0384,Cedar Digital 384,2025-09,Organic,Starter,2025-09,49,10.01,100
+C0384,Cedar Digital 384,2025-09,Organic,Starter,2025-10,49,10.01,0
+C0384,Cedar Digital 384,2025-09,Organic,Starter,2025-11,49,10.01,0
+C0384,Cedar Digital 384,2025-09,Organic,Starter,2025-12,49,10.01,0
+C0385,Northstar Systems 385,2025-09,Paid search,Starter,2025-09,49,16.09,249
+C0386,Willow & Co. 386,2025-09,Organic,Scale,2025-09,199,45.24,91
+C0386,Willow & Co. 386,2025-09,Organic,Scale,2025-10,199,45.24,0
+C0386,Willow & Co. 386,2025-09,Organic,Scale,2025-11,199,45.24,0
+C0386,Willow & Co. 386,2025-09,Organic,Scale,2025-12,199,45.24,0
+C0387,Beacon Systems 387,2025-10,Organic,Starter,2025-10,49,9.75,83
+C0387,Beacon Systems 387,2025-10,Organic,Starter,2025-11,49,9.75,0
+C0387,Beacon Systems 387,2025-10,Organic,Starter,2025-12,49,9.75,0
+C0388,Forma & Co. 388,2025-10,Partnerships,Starter,2025-10,49,14.08,178
+C0388,Forma & Co. 388,2025-10,Partnerships,Starter,2025-11,49,14.08,0
+C0388,Forma & Co. 388,2025-10,Partnerships,Starter,2025-12,49,14.08,0
+C0389,Atlas Digital 389,2025-10,Organic,Scale,2025-10,199,46.02,77
+C0389,Atlas Digital 389,2025-10,Organic,Scale,2025-11,199,46.02,0
+C0389,Atlas Digital 389,2025-10,Organic,Scale,2025-12,199,46.02,0
+C0390,Bloom Works 390,2025-10,Organic,Growth,2025-10,99,20.09,102
+C0390,Bloom Works 390,2025-10,Organic,Growth,2025-11,99,20.09,0
+C0390,Bloom Works 390,2025-10,Organic,Growth,2025-12,99,20.09,0
+C0391,Kinfolk Systems 391,2025-10,Paid search,Growth,2025-10,99,32.96,276
+C0391,Kinfolk Systems 391,2025-10,Paid search,Growth,2025-11,99,32.96,0
+C0392,Lumen Labs 392,2025-10,Referral,Growth,2025-10,99,17.97,60
+C0392,Lumen Labs 392,2025-10,Referral,Growth,2025-11,99,17.97,0
+C0392,Lumen Labs 392,2025-10,Referral,Growth,2025-12,99,17.97,0
+C0393,Tandem Labs 393,2025-10,Paid search,Growth,2025-10,99,36.52,300
+C0394,Olive Collective 394,2025-10,Organic,Starter,2025-10,49,10.59,91
+C0394,Olive Collective 394,2025-10,Organic,Starter,2025-11,49,10.59,0
+C0394,Olive Collective 394,2025-10,Organic,Starter,2025-12,49,10.59,0
+C0395,Sunday Collective 395,2025-10,Paid search,Starter,2025-10,49,15.8,284
+C0395,Sunday Collective 395,2025-10,Paid search,Starter,2025-11,49,15.8,0
+C0395,Sunday Collective 395,2025-10,Paid search,Starter,2025-12,49,15.8,0
+C0396,Studio Collective 396,2025-10,Organic,Starter,2025-10,49,9.76,99
+C0396,Studio Collective 396,2025-10,Organic,Starter,2025-11,49,9.76,0
+C0396,Studio Collective 396,2025-10,Organic,Starter,2025-12,49,9.76,0
+C0397,Pebble Labs 397,2025-10,Referral,Starter,2025-10,49,9.55,48
+C0397,Pebble Labs 397,2025-10,Referral,Starter,2025-11,49,9.55,0
+C0397,Pebble Labs 397,2025-10,Referral,Starter,2025-12,49,9.55,0
+C0398,Aster Labs 398,2025-10,Paid search,Starter,2025-10,49,15.88,277
+C0399,Cove & Co. 399,2025-10,Paid search,Starter,2025-10,49,16.34,311
+C0399,Cove & Co. 399,2025-10,Paid search,Starter,2025-11,49,16.34,0
+C0399,Cove & Co. 399,2025-10,Paid search,Starter,2025-12,49,16.34,0
+C0400,Juniper Works 400,2025-10,Referral,Starter,2025-10,49,9.6,53
+C0400,Juniper Works 400,2025-10,Referral,Starter,2025-11,49,9.6,0
+C0400,Juniper Works 400,2025-10,Referral,Starter,2025-12,49,9.6,0
+C0401,Orbit Works 401,2025-10,Organic,Growth,2025-10,99,23.23,80
+C0401,Orbit Works 401,2025-10,Organic,Growth,2025-11,99,23.23,0
+C0401,Orbit Works 401,2025-10,Organic,Growth,2025-12,99,23.23,0
+C0402,Slate Labs 402,2025-10,Referral,Growth,2025-10,99,17.54,60
+C0402,Slate Labs 402,2025-10,Referral,Growth,2025-11,99,17.54,0
+C0402,Slate Labs 402,2025-10,Referral,Growth,2025-12,99,17.54,0
+C0403,Mosaic Design 403,2025-10,Referral,Starter,2025-10,49,9.89,51
+C0403,Mosaic Design 403,2025-10,Referral,Starter,2025-11,49,9.89,0
+C0403,Mosaic Design 403,2025-10,Referral,Starter,2025-12,49,9.89,0
+C0404,Cedar & Co. 404,2025-10,Paid search,Starter,2025-10,49,15.91,242
+C0404,Cedar & Co. 404,2025-10,Paid search,Starter,2025-11,49,15.91,0
+C0405,Northstar Digital 405,2025-10,Referral,Scale,2025-10,199,42.7,56
+C0405,Northstar Digital 405,2025-10,Referral,Scale,2025-11,199,42.7,0
+C0405,Northstar Digital 405,2025-10,Referral,Scale,2025-12,199,42.7,0
+C0406,Willow & Co. 406,2025-10,Partnerships,Growth,2025-10,99,27.8,138
+C0406,Willow & Co. 406,2025-10,Partnerships,Growth,2025-11,99,27.8,0
+C0406,Willow & Co. 406,2025-10,Partnerships,Growth,2025-12,99,27.8,0
+C0407,Beacon Design 407,2025-10,Organic,Scale,2025-10,199,38.05,87
+C0407,Beacon Design 407,2025-10,Organic,Scale,2025-11,199,38.05,0
+C0407,Beacon Design 407,2025-10,Organic,Scale,2025-12,199,38.05,0
+C0408,Forma Digital 408,2025-10,Referral,Starter,2025-10,49,10.54,47
+C0408,Forma Digital 408,2025-10,Referral,Starter,2025-11,49,10.54,0
+C0408,Forma Digital 408,2025-10,Referral,Starter,2025-12,49,10.54,0
+C0409,Atlas Collective 409,2025-10,Referral,Starter,2025-10,49,9.2,61
+C0409,Atlas Collective 409,2025-10,Referral,Starter,2025-11,49,9.2,0
+C0409,Atlas Collective 409,2025-10,Referral,Starter,2025-12,49,9.2,0
+C0410,Bloom Studio 410,2025-10,Organic,Starter,2025-10,49,9.34,98
+C0410,Bloom Studio 410,2025-10,Organic,Starter,2025-11,49,9.34,0
+C0410,Bloom Studio 410,2025-10,Organic,Starter,2025-12,49,9.34,0
+C0411,Kinfolk Studio 411,2025-10,Organic,Starter,2025-10,49,9.98,69
+C0411,Kinfolk Studio 411,2025-10,Organic,Starter,2025-11,49,9.98,0
+C0411,Kinfolk Studio 411,2025-10,Organic,Starter,2025-12,49,9.98,0
+C0412,Lumen Studio 412,2025-10,Referral,Starter,2025-10,49,9.08,44
+C0412,Lumen Studio 412,2025-10,Referral,Starter,2025-11,49,9.08,0
+C0412,Lumen Studio 412,2025-10,Referral,Starter,2025-12,49,9.08,0
+C0413,Tandem Labs 413,2025-10,Partnerships,Scale,2025-10,199,56.19,169
+C0413,Tandem Labs 413,2025-10,Partnerships,Scale,2025-11,199,56.19,0
+C0413,Tandem Labs 413,2025-10,Partnerships,Scale,2025-12,199,56.19,0
+C0414,Olive Labs 414,2025-10,Organic,Starter,2025-10,49,10.3,77
+C0414,Olive Labs 414,2025-10,Organic,Starter,2025-11,49,10.3,0
+C0414,Olive Labs 414,2025-10,Organic,Starter,2025-12,49,10.3,0
+C0415,Sunday Digital 415,2025-10,Organic,Growth,2025-10,99,22.09,98
+C0415,Sunday Digital 415,2025-10,Organic,Growth,2025-11,99,22.09,0
+C0415,Sunday Digital 415,2025-10,Organic,Growth,2025-12,99,22.09,0
+C0416,Studio Design 416,2025-10,Organic,Growth,2025-10,99,21.53,96
+C0416,Studio Design 416,2025-10,Organic,Growth,2025-11,99,21.53,0
+C0416,Studio Design 416,2025-10,Organic,Growth,2025-12,99,21.53,0
+C0417,Pebble Works 417,2025-10,Paid search,Starter,2025-10,49,17.18,250
+C0418,Aster & Co. 418,2025-10,Organic,Starter,2025-10,49,11.19,100
+C0418,Aster & Co. 418,2025-10,Organic,Starter,2025-11,49,11.19,0
+C0418,Aster & Co. 418,2025-10,Organic,Starter,2025-12,49,11.19,0
+C0419,Cove Digital 419,2025-10,Organic,Growth,2025-10,99,23.36,84
+C0419,Cove Digital 419,2025-10,Organic,Growth,2025-11,99,23.36,0
+C0419,Cove Digital 419,2025-10,Organic,Growth,2025-12,99,23.36,0
+C0420,Juniper Digital 420,2025-10,Paid search,Scale,2025-10,199,71.26,321
+C0420,Juniper Digital 420,2025-10,Paid search,Scale,2025-11,199,71.26,0
+C0420,Juniper Digital 420,2025-10,Paid search,Scale,2025-12,199,71.26,0
+C0421,Orbit Collective 421,2025-10,Organic,Growth,2025-10,99,21.76,77
+C0421,Orbit Collective 421,2025-10,Organic,Growth,2025-11,99,21.76,0
+C0421,Orbit Collective 421,2025-10,Organic,Growth,2025-12,99,21.76,0
+C0422,Slate Collective 422,2025-10,Organic,Growth,2025-10,99,22.23,71
+C0422,Slate Collective 422,2025-10,Organic,Growth,2025-11,99,22.23,0
+C0422,Slate Collective 422,2025-10,Organic,Growth,2025-12,99,22.23,0
+C0423,Mosaic Studio 423,2025-10,Organic,Growth,2025-10,99,19.6,83
+C0423,Mosaic Studio 423,2025-10,Organic,Growth,2025-11,99,19.6,0
+C0423,Mosaic Studio 423,2025-10,Organic,Growth,2025-12,99,19.6,0
+C0424,Cedar Design 424,2025-10,Paid search,Scale,2025-10,199,73.41,323
+C0425,Northstar Studio 425,2025-10,Organic,Starter,2025-10,49,11.58,93
+C0425,Northstar Studio 425,2025-10,Organic,Starter,2025-11,49,11.58,0
+C0425,Northstar Studio 425,2025-10,Organic,Starter,2025-12,49,11.58,0
+C0426,Willow Labs 426,2025-10,Organic,Growth,2025-10,99,19.22,98
+C0426,Willow Labs 426,2025-10,Organic,Growth,2025-11,99,19.22,0
+C0426,Willow Labs 426,2025-10,Organic,Growth,2025-12,99,19.22,0
+C0427,Beacon Works 427,2025-10,Organic,Scale,2025-10,199,40.49,96
+C0427,Beacon Works 427,2025-10,Organic,Scale,2025-11,199,40.49,0
+C0428,Forma Works 428,2025-10,Paid search,Starter,2025-10,49,16.41,319
+C0428,Forma Works 428,2025-10,Paid search,Starter,2025-11,49,16.41,0
+C0428,Forma Works 428,2025-10,Paid search,Starter,2025-12,49,16.41,0
+C0429,Atlas Works 429,2025-10,Partnerships,Growth,2025-10,99,24.38,139
+C0429,Atlas Works 429,2025-10,Partnerships,Growth,2025-11,99,24.38,0
+C0429,Atlas Works 429,2025-10,Partnerships,Growth,2025-12,99,24.38,0
+C0430,Bloom Collective 430,2025-10,Organic,Growth,2025-10,99,22.27,77
+C0430,Bloom Collective 430,2025-10,Organic,Growth,2025-11,99,22.27,0
+C0430,Bloom Collective 430,2025-10,Organic,Growth,2025-12,99,22.27,0
+C0431,Kinfolk Digital 431,2025-10,Paid search,Starter,2025-10,49,17.75,317
+C0431,Kinfolk Digital 431,2025-10,Paid search,Starter,2025-11,49,17.75,0
+C0431,Kinfolk Digital 431,2025-10,Paid search,Starter,2025-12,49,17.75,0
+C0432,Lumen Design 432,2025-10,Paid search,Starter,2025-10,49,15.92,322
+C0432,Lumen Design 432,2025-10,Paid search,Starter,2025-11,49,15.92,0
+C0432,Lumen Design 432,2025-10,Paid search,Starter,2025-12,49,15.92,0
+C0433,Tandem Labs 433,2025-10,Paid search,Growth,2025-10,99,33.92,273
+C0434,Olive Works 434,2025-10,Partnerships,Scale,2025-10,199,47.84,181
+C0434,Olive Works 434,2025-10,Partnerships,Scale,2025-11,199,47.84,0
+C0434,Olive Works 434,2025-10,Partnerships,Scale,2025-12,199,47.84,0
+C0435,Sunday Design 435,2025-10,Paid search,Growth,2025-10,99,33.3,328
+C0435,Sunday Design 435,2025-10,Paid search,Growth,2025-11,99,33.3,0
+C0435,Sunday Design 435,2025-10,Paid search,Growth,2025-12,99,33.3,0
+C0436,Studio Labs 436,2025-10,Partnerships,Scale,2025-10,199,48.59,160
+C0436,Studio Labs 436,2025-10,Partnerships,Scale,2025-11,199,48.59,0
+C0436,Studio Labs 436,2025-10,Partnerships,Scale,2025-12,199,48.59,0
+C0437,Pebble Works 437,2025-10,Organic,Starter,2025-10,49,10.64,74
+C0437,Pebble Works 437,2025-10,Organic,Starter,2025-11,49,10.64,0
+C0437,Pebble Works 437,2025-10,Organic,Starter,2025-12,49,10.64,0
+C0438,Aster Design 438,2025-10,Referral,Growth,2025-10,99,19.12,50
+C0438,Aster Design 438,2025-10,Referral,Growth,2025-11,99,19.12,0
+C0438,Aster Design 438,2025-10,Referral,Growth,2025-12,99,19.12,0
+C0439,Cove Design 439,2025-10,Paid search,Starter,2025-10,49,15.91,331
+C0439,Cove Design 439,2025-10,Paid search,Starter,2025-11,49,15.91,0
+C0439,Cove Design 439,2025-10,Paid search,Starter,2025-12,49,15.91,0
+C0440,Juniper Works 440,2025-10,Organic,Starter,2025-10,49,11.31,75
+C0440,Juniper Works 440,2025-10,Organic,Starter,2025-11,49,11.31,0
+C0440,Juniper Works 440,2025-10,Organic,Starter,2025-12,49,11.31,0
+C0441,Orbit Labs 441,2025-10,Paid search,Starter,2025-10,49,17.53,250
+C0442,Slate Works 442,2025-10,Paid search,Growth,2025-10,99,33.53,263
+C0442,Slate Works 442,2025-10,Paid search,Growth,2025-11,99,33.53,0
+C0442,Slate Works 442,2025-10,Paid search,Growth,2025-12,99,33.53,0
+C0443,Mosaic Digital 443,2025-10,Paid search,Starter,2025-10,49,17.71,315
+C0444,Cedar Design 444,2025-10,Organic,Starter,2025-10,49,11.3,68
+C0444,Cedar Design 444,2025-10,Organic,Starter,2025-11,49,11.3,0
+C0444,Cedar Design 444,2025-10,Organic,Starter,2025-12,49,11.3,0
+C0445,Northstar Studio 445,2025-11,Organic,Growth,2025-11,99,23.24,101
+C0445,Northstar Studio 445,2025-11,Organic,Growth,2025-12,99,23.24,0
+C0446,Willow & Co. 446,2025-11,Partnerships,Growth,2025-11,99,28.01,147
+C0446,Willow & Co. 446,2025-11,Partnerships,Growth,2025-12,99,28.01,0
+C0447,Beacon Design 447,2025-11,Paid search,Growth,2025-11,99,35.37,260
+C0447,Beacon Design 447,2025-11,Paid search,Growth,2025-12,99,35.37,0
+C0448,Forma Studio 448,2025-11,Partnerships,Growth,2025-11,99,26.51,145
+C0448,Forma Studio 448,2025-11,Partnerships,Growth,2025-12,99,26.51,0
+C0449,Atlas Studio 449,2025-11,Paid search,Starter,2025-11,49,17.65,316
+C0449,Atlas Studio 449,2025-11,Paid search,Starter,2025-12,49,17.65,0
+C0450,Bloom Systems 450,2025-11,Partnerships,Growth,2025-11,99,23.93,140
+C0450,Bloom Systems 450,2025-11,Partnerships,Growth,2025-12,99,23.93,0
+C0451,Kinfolk Design 451,2025-11,Referral,Growth,2025-11,99,20.42,62
+C0451,Kinfolk Design 451,2025-11,Referral,Growth,2025-12,99,20.42,0
+C0452,Lumen Digital 452,2025-11,Paid search,Starter,2025-11,49,17.8,281
+C0452,Lumen Digital 452,2025-11,Paid search,Starter,2025-12,49,17.8,0
+C0453,Tandem Design 453,2025-11,Organic,Growth,2025-11,99,21.17,75
+C0453,Tandem Design 453,2025-11,Organic,Growth,2025-12,99,21.17,0
+C0454,Olive Studio 454,2025-11,Organic,Scale,2025-11,199,38.04,81
+C0454,Olive Studio 454,2025-11,Organic,Scale,2025-12,199,38.04,0
+C0455,Sunday Design 455,2025-11,Partnerships,Starter,2025-11,49,12.33,180
+C0455,Sunday Design 455,2025-11,Partnerships,Starter,2025-12,49,12.33,0
+C0456,Studio Collective 456,2025-11,Paid search,Growth,2025-11,99,33.93,281
+C0456,Studio Collective 456,2025-11,Paid search,Growth,2025-12,99,33.93,0
+C0457,Pebble Systems 457,2025-11,Organic,Starter,2025-11,49,10.04,75
+C0457,Pebble Systems 457,2025-11,Organic,Starter,2025-12,49,10.04,0
+C0458,Aster Digital 458,2025-11,Paid search,Starter,2025-11,49,17.71,243
+C0458,Aster Digital 458,2025-11,Paid search,Starter,2025-12,49,17.71,0
+C0459,Cove Design 459,2025-11,Organic,Growth,2025-11,99,22.25,91
+C0459,Cove Design 459,2025-11,Organic,Growth,2025-12,99,22.25,0
+C0460,Juniper Labs 460,2025-11,Organic,Scale,2025-11,199,40.02,72
+C0460,Juniper Labs 460,2025-11,Organic,Scale,2025-12,199,40.02,0
+C0461,Orbit Studio 461,2025-11,Partnerships,Starter,2025-11,49,12.36,126
+C0461,Orbit Studio 461,2025-11,Partnerships,Starter,2025-12,49,12.36,0
+C0462,Slate Labs 462,2025-11,Organic,Starter,2025-11,49,10.98,86
+C0462,Slate Labs 462,2025-11,Organic,Starter,2025-12,49,10.98,0
+C0463,Mosaic Collective 463,2025-11,Organic,Starter,2025-11,49,9.92,89
+C0463,Mosaic Collective 463,2025-11,Organic,Starter,2025-12,49,9.92,0
+C0464,Cedar Works 464,2025-11,Organic,Growth,2025-11,99,23.48,74
+C0464,Cedar Works 464,2025-11,Organic,Growth,2025-12,99,23.48,0
+C0465,Northstar Studio 465,2025-11,Paid search,Starter,2025-11,49,16.09,345
+C0465,Northstar Studio 465,2025-11,Paid search,Starter,2025-12,49,16.09,0
+C0466,Willow Collective 466,2025-11,Organic,Starter,2025-11,49,11.24,93
+C0466,Willow Collective 466,2025-11,Organic,Starter,2025-12,49,11.24,0
+C0467,Beacon Design 467,2025-11,Organic,Growth,2025-11,99,23.18,88
+C0467,Beacon Design 467,2025-11,Organic,Growth,2025-12,99,23.18,0
+C0468,Forma Design 468,2025-11,Paid search,Scale,2025-11,199,70.75,332
+C0468,Forma Design 468,2025-11,Paid search,Scale,2025-12,199,70.75,0
+C0469,Atlas Digital 469,2025-11,Organic,Growth,2025-11,99,20.61,94
+C0469,Atlas Digital 469,2025-11,Organic,Growth,2025-12,99,20.61,0
+C0470,Bloom Systems 470,2025-11,Organic,Starter,2025-11,49,11.67,81
+C0470,Bloom Systems 470,2025-11,Organic,Starter,2025-12,49,11.67,0
+C0471,Kinfolk Works 471,2025-11,Organic,Starter,2025-11,49,11.62,77
+C0471,Kinfolk Works 471,2025-11,Organic,Starter,2025-12,49,11.62,0
+C0472,Lumen & Co. 472,2025-11,Organic,Scale,2025-11,199,39.57,76
+C0472,Lumen & Co. 472,2025-11,Organic,Scale,2025-12,199,39.57,0
+C0473,Tandem & Co. 473,2025-11,Paid search,Starter,2025-11,49,16.79,257
+C0474,Olive Digital 474,2025-11,Partnerships,Growth,2025-11,99,23.8,124
+C0474,Olive Digital 474,2025-11,Partnerships,Growth,2025-12,99,23.8,0
+C0475,Sunday Studio 475,2025-11,Paid search,Starter,2025-11,49,17.91,274
+C0475,Sunday Studio 475,2025-11,Paid search,Starter,2025-12,49,17.91,0
+C0476,Studio Collective 476,2025-11,Partnerships,Starter,2025-11,49,13.29,182
+C0476,Studio Collective 476,2025-11,Partnerships,Starter,2025-12,49,13.29,0
+C0477,Pebble Digital 477,2025-11,Organic,Growth,2025-11,99,21.71,92
+C0477,Pebble Digital 477,2025-11,Organic,Growth,2025-12,99,21.71,0
+C0478,Aster Collective 478,2025-11,Organic,Starter,2025-11,49,11.58,97
+C0478,Aster Collective 478,2025-11,Organic,Starter,2025-12,49,11.58,0
+C0479,Cove Design 479,2025-11,Partnerships,Starter,2025-11,49,13.04,128
+C0479,Cove Design 479,2025-11,Partnerships,Starter,2025-12,49,13.04,0
+C0480,Juniper Collective 480,2025-11,Referral,Growth,2025-11,99,20.92,55
+C0480,Juniper Collective 480,2025-11,Referral,Growth,2025-12,99,20.92,0
+C0481,Orbit & Co. 481,2025-11,Referral,Growth,2025-11,99,21.61,66
+C0481,Orbit & Co. 481,2025-11,Referral,Growth,2025-12,99,21.61,0
+C0482,Slate Design 482,2025-11,Paid search,Starter,2025-11,49,18.06,254
+C0482,Slate Design 482,2025-11,Paid search,Starter,2025-12,49,18.06,0
+C0483,Mosaic Labs 483,2025-11,Partnerships,Starter,2025-11,49,12.21,153
+C0483,Mosaic Labs 483,2025-11,Partnerships,Starter,2025-12,49,12.21,0
+C0484,Cedar Digital 484,2025-11,Paid search,Growth,2025-11,99,35.36,281
+C0484,Cedar Digital 484,2025-11,Paid search,Growth,2025-12,99,35.36,0
+C0485,Northstar Design 485,2025-11,Organic,Growth,2025-11,99,22.1,97
+C0485,Northstar Design 485,2025-11,Organic,Growth,2025-12,99,22.1,0
+C0486,Willow Design 486,2025-11,Paid search,Starter,2025-11,49,16.81,275
+C0486,Willow Design 486,2025-11,Paid search,Starter,2025-12,49,16.81,0
+C0487,Beacon & Co. 487,2025-11,Paid search,Starter,2025-11,49,17.39,247
+C0487,Beacon & Co. 487,2025-11,Paid search,Starter,2025-12,49,17.39,0
+C0488,Forma Studio 488,2025-11,Paid search,Growth,2025-11,99,31.78,276
+C0488,Forma Studio 488,2025-11,Paid search,Growth,2025-12,99,31.78,0
+C0489,Atlas & Co. 489,2025-11,Organic,Scale,2025-11,199,45.44,98
+C0489,Atlas & Co. 489,2025-11,Organic,Scale,2025-12,199,45.44,0
+C0490,Bloom Systems 490,2025-11,Organic,Starter,2025-11,49,10.46,75
+C0490,Bloom Systems 490,2025-11,Organic,Starter,2025-12,49,10.46,0
+C0491,Kinfolk Systems 491,2025-11,Organic,Scale,2025-11,199,40.99,90
+C0491,Kinfolk Systems 491,2025-11,Organic,Scale,2025-12,199,40.99,0
+C0492,Lumen & Co. 492,2025-11,Organic,Starter,2025-11,49,10.01,84
+C0492,Lumen & Co. 492,2025-11,Organic,Starter,2025-12,49,10.01,0
+C0493,Tandem Collective 493,2025-11,Organic,Growth,2025-11,99,22.84,83
+C0493,Tandem Collective 493,2025-11,Organic,Growth,2025-12,99,22.84,0
+C0494,Olive & Co. 494,2025-11,Paid search,Growth,2025-11,99,32.94,247
+C0494,Olive & Co. 494,2025-11,Paid search,Growth,2025-12,99,32.94,0
+C0495,Sunday & Co. 495,2025-11,Organic,Scale,2025-11,199,38.86,77
+C0495,Sunday & Co. 495,2025-11,Organic,Scale,2025-12,199,38.86,0
+C0496,Studio Design 496,2025-11,Paid search,Scale,2025-11,199,66.52,325
+C0496,Studio Design 496,2025-11,Paid search,Scale,2025-12,199,66.52,0
+C0497,Pebble & Co. 497,2025-11,Referral,Starter,2025-11,49,9.74,57
+C0497,Pebble & Co. 497,2025-11,Referral,Starter,2025-12,49,9.74,0
+C0498,Aster Collective 498,2025-11,Paid search,Starter,2025-11,49,17.06,321
+C0498,Aster Collective 498,2025-11,Paid search,Starter,2025-12,49,17.06,0
+C0499,Cove Works 499,2025-11,Partnerships,Growth,2025-11,99,26.67,166
+C0499,Cove Works 499,2025-11,Partnerships,Growth,2025-12,99,26.67,0
+C0500,Juniper Digital 500,2025-11,Paid search,Growth,2025-11,99,35.73,291
+C0500,Juniper Digital 500,2025-11,Paid search,Growth,2025-12,99,35.73,0
+C0501,Orbit Systems 501,2025-11,Organic,Growth,2025-11,99,19.44,99
+C0501,Orbit Systems 501,2025-11,Organic,Growth,2025-12,99,19.44,0
+C0502,Slate Collective 502,2025-11,Organic,Growth,2025-11,99,22.32,74
+C0502,Slate Collective 502,2025-11,Organic,Growth,2025-12,99,22.32,0
+C0503,Mosaic Digital 503,2025-11,Paid search,Starter,2025-11,49,17.53,305
+C0503,Mosaic Digital 503,2025-11,Paid search,Starter,2025-12,49,17.53,0
+C0504,Cedar Collective 504,2025-11,Referral,Starter,2025-11,49,9.51,58
+C0504,Cedar Collective 504,2025-11,Referral,Starter,2025-12,49,9.51,0
+C0505,Northstar Labs 505,2025-11,Paid search,Starter,2025-11,49,16.23,324
+C0505,Northstar Labs 505,2025-11,Paid search,Starter,2025-12,49,16.23,0
+C0506,Willow Studio 506,2025-12,Organic,Growth,2025-12,99,21.72,87
+C0507,Beacon Collective 507,2025-12,Organic,Starter,2025-12,49,10.17,101
+C0508,Forma Collective 508,2025-12,Partnerships,Starter,2025-12,49,11.91,138
+C0509,Atlas Studio 509,2025-12,Organic,Growth,2025-12,99,23.08,97
+C0510,Bloom Labs 510,2025-12,Organic,Starter,2025-12,49,10.04,72
+C0511,Kinfolk Collective 511,2025-12,Partnerships,Growth,2025-12,99,24.08,167
+C0512,Lumen Labs 512,2025-12,Paid search,Starter,2025-12,49,16.54,326
+C0513,Tandem Collective 513,2025-12,Organic,Starter,2025-12,49,11.11,92
+C0514,Olive Digital 514,2025-12,Paid search,Starter,2025-12,49,17.81,242
+C0515,Sunday Digital 515,2025-12,Paid search,Growth,2025-12,99,32.93,262
+C0516,Studio Digital 516,2025-12,Paid search,Starter,2025-12,49,17.99,244
+C0517,Pebble Collective 517,2025-12,Paid search,Starter,2025-12,49,17.17,296
+C0518,Aster Labs 518,2025-12,Partnerships,Growth,2025-12,99,25.35,141
+C0519,Cove Systems 519,2025-12,Organic,Scale,2025-12,199,44.74,74
+C0520,Juniper Labs 520,2025-12,Partnerships,Growth,2025-12,99,25.6,153
+C0521,Orbit Collective 521,2025-12,Organic,Growth,2025-12,99,22.86,78
+C0522,Slate Studio 522,2025-12,Organic,Starter,2025-12,49,10.83,90
+C0523,Mosaic & Co. 523,2025-12,Paid search,Starter,2025-12,49,16.25,261
+C0524,Cedar Systems 524,2025-12,Organic,Growth,2025-12,99,22.38,101
+C0525,Northstar & Co. 525,2025-12,Partnerships,Growth,2025-12,99,25.83,126
+C0526,Willow & Co. 526,2025-12,Paid search,Starter,2025-12,49,17.37,335
+C0527,Beacon Collective 527,2025-12,Organic,Scale,2025-12,199,46.69,97
+C0528,Forma Collective 528,2025-12,Referral,Starter,2025-12,49,10.32,53
+C0529,Atlas Collective 529,2025-12,Paid search,Starter,2025-12,49,17.9,300
+C0530,Bloom Works 530,2025-12,Referral,Growth,2025-12,99,18.79,61
+C0531,Kinfolk Collective 531,2025-12,Partnerships,Starter,2025-12,49,11.91,170
+C0532,Lumen Labs 532,2025-12,Paid search,Starter,2025-12,49,17.63,339
+C0533,Tandem Collective 533,2025-12,Partnerships,Starter,2025-12,49,12.22,162
+C0534,Olive Design 534,2025-12,Organic,Starter,2025-12,49,9.39,100
+C0535,Sunday Works 535,2025-12,Organic,Growth,2025-12,99,20.82,88
+C0536,Studio Systems 536,2025-12,Paid search,Growth,2025-12,99,33.88,279
+C0537,Pebble Design 537,2025-12,Paid search,Scale,2025-12,199,70.16,325
+C0538,Aster Works 538,2025-12,Organic,Starter,2025-12,49,9.78,86
+C0539,Cove Studio 539,2025-12,Partnerships,Starter,2025-12,49,13.2,183
+C0540,Juniper Digital 540,2025-12,Organic,Starter,2025-12,49,10.61,68
+C0541,Orbit Design 541,2025-12,Paid search,Starter,2025-12,49,16.98,342
+C0542,Slate Works 542,2025-12,Referral,Scale,2025-12,199,34,47
+C0543,Mosaic Systems 543,2025-12,Paid search,Growth,2025-12,99,31.82,296
+C0544,Cedar Works 544,2025-12,Referral,Starter,2025-12,49,8.37,59
+C0545,Northstar Collective 545,2025-12,Paid search,Starter,2025-12,49,17.86,234
+C0546,Willow Digital 546,2025-12,Referral,Growth,2025-12,99,18.19,44
+C0547,Beacon & Co. 547,2025-12,Organic,Scale,2025-12,199,40.11,86
+C0548,Forma Works 548,2025-12,Paid search,Growth,2025-12,99,31.84,254
+C0549,Atlas Collective 549,2025-12,Partnerships,Starter,2025-12,49,14,159
+C0550,Bloom Collective 550,2025-12,Partnerships,Growth,2025-12,99,27.26,140
+C0551,Kinfolk Design 551,2025-12,Referral,Growth,2025-12,99,19.12,52
+C0552,Lumen & Co. 552,2025-12,Paid search,Starter,2025-12,49,17.63,250
+C0553,Tandem Digital 553,2025-12,Paid search,Growth,2025-12,99,33.66,238
+C0554,Olive Collective 554,2025-12,Organic,Growth,2025-12,99,21.7,86
+C0555,Sunday Studio 555,2025-12,Organic,Starter,2025-12,49,11.14,99
+C0556,Studio Digital 556,2025-12,Partnerships,Growth,2025-12,99,28.62,140
+C0557,Pebble Design 557,2025-12,Partnerships,Growth,2025-12,99,26.48,177
+C0558,Aster Collective 558,2025-12,Organic,Starter,2025-12,49,10.49,82
+C0559,Cove Labs 559,2025-12,Paid search,Starter,2025-12,49,16.94,329
+C0560,Juniper Digital 560,2025-12,Paid search,Starter,2025-12,49,16.16,280
+C0561,Orbit Systems 561,2025-12,Paid search,Growth,2025-12,99,34.1,240
+C0562,Slate Collective 562,2025-12,Organic,Growth,2025-12,99,22.02,97
+C0563,Mosaic Systems 563,2025-12,Referral,Starter,2025-12,49,9.15,53
+C0564,Cedar Collective 564,2025-12,Referral,Scale,2025-12,199,39.18,57
+C0565,Northstar Collective 565,2025-12,Organic,Growth,2025-12,99,19.55,88
+C0566,Willow Design 566,2025-12,Referral,Starter,2025-12,49,9.57,65
+C0567,Beacon Systems 567,2025-12,Organic,Growth,2025-12,99,21.74,75
+C0568,Forma Studio 568,2025-12,Partnerships,Starter,2025-12,49,12.86,164
+C0569,Atlas Works 569,2025-12,Organic,Growth,2025-12,99,20.71,89
+C0570,Bloom & Co. 570,2025-12,Paid search,Starter,2025-12,49,15.98,332
