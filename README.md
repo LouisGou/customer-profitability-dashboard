@@ -2,6 +2,8 @@
 
 A Vue dashboard that helps explore which customers stay, how much gross profit they generate, and whether acquisition costs have been recovered.
 
+[Open the live dashboard](https://customer-profitability-dashboard.vercel.app/) · [GitHub repository](https://github.com/LouisGou/customer-profitability-dashboard)
+
 ## Run locally
 
 Requires Node.js 22.12+ (or a newer supported release).
