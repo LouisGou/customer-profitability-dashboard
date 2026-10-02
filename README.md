@@ -1,13 +1,13 @@
 # Margin — Customer Profitability Dashboard
 
-A local Vue app that helps explore which customers stay, how much gross profit they generate, and whether acquisition costs have been recovered.
+A Vue dashboard that helps explore which customers stay, how much gross profit they generate, and whether acquisition costs have been recovered.
 
 ## Run locally
 
 Requires Node.js 22.12+ (or a newer supported release).
 
 ```sh
-cd /Users/louis/Documents/Codex/customer-profitability-dashboard
+cd customer-profitability-dashboard
 npm ci
 npm run dev
 ```
@@ -20,6 +20,17 @@ npm run build
 ```
 
 The dashboard runs locally without account integrations or an external database.
+
+## Deploy to Vercel
+
+The repository includes `vercel.json` with the Vite framework preset, `npm ci` installation, `dist` output, and `npm test && npm run build` as the deployment build command. A failed regression check stops the deployment before assets are built. No environment variables are required for this version.
+
+1. Push this project to a GitHub repository and connect that repository when importing a project in Vercel.
+2. Select the directory containing `package.json` as the project root. Use a supported Node.js LTS version satisfying `package.json` (22.12+) and the settings from `vercel.json`.
+3. Deploy and open the URL Vercel assigns after the build succeeds. Check Overview, Retention cohorts, Customers, and a sample CSV import on that deployment.
+4. With the GitHub integration connected, pushes to the configured production branch trigger production deployments; other branch pushes and pull requests receive preview deployments.
+
+See [Vercel's Vite guide](https://vercel.com/docs/frameworks/frontend/vite) and [GitHub deployment guide](https://vercel.com/docs/git/vercel-for-github) for the current platform workflow. Local Vercel metadata and environment files are excluded from Git by `.gitignore`.
 
 ## Features
 
